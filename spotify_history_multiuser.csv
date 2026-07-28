@@ -1,0 +1,1501 @@
+ts,track_name,artist_name,album_name,ms_play,reason_start,reason_end,shuffle,skipped,user_id,replayed_within_30_days
+2013-07-10 08:30:00,Moth's Wings,Passion Pit,Manners,147536,unknown,unknown,False,True,user_01,0
+2015-01-12 22:21:00,XO,John Mayer,XO,31227,appload,trackdone,False,False,user_01,0
+2015-01-12 22:25:00,Mr. Jones,Counting Crows,August And Everything After,272506,trackdone,trackdone,False,False,user_01,0
+2015-08-05 23:55:00,Working Man,Rush,Rush,43353,clickrow,endplay,True,True,user_01,0
+2015-08-06 06:55:00,XO,John Mayer,XO,43670,clickrow,endplay,True,True,user_01,0
+2015-08-06 23:43:00,That's Life,Frank Sinatra,Ultimate Sinatra,186133,fwdbtn,trackdone,False,False,user_01,0
+2015-08-07 20:25:00,Different Colors,WALK THE MOON,TALKING IS HARD,32275,clickrow,endplay,True,True,user_01,0
+2015-08-12 03:50:00,Haunt - Demo,Bastille,Bad Blood,173973,trackdone,trackdone,False,False,user_01,0
+2015-08-12 06:07:00,Your Body Is a Wonderland,John Mayer,Room For Squares,2043,fwdbtn,fwdbtn,False,True,user_01,1
+2015-08-22 20:09:00,Destination Calabria - Radio Edit,Alex Gaudino,Destination Calabria (Radio Edit) [feat. Crystal Waters],7208,fwdbtn,fwdbtn,False,True,user_01,0
+2015-08-25 00:02:00,Photograph,Ed Sheeran,x,0,fwdbtn,fwdbtn,True,True,user_01,1
+2015-08-27 01:24:00,No Role Modelz,J. Cole,2014 Forest Hills Drive,49646,clickrow,endplay,False,True,user_01,0
+2015-08-28 01:44:00,The Monster,Eminem,The Marshall Mathers LP2,2531,appload,endplay,True,True,user_01,0
+2015-08-30 21:01:00,Backwards,Tame Impala,Divergent: Original Motion Picture Soundtrack,17634,,,False,True,user_01,1
+2015-09-01 01:41:00,Maps,Maroon 5,V,1857,fwdbtn,fwdbtn,True,True,user_01,0
+2015-09-01 02:06:00,Sprinter,TORRES,Sprinter,101285,trackdone,fwdbtn,True,True,user_01,0
+2015-09-09 20:30:00,Shabadabada,OV7,Lo Mejor De OV7,1531,appload,endplay,True,True,user_01,1
+2015-09-10 02:36:00,Home To Mama,Justin Bieber,Home To Mama,1532,appload,endplay,True,True,user_01,1
+2015-09-10 03:16:00,El Cholo,Gerardo Ortiz,Hoy Más Fuerte,3853,appload,endplay,True,True,user_01,0
+2015-09-19 02:47:00,Young Volcanoes,Fall Out Boy,Save Rock And Roll,204506,trackdone,trackdone,False,False,user_01,1
+2015-09-24 04:38:00,The Music of the Night - Single Album Version,Andrew Lloyd Webber,The Phantom of the Opera (Original Motion Picture Soundtrack),147951,clickrow,endplay,False,True,user_01,0
+2015-09-28 21:13:00,Esclavo De Sus Besos,David Bisbal,Sin Mirar Atrás,2972,clickrow,endplay,True,True,user_01,1
+2015-10-02 23:44:00,Paraíso,Dvicio,Paraíso,8173,backbtn,backbtn,False,True,user_01,1
+2015-10-04 02:54:00,Diez Mil Maneras,David Bisbal,Tú Y Yo,3043,appload,endplay,False,True,user_01,1
+2015-10-08 07:35:00,The Bends,Radiohead,The Bends,76863,clickrow,endplay,True,True,user_01,0
+2015-10-08 15:17:00,A Little Less Conversation,Elvis Presley,Ocean's Eleven (Music from the Motion Picture),25124,clickrow,endplay,True,True,user_01,0
+2015-10-16 23:13:00,Paint It Black - Stereo Version,The Rolling Stones,Aftermath,1857,fwdbtn,fwdbtn,False,True,user_01,1
+2015-10-17 06:11:00,I Got The Blues - 2009 Mix,The Rolling Stones,Sticky Fingers,196765,clickrow,endplay,True,True,user_01,0
+2015-10-22 22:46:00,Around And Around,The Rolling Stones,12 X 5,86020,clickrow,endplay,True,True,user_01,0
+2015-10-25 00:12:00,Sorry,Justin Bieber,Sorry,200786,clickrow,trackdone,True,False,user_01,1
+2015-10-25 01:25:00,Blue in Green (feat. John Coltrane & Bill Evans),Miles Davis,Kind Of Blue (Legacy Edition),286472,clickrow,fwdbtn,True,True,user_01,0
+2015-10-27 21:13:00,The Village Green Preservation Society - Stereo Version,The Kinks,The Village Green Preservation Society,4946,fwdbtn,fwdbtn,True,True,user_01,0
+2015-10-31 04:18:00,The Times They Are A-Changin',Bob Dylan,The Times They Are A-Changin',159010,trackdone,fwdbtn,True,True,user_01,0
+2015-10-31 04:34:00,You Can't Always Get What You Want,The Rolling Stones,Let It Bleed,3808,fwdbtn,fwdbtn,True,True,user_01,0
+2016-06-06 03:29:00,Picky - Remix,Joey Montana,Picky,23565,clickrow,endplay,True,False,user_01,0
+2016-06-07 09:16:00,Hey Tonight,Creedence Clearwater Revival,Chronicle: 20 Greatest Hits,6767,fwdbtn,fwdbtn,True,False,user_01,0
+2016-06-07 09:18:00,Blitzkrieg Bop - 2001 Remastered Version,Ramones,Ramones,49224,fwdbtn,fwdbtn,True,False,user_01,1
+2016-06-17 17:52:00,You're A Heartbreaker - 2004 DSD remaster,Elvis Presley,Elvis At Sun,130760,trackdone,trackdone,True,False,user_01,0
+2016-06-24 00:34:00,Crazy Train,Ozzy Osbourne,Blizzard of Ozz (Expanded Edition),296080,clickrow,trackdone,True,False,user_01,1
+2016-07-05 08:25:00,Where the Boat Leaves From,Zac Brown Band,The Foundation,13816,trackdone,endplay,True,False,user_01,0
+2016-07-05 20:04:00,Work Song,Hozier,Hozier,1207,fwdbtn,fwdbtn,True,True,user_01,0
+2016-07-17 22:37:00,Barcelona,George Ezra,Wanted on Voyage,188960,trackdone,trackdone,False,False,user_01,1
+2016-07-18 19:52:00,Twist And Shout - Remastered 2009,The Beatles,Please Please Me,155226,trackdone,trackdone,True,False,user_01,1
+2016-07-21 23:07:00,In Repair - Acoustic,John Mayer,The Village Sessions,347133,trackdone,trackdone,True,False,user_01,0
+2016-07-23 16:20:00,Houses of the Holy - 1990 Remaster,Led Zeppelin,Physical Graffiti,242080,clickrow,trackdone,False,False,user_01,1
+2016-08-02 04:23:00,Saturday Night (Is The Loneliest Night In The Week),Frank Sinatra,The Essential Frank Sinatra,2783,trackdone,endplay,True,False,user_01,0
+2016-08-05 04:27:00,Riviera Paradise,Stevie Ray Vaughan,The Essential Stevie Ray Vaughan And Double Trouble,530466,trackdone,trackdone,True,False,user_01,1
+2016-08-13 03:42:00,Hot House Of Omagararshid,The Yardbirds,Roger The Engineer / Over Under Sideways Down,5572,trackdone,,False,True,user_01,0
+2016-08-16 00:22:00,Friends - Remaster,Led Zeppelin,Led Zeppelin III,22839,clickrow,endplay,True,False,user_01,0
+2016-08-17 03:59:00,Human,Of Monsters and Men,Beneath The Skin,237813,trackdone,trackdone,False,False,user_01,0
+2016-08-18 14:34:00,Trying To Get To You - 2004 DSD remaster,Elvis Presley,Elvis At Sun,151600,fwdbtn,trackdone,True,False,user_01,0
+2016-08-18 21:57:00,"I Still Miss Someone - Live at Folsom State Prison, Folsom, CA (1st Show) - January 1968",Johnny Cash,At Folsom Prison,96960,trackdone,trackdone,False,False,user_01,1
+2016-08-19 13:35:00,You Upset Me Baby,B.B. King,Live At The Regal,84038,trackdone,logout,False,False,user_01,0
+2016-08-19 23:37:00,"I Still Miss Someone - Live at Folsom State Prison, Folsom, CA (1st Show) - January 1968",Johnny Cash,At Folsom Prison,94040,fwdbtn,endplay,True,False,user_01,1
+2016-08-26 14:23:00,Hellhound On My Trail,Robert Johnson,King Of The Delta Blues,154466,trackdone,trackdone,True,False,user_01,0
+2016-08-28 07:00:00,"So What (feat. John Coltrane, Cannonball Adderley & Bill Evans)",Miles Davis,Kind Of Blue (Legacy Edition),562640,,trackdone,False,False,user_01,0
+2016-08-29 07:09:00,The Stumble,John Mayall & The Bluesbreakers,A Hard Road,175400,trackdone,trackdone,True,False,user_01,1
+2016-09-07 00:07:00,Meet Me in the Morning,Bob Dylan,Blood On The Tracks,111270,trackdone,,True,True,user_01,0
+2016-09-09 20:19:00,Good Evening Mr. Waldheim,Lou Reed,New York,190,fwdbtn,fwdbtn,True,False,user_01,1
+2016-09-09 21:16:00,Beginning of a Great Adventure,Lou Reed,New York,4185,trackdone,fwdbtn,True,False,user_01,0
+2016-09-11 16:13:00,Ball And Biscuit,The White Stripes,Elephant,15060,clickrow,unexpected-exit-while-paused,True,False,user_01,1
+2016-09-22 06:44:00,Bad Moon Rising,Creedence Clearwater Revival,Green River,1990,fwdbtn,fwdbtn,True,False,user_01,1
+2016-10-01 06:32:00,¿Con Quién Se Queda El Perro?,Jesse & Joy,¿Con Quién Se Queda El Perro?,3686,trackdone,fwdbtn,True,False,user_01,0
+2016-10-01 07:02:00,Another Man - Mono,John Mayall & The Bluesbreakers,Bluesbreakers,4305,clickrow,endplay,True,False,user_01,0
+2016-10-12 07:36:00,Historia de un amor,Pedro Infante,Colección de Lujo,6405,fwdbtn,fwdbtn,True,False,user_01,0
+2016-10-12 07:59:00,El Hijo Desobediente,Antonio Aguilar,Corridos Antonio Aguilar,92203,clickrow,endplay,True,False,user_01,1
+2016-10-28 06:51:00,Dust,The Mud Howlers,Timeliness,2649,fwdbtn,fwdbtn,True,False,user_01,0
+2016-11-05 00:59:00,"Yer Blues - Live ""Rock And Roll Circus"" Version",The Dirty Mac,Rock 'n' Roll Circus,266626,trackdone,trackdone,True,False,user_01,0
+2016-11-09 23:40:00,I'm Gonna Catch You,The Mud Howlers,R.R.R,180653,trackdone,trackdone,True,False,user_01,1
+2016-11-28 22:26:00,Holy Roller Novocaine,Kings of Leon,Youth And Young Manhood,243000,trackdone,trackdone,True,False,user_01,1
+2016-11-30 04:22:00,And Your Bird Can Sing - Remastered 2009,The Beatles,Revolver,87112,fwdbtn,fwdbtn,True,False,user_01,1
+2016-11-30 21:12:00,Everybody's Got Something To Hide Except Me And My Monkey - Remastered 2009,The Beatles,The Beatles,7014,fwdbtn,fwdbtn,True,False,user_01,1
+2016-12-01 07:25:00,Papercut,Linkin Park,Hybrid Theory,64254,clickrow,endplay,True,False,user_01,0
+2016-12-01 07:41:00,The Air Near My Fingers,The White Stripes,Elephant,0,fwdbtn,fwdbtn,True,False,user_01,0
+2016-12-02 06:34:00,You Really Got A Hold On Me - Remastered 2009,The Beatles,With The Beatles,37978,fwdbtn,fwdbtn,True,False,user_01,1
+2016-12-03 00:48:00,Eight Days A Week - Remastered 2009,The Beatles,Beatles For Sale,13514,trackdone,fwdbtn,True,False,user_01,0
+2016-12-05 00:25:00,Runaways,The Killers,Battle Born,2321,fwdbtn,fwdbtn,True,True,user_01,1
+2016-12-05 07:49:00,Crocodile Rock,Elton John,Rocket Man,104274,clickrow,endplay,True,False,user_01,0
+2016-12-07 02:29:00,Burning Love,Elvis Presley,If I Can Dream: Elvis Presley with the Royal Philharmonic Orchestra,209760,clickrow,trackdone,True,False,user_01,1
+2016-12-07 02:37:00,Yes I'm Changing,Tame Impala,Currents,4336,fwdbtn,fwdbtn,True,False,user_01,0
+2016-12-08 06:58:00,Beat It,Michael Jackson,Thriller 25 Super Deluxe Edition,5211,trackdone,fwdbtn,True,False,user_01,0
+2016-12-09 04:32:00,I Got a Woman,Elvis Presley,Elvis 75 - Good Rockin' Tonight,14210,clickrow,endplay,True,False,user_01,1
+2016-12-09 04:32:00,My Baby Left Me,Elvis Presley,Elvis 75 - Good Rockin' Tonight,19319,clickrow,endplay,True,False,user_01,0
+2016-12-09 20:46:00,Long Tall Sally,Little Richard,The Georgia Peach,92741,clickrow,endplay,True,False,user_01,1
+2016-12-12 17:04:00,"Walt Grace's Submarine Test, January 1967",John Mayer,Born and Raised,28225,clickrow,unexpected-exit-while-paused,True,False,user_01,0
+2016-12-15 17:54:00,Walking On A Dream,Empire Of The Sun,Walking On A Dream,1120,clickrow,endplay,False,False,user_01,1
+2016-12-15 19:21:00,Mr. Winter,The Maine,Can't Stop Won't Stop (Holiday Deluxe Edition),3810,clickrow,endplay,True,False,user_01,0
+2016-12-16 06:22:00,Sail,AWOLNATION,Megalithic Symphony Deluxe,82786,trackdone,fwdbtn,True,False,user_01,1
+2016-12-19 18:07:00,Summer Wind,Frank Sinatra,Ultimate Sinatra,62820,clickrow,endplay,False,False,user_01,1
+2016-12-21 09:29:00,Beyond the Sea,Bobby Darin,The Ultimate Bobby Darin,18966,fwdbtn,endplay,True,False,user_01,1
+2016-12-21 09:30:00,Are You Havin' Any Fun?,Tony Bennett,Strike Up The Band (Digitally Remastered),57648,clickrow,endplay,False,False,user_01,0
+2016-12-23 00:23:00,Ahora,Matisse,Sube,204520,clickrow,trackdone,True,False,user_01,0
+2016-12-24 20:47:00,That's Life,Frank Sinatra,Ultimate Sinatra,186133,trackdone,trackdone,True,False,user_01,1
+2016-12-28 01:01:00,Love Lost,The Temper Trap,Conditions,213386,trackdone,trackdone,True,False,user_01,1
+2016-12-28 01:01:00,Love Drunk,BOYS LIKE GIRLS,Love Drunk,0,fwdbtn,fwdbtn,True,False,user_01,1
+2016-12-29 16:21:00,The Door Is Still Open to My Heart,Dean Martin,The Essential Dean Martin,171986,trackdone,trackdone,True,False,user_01,1
+2016-12-31 18:01:00,Diggin' Up The Heart,Brandon Flowers,The Desired Effect,229813,trackdone,trackdone,True,False,user_01,1
+2017-01-02 19:36:00,Cheating,Alex & Sierra,It's About Us,576,fwdbtn,fwdbtn,True,False,user_01,1
+2017-01-03 02:18:00,Volare (Nel Blu Di Pinto Di Blu) - Remastered 1998,Dean Martin,This Is Dean Martin,2860,fwdbtn,fwdbtn,True,False,user_01,0
+2017-01-03 06:04:00,Mack the Knife,Bobby Darin,That's All,81090,trackdone,fwdbtn,True,False,user_01,0
+2017-01-04 07:49:00,Ticket To Ride - Remastered 2009,The Beatles,Help!,189680,trackdone,trackdone,True,False,user_01,1
+2017-01-04 22:07:00,Come Together - Remastered 2009,The Beatles,Abbey Road,259946,trackdone,trackdone,True,False,user_01,0
+2017-01-06 04:19:00,Hopelessly Stoned,Hugo,Old Tyme Religion,7037,fwdbtn,fwdbtn,True,False,user_01,0
+2017-01-06 06:44:00,Speak For Me,John Mayer,Born and Raised,6173,fwdbtn,fwdbtn,True,False,user_01,0
+2017-01-06 20:07:00,Switzerland,The Last Bison,Inheritance,309613,trackdone,trackdone,True,False,user_01,0
+2017-01-07 19:32:00,Lady Godiva's Operation,The Velvet Underground,White Light / White Heat,22688,fwdbtn,fwdbtn,True,False,user_01,0
+2017-01-08 09:24:00,Astronaut,Simple Plan,Get Your Heart On!,1937,fwdbtn,fwdbtn,True,False,user_01,1
+2017-01-08 09:57:00,Fuiste Tú (feat. Gaby Moreno),Ricardo Arjona,Independiente + Demos,1192,fwdbtn,fwdbtn,True,False,user_01,0
+2017-01-08 21:10:00,Visions of Johanna,Bob Dylan,Blonde On Blonde,290195,fwdbtn,fwdbtn,True,False,user_01,0
+2017-01-09 08:37:00,Not Today,Imagine Dragons,Me Before You,16682,fwdbtn,fwdbtn,True,False,user_01,1
+2017-01-10 02:30:00,Tumbling Dice,The Rolling Stones,Exile On Main St,928,backbtn,backbtn,True,False,user_01,1
+2017-01-10 03:32:00,Time to Pretend,MGMT,Oracular Spectacular,261000,trackdone,trackdone,True,False,user_01,1
+2017-01-11 06:26:00,"Dark as the Dungeon - Live at Folsom State Prison, Folsom, CA - January 1968",Johnny Cash,At Folsom Prison,2593,fwdbtn,fwdbtn,True,False,user_01,0
+2017-01-11 19:46:00,What's Up?,4 Non Blondes,"Bigger, Better, Faster, More !",2579,fwdbtn,fwdbtn,True,False,user_01,0
+2017-01-12 02:16:00,There Is No Time,Lou Reed,New York,19521,fwdbtn,fwdbtn,True,False,user_01,1
+2017-01-12 05:34:00,Unbelievers,Vampire Weekend,Modern Vampires of the City,202666,backbtn,trackdone,True,False,user_01,0
+2017-01-15 02:16:00,The World We Live In,The Killers,Day & Age,2456,fwdbtn,fwdbtn,True,False,user_01,0
+2017-01-15 02:20:00,From Afar,Vance Joy,Dream Your Life Away,1553,fwdbtn,fwdbtn,True,False,user_01,1
+2017-01-15 06:19:00,Na De Na,Angel Y Khriz,Showtime,202866,trackdone,trackdone,True,False,user_01,0
+2017-01-15 08:57:00,No Surprises,Radiohead,OK Computer,1888,fwdbtn,fwdbtn,True,False,user_01,1
+2017-01-15 08:57:00,I'll Be Your Mirror,The Velvet Underground,The Velvet Underground & Nico 45th Anniversary,814,fwdbtn,fwdbtn,True,False,user_01,1
+2017-01-19 00:08:00,Menacing Mind,The Mud Howlers,Timeliness,122451,clickrow,fwdbtn,True,False,user_01,0
+2017-01-19 04:23:00,Kids,MGMT,Oracular Spectacular,2164,fwdbtn,fwdbtn,True,False,user_01,1
+2017-01-19 16:23:00,Everybody's Got Something To Hide Except Me And My Monkey - Remastered 2009,The Beatles,The Beatles,2942,fwdbtn,fwdbtn,True,False,user_01,0
+2017-01-21 01:00:00,Through the Dark,One Direction,Midnight Memories (Deluxe),3025,clickrow,endplay,True,False,user_01,0
+2017-01-23 20:53:00,God - Remastered 2010,John Lennon,Plastic Ono Band,252773,trackdone,trackdone,True,False,user_01,1
+2017-01-23 22:11:00,Crash into Me,Dave Matthews Band,Crash,316466,trackdone,trackdone,True,False,user_01,0
+2017-02-06 07:32:00,I'll Be Your Mirror,The Velvet Underground,The Velvet Underground & Nico 45th Anniversary,134040,trackdone,trackdone,True,False,user_01,1
+2017-02-08 14:26:00,Alchemist Gold,The Mud Howlers,Timeliness,234346,trackdone,trackdone,False,False,user_01,1
+2017-02-12 01:10:00,Marry Me,Train,"Save Me, San Francisco (Golden Gate Edition)",205453,trackdone,trackdone,True,False,user_01,1
+2017-02-12 17:39:00,Something - Remastered 2009,The Beatles,Abbey Road,182293,fwdbtn,trackdone,True,False,user_01,1
+2017-02-12 17:39:00,Sgt. Pepper's Lonely Hearts Club Band - Reprise / Remastered 2009,The Beatles,Sgt. Pepper's Lonely Hearts Club Band,79066,trackdone,trackdone,True,False,user_01,0
+2017-02-12 23:23:00,Nowhere Man - Remastered 2009,The Beatles,Rubber Soul,24108,trackdone,unexpected-exit-while-paused,True,False,user_01,1
+2017-02-17 13:06:00,Classy Girl,The Lumineers,The Lumineers,1197,fwdbtn,fwdbtn,True,False,user_01,0
+2017-03-10 13:01:00,Icky Thump,The White Stripes,Icky Thump,189887,clickrow,fwdbtn,True,False,user_01,1
+2017-03-11 05:35:00,Kiss Me,Ed Sheeran,+,280853,trackdone,trackdone,True,False,user_01,1
+2017-03-11 07:55:00,Summer Wind,Frank Sinatra,Ultimate Sinatra,174840,trackdone,trackdone,True,False,user_01,1
+2017-03-11 09:16:00,Beyond the Sea,Bobby Darin,That's All,117115,trackdone,unexpected-exit-while-paused,True,False,user_01,1
+2017-03-11 20:46:00,Still Feel Like Your Man,John Mayer,The Search for Everything - Wave Two,236693,trackdone,trackdone,False,False,user_01,1
+2017-03-13 13:22:00,Life Support,Sam Smith,In The Lonely Hour,1205,fwdbtn,fwdbtn,True,False,user_01,0
+2017-03-18 17:11:00,Till There Was You - Remastered 2009,The Beatles,With The Beatles,133506,clickrow,trackdone,False,False,user_01,1
+2017-03-22 12:46:00,Read My Mind,The Killers,Sam's Town,246840,trackdone,trackdone,True,False,user_01,1
+2017-03-22 18:22:00,There Is No Time,Lou Reed,New York,226306,clickrow,trackdone,True,False,user_01,1
+2017-03-24 02:08:00,Who Am I,Vance Joy,Dream Your Life Away,159600,trackdone,trackdone,False,False,user_01,1
+2017-03-24 03:06:00,Like Real People Do,Hozier,Hozier,198029,trackdone,trackdone,False,False,user_01,0
+2017-03-27 12:05:00,Preacher,OneRepublic,Native,696,fwdbtn,fwdbtn,True,False,user_01,0
+2017-03-29 21:59:00,House Of The Rising Sun,Joan Baez,Joan Baez,85309,clickrow,endplay,True,False,user_01,0
+2017-03-30 20:55:00,From Yesterday,Thirty Seconds To Mars,A Beautiful Lie,2351,fwdbtn,fwdbtn,True,False,user_01,0
+2017-04-03 13:22:00,Nothing,The Script,Science & Faith,1241,fwdbtn,fwdbtn,True,False,user_01,0
+2017-04-04 08:18:00,Bob Dylan's Blues,Bob Dylan,The Freewheelin' Bob Dylan,26962,clickrow,endplay,True,False,user_01,1
+2017-04-04 08:36:00,Love Is A Verb,John Mayer,Born and Raised,1214,clickrow,endplay,True,False,user_01,1
+2017-04-04 09:14:00,"I Got Stripes - Live at Folsom State Prison, Folsom, CA (2nd Show) - January 1968",Johnny Cash,At Folsom Prison,105573,trackdone,trackdone,True,False,user_01,1
+2017-04-04 14:21:00,Jigsaw Falling Into Place,Radiohead,In Rainbows,163932,trackdone,fwdbtn,True,False,user_01,0
+2017-04-09 11:35:00,My Eyes,The Lumineers,Cleopatra,47435,fwdbtn,fwdbtn,False,False,user_01,0
+2017-04-09 12:25:00,Your Time Is Gonna Come - Remaster,Led Zeppelin,Led Zeppelin,274693,trackdone,trackdone,True,False,user_01,0
+2017-04-15 23:05:00,"In Your Atmosphere - Live at the Nokia Theatre, Los Angeles, CA - December 2007",John Mayer,Where the Light Is: John Mayer Live In Los Angeles,4696,fwdbtn,endplay,True,False,user_01,1
+2017-04-15 23:23:00,You're Gonna Live Forever in Me,John Mayer,The Search for Everything,190013,trackdone,trackdone,False,False,user_01,1
+2017-04-16 21:26:00,Black or White - Single Version,Michael Jackson,The Essential Michael Jackson,178767,trackdone,logout,True,False,user_01,0
+2017-04-17 19:03:00,Kansas City / Hey-Hey-Hey-Hey - Medley / Remastered 2009,The Beatles,Beatles For Sale,158146,trackdone,trackdone,True,False,user_01,1
+2017-04-20 19:04:00,Waiting On the World to Change,John Mayer,Continuum,201173,trackdone,trackdone,True,False,user_01,1
+2017-04-20 19:50:00,Hello,Adele,25,17976,fwdbtn,fwdbtn,True,False,user_01,0
+2017-04-27 12:15:00,"Hello, Goodbye - Remastered 2009",The Beatles,Magical Mystery Tour,208840,trackdone,trackdone,True,False,user_01,0
+2017-04-28 14:21:00,The Age of Worry,John Mayer,Born and Raised,157586,trackdone,trackdone,True,False,user_01,1
+2017-04-29 11:55:00,Cry Baby Cry - Remastered 2009,The Beatles,The Beatles,182080,trackdone,trackdone,True,False,user_01,0
+2017-05-03 16:44:00,Ask Me Why - Remastered 2009,The Beatles,Please Please Me,146533,trackdone,trackdone,False,False,user_01,0
+2017-05-03 21:04:00,Ocean - Stripped Acoustic,Andreas Moe,Ocean,590,fwdbtn,backbtn,False,False,user_01,1
+2017-05-03 21:56:00,Rock and Roll - Remaster,Led Zeppelin,Led Zeppelin IV,220560,trackdone,trackdone,False,False,user_01,1
+2017-05-05 18:50:00,You Never Can Tell,Chuck Berry,St. Louis to Liverpool,67031,clickrow,endplay,False,False,user_01,1
+2017-05-05 22:25:00,Reptilia,The Strokes,Room On Fire,219826,clickrow,trackdone,False,False,user_01,1
+2017-05-05 23:10:00,Miss Atomic Bomb,The Killers,Battle Born,0,backbtn,backbtn,False,False,user_01,0
+2017-05-10 18:14:00,A Hard Rain's A-Gonna Fall,Bob Dylan,The Freewheelin' Bob Dylan,412200,trackdone,trackdone,True,False,user_01,0
+2017-05-10 20:52:00,Just Like a Woman,Bob Dylan,Blonde On Blonde,290466,trackdone,trackdone,True,False,user_01,1
+2017-05-11 11:44:00,Dive,Ed Sheeran,÷,60044,clickrow,endplay,False,False,user_01,0
+2017-05-13 04:12:00,"I'm Gonna Find Another You - Live at the Nokia Theatre, Los Angeles, CA - December 2007",John Mayer,Where the Light Is: John Mayer Live In Los Angeles,340626,trackdone,trackdone,True,False,user_01,1
+2017-05-17 16:17:00,Angie - Remastered,The Rolling Stones,Goats Head Soup,239515,trackdone,logout,True,False,user_01,1
+2017-05-19 13:59:00,Change Your Mind,The Killers,Hot Fuss,0,fwdbtn,fwdbtn,True,False,user_01,1
+2017-05-19 14:25:00,The View From The Afternoon,Arctic Monkeys,"Whatever People Say I Am, That's What I'm Not",8142,fwdbtn,fwdbtn,True,False,user_01,1
+2017-05-25 23:00:00,Caroline Says I,Lou Reed,Berlin,98280,fwdbtn,fwdbtn,False,False,user_01,0
+2017-05-25 23:21:00,Baby Face,Lou Reed,Sally Can't Dance,304600,fwdbtn,trackdone,False,False,user_01,0
+2017-05-26 00:05:00,Fun,Skegss,Fun,115845,clickrow,endplay,False,False,user_01,1
+2017-05-26 00:50:00,There Is No Time,Lou Reed,New York,3541,fwdbtn,fwdbtn,False,False,user_01,0
+2017-05-26 01:12:00,Reunion,M83,"Hurry up, We're Dreaming",22036,clickrow,endplay,False,False,user_01,0
+2017-05-26 01:24:00,Let It Out,Switchfoot,Fading West,52779,clickrow,endplay,False,False,user_01,1
+2017-05-26 01:34:00,For No One,Houndmouth,Little Neon Limelight,58305,clickrow,endplay,False,False,user_01,0
+2017-05-26 01:34:00,Let It Out,Switchfoot,Fading West,12788,clickrow,endplay,False,False,user_01,0
+2017-06-09 07:45:00,"In Your Atmosphere - Live at the Nokia Theatre, Los Angeles, CA - December 2007",John Mayer,Where the Light Is: John Mayer Live In Los Angeles,345626,trackdone,trackdone,True,False,user_01,1
+2017-06-11 22:07:00,God's Gonna Cut You Down,Johnny Cash,American V: A Hundred Highways,95201,clickrow,endplay,True,False,user_01,0
+2017-06-17 14:02:00,On Top,The Killers,Hot Fuss,52439,trackdone,unexpected-exit-while-paused,True,False,user_01,1
+2017-06-20 06:37:00,Walking The Wire,Imagine Dragons,Walking The Wire,232906,clickrow,trackdone,False,False,user_01,1
+2017-06-21 14:57:00,I’m So Sorry,Imagine Dragons,Smoke + Mirrors,230200,trackdone,trackdone,True,False,user_01,1
+2017-06-26 08:31:00,Por Tu Maldito Amor,Vicente Fernández,"35 Anniversary Re-mastered Series, Vol. 7",236480,trackdone,trackdone,True,False,user_01,1
+2017-06-26 08:31:00,Lost In My Mind,The Head And The Heart,The Head And The Heart,259120,trackdone,trackdone,True,False,user_01,0
+2017-06-26 14:07:00,I See A Darkness,Johnny Cash,American III: Solitary Man,28704,clickrow,endplay,True,False,user_01,0
+2017-06-28 03:31:00,Mother's Daughter,Santana,Abraxas,265466,trackdone,trackdone,True,False,user_01,0
+2017-06-28 06:20:00,Sorry,Justin Bieber,Purpose,3709,trackdone,fwdbtn,True,False,user_01,0
+2017-06-29 01:07:00,I Want To Tell You - Remastered 2009,The Beatles,Revolver,147973,trackdone,trackdone,True,False,user_01,0
+2017-06-29 06:07:00,The Ballad Of John And Yoko - Remastered 2009,The Beatles,Past Masters,179853,fwdbtn,trackdone,True,False,user_01,0
+2017-06-30 18:04:00,My Sweet Lord - Remastered 2014,George Harrison,All Things Must Pass,43921,trackdone,endplay,False,False,user_01,0
+2017-07-02 21:09:00,Beyond the Sea,Bobby Darin,That's All,172480,fwdbtn,trackdone,True,False,user_02,0
+2017-07-02 23:35:00,Don't Wanna Know,Maroon 5,Don't Wanna Know,214480,trackdone,trackdone,True,False,user_02,1
+2017-07-03 05:42:00,One Piece at a Time,Johnny Cash,One Piece At A Time,244760,fwdbtn,trackdone,True,False,user_02,1
+2017-07-04 17:20:00,Berlin - 1973 Version,Lou Reed,Berlin,1549,fwdbtn,backbtn,True,False,user_02,1
+2017-07-04 17:46:00,Let It Be - Remastered 2009,The Beatles,Let It Be,2187,fwdbtn,fwdbtn,True,False,user_02,1
+2017-07-05 00:59:00,Wherever This Goes,The Fray,Helios,2158,fwdbtn,fwdbtn,True,False,user_02,1
+2017-07-05 16:16:00,Teenagers,My Chemical Romance,The Black Parade,161920,fwdbtn,trackdone,True,False,user_02,1
+2017-07-05 20:37:00,Paperback Writer - Remastered 2009,The Beatles,Past Masters,2244,fwdbtn,fwdbtn,True,False,user_02,1
+2017-07-06 00:31:00,Neighborhood #4 (7 Kettles),Arcade Fire,Funeral,717,fwdbtn,fwdbtn,True,False,user_02,0
+2017-07-06 09:00:00,Winds of Change,Vance Joy,Dream Your Life Away,2967,fwdbtn,fwdbtn,True,False,user_02,1
+2017-07-06 19:38:00,Kryptonite,3 Doors Down,The Better Life,1666,fwdbtn,fwdbtn,True,False,user_02,1
+2017-07-07 00:48:00,Stars,Les Misérables - 10th Anniversary Concert Cast,Les Misérables (In Concert at the Royal Albert Hall),4898,fwdbtn,fwdbtn,True,False,user_02,1
+2017-07-07 00:48:00,Angel in Blue Jeans,Train,Bulletproof Picasso,3091,fwdbtn,fwdbtn,True,False,user_02,0
+2017-07-07 07:42:00,Roll Over Beethoven,Chuck Berry,Berry Is On Top,6011,fwdbtn,fwdbtn,True,False,user_02,1
+2017-07-07 18:36:00,On the Road Again,Bob Dylan,Bringing It All Back Home,900,fwdbtn,fwdbtn,True,False,user_02,1
+2017-07-07 18:39:00,240 Years Before Your Time,The Black Keys,The Big Come Up,0,fwdbtn,fwdbtn,True,False,user_02,0
+2017-07-07 22:23:00,Gold,Imagine Dragons,Smoke + Mirrors,1222,fwdbtn,fwdbtn,True,False,user_02,0
+2017-07-08 06:26:00,Demons,Imagine Dragons,Night Visions,177506,fwdbtn,trackdone,True,False,user_02,1
+2017-07-08 06:33:00,What I've Done,Linkin Park,Minutes to Midnight,2698,fwdbtn,fwdbtn,True,False,user_02,0
+2017-07-08 16:59:00,"Gone, Gone, Gone",Phillip Phillips,The World From The Side Of The Moon,5156,fwdbtn,fwdbtn,True,False,user_02,1
+2017-07-08 16:59:00,Time,Pink Floyd,The Dark Side of the Moon,3279,fwdbtn,fwdbtn,True,False,user_02,0
+2017-07-08 17:00:00,Born and Raised - Reprise,John Mayer,Born and Raised,1770,fwdbtn,fwdbtn,True,False,user_02,1
+2017-07-09 19:35:00,"Green, Green Grass of Home - Live at Folsom State Prison, Folsom, CA - January 1968",Johnny Cash,At Folsom Prison,2117,fwdbtn,fwdbtn,True,False,user_02,1
+2017-07-09 19:35:00,Cascos Ligeros,Alejandro Fernández,Piel De Niña,125200,trackdone,trackdone,True,False,user_02,1
+2017-07-10 06:40:00,Ten Years Gone - 1990 Remaster,Led Zeppelin,Physical Graffiti,1660,fwdbtn,fwdbtn,True,False,user_02,0
+2017-07-10 17:12:00,Moonlight Mile - 2009 Mix,The Rolling Stones,Sticky Fingers,2092,fwdbtn,fwdbtn,True,False,user_02,0
+2017-07-10 21:26:00,Hold on Forever,Rob Thomas,The Great Unknown,51014,fwdbtn,endplay,True,False,user_02,1
+2017-07-12 02:46:00,Losing Touch,The Killers,Day & Age,253653,trackdone,trackdone,True,False,user_02,1
+2017-07-12 02:56:00,Castle on the Hill,Ed Sheeran,÷,261153,trackdone,trackdone,True,False,user_02,1
+2017-07-12 19:39:00,Don't Look Back in Anger - Remastered,Oasis,(What's The Story) Morning Glory?,42426,trackdone,logout,True,False,user_02,1
+2017-07-14 23:50:00,Maybe I'm Amazed - Live / Remastered,Paul McCartney,Wings Over America,2735,fwdbtn,fwdbtn,True,False,user_02,1
+2017-07-15 01:48:00,A Sky Full of Stars,Coldplay,Ghost Stories,5376,fwdbtn,fwdbtn,True,False,user_02,0
+2017-07-15 01:51:00,"Bold as Love - Live at the Nokia Theatre, Los Angeles, CA - December 2007",John Mayer,Where the Light Is: John Mayer Live In Los Angeles,2289,fwdbtn,fwdbtn,True,False,user_02,0
+2017-07-17 16:52:00,Eleanor Rigby - Remastered 2009,The Beatles,Revolver,3805,fwdbtn,fwdbtn,True,False,user_02,1
+2017-07-17 17:46:00,Houston Train,Houndmouth,From the Hills Below the City,190080,trackdone,trackdone,True,False,user_02,0
+2017-07-18 20:26:00,The Wanton Song - 1990 Remaster,Led Zeppelin,Physical Graffiti,2390,fwdbtn,fwdbtn,True,False,user_02,1
+2017-07-20 20:39:00,"Singing Winds, Crying Beasts",Santana,Abraxas,3256,fwdbtn,fwdbtn,True,False,user_02,0
+2017-07-22 00:42:00,Something I Need,OneRepublic,Native,241266,trackdone,trackdone,True,False,user_02,1
+2017-07-22 02:44:00,Quién Diría,Ricardo Arjona,Canciones De Amor,234853,trackdone,trackdone,True,False,user_02,1
+2017-07-23 01:19:00,Se Me Va La Voz,Alejandro Fernández,Dos Mundos - Evolución,240240,trackdone,trackdone,True,False,user_02,1
+2017-07-23 01:19:00,Mi Nuevo Vicio,Morat,Sobre El Amor Y Sus Efectos Secundarios,237360,trackdone,trackdone,True,False,user_02,0
+2017-07-27 20:11:00,Rise Up,Imagine Dragons,Evolve,0,fwdbtn,fwdbtn,True,False,user_02,1
+2017-07-29 23:40:00,Walk This Way,Aerosmith,Toys In The Attic,220400,trackdone,trackdone,True,False,user_02,0
+2017-08-01 18:15:00,The Stranger,Billy Joel,The Stranger,4043,clickrow,endplay,False,False,user_02,0
+2017-08-01 18:29:00,My Life,Billy Joel,Piano Man: The Very Best of Billy Joel,97146,clickrow,endplay,False,False,user_02,1
+2017-08-03 03:55:00,Only the Good Die Young,Billy Joel,The Stranger,1848,fwdbtn,fwdbtn,True,False,user_02,1
+2017-08-03 21:55:00,Stardust,Bobby Hutcherson,Candy,200098,clickrow,endplay,True,False,user_02,0
+2017-08-04 06:04:00,All My Love - Remaster,Led Zeppelin,In Through the out Door,1135,fwdbtn,backbtn,True,False,user_02,1
+2017-08-04 23:32:00,An Innocent Man,Billy Joel,An Innocent Man,3611,trackdone,fwdbtn,False,False,user_02,1
+2017-08-05 21:54:00,Busload of Faith,Lou Reed,New York,1687,fwdbtn,fwdbtn,True,False,user_02,1
+2017-08-06 03:55:00,I'll Be Your Mirror,The Velvet Underground,The Velvet Underground & Nico 45th Anniversary,27775,trackdone,fwdbtn,True,False,user_02,1
+2017-08-06 18:25:00,Ring of Fire,Johnny Cash,Ring Of Fire: The Best Of Johnny Cash,0,fwdbtn,fwdbtn,True,False,user_02,1
+2017-08-07 04:34:00,Miss Missing You,Fall Out Boy,Save Rock And Roll,14086,fwdbtn,fwdbtn,True,False,user_02,1
+2017-08-09 23:40:00,Same Love (feat. Mary Lambert),Macklemore & Ryan Lewis,The Heist,3988,fwdbtn,fwdbtn,True,False,user_02,1
+2017-08-10 04:42:00,What Goes On,The Velvet Underground,The Velvet Underground,293813,trackdone,trackdone,True,False,user_02,1
+2017-08-10 22:02:00,Vicious,Lou Reed,Transformer,15295,fwdbtn,fwdbtn,True,False,user_02,1
+2017-08-11 10:21:00,Dancing Days - Remaster,Led Zeppelin,Houses of the Holy,3221,fwdbtn,fwdbtn,True,False,user_02,1
+2017-08-11 10:25:00,Red Eye,Vance Joy,Dream Your Life Away,67274,trackdone,fwdbtn,True,False,user_02,1
+2017-08-12 06:28:00,Blackbird - Remastered 2009,The Beatles,The Beatles,15033,fwdbtn,endplay,True,False,user_02,1
+2017-08-13 05:29:00,As Long As You Love Me,Justin Bieber,Believe,3358,fwdbtn,fwdbtn,True,False,user_02,1
+2017-08-13 07:19:00,"""45""",The Gaslight Anthem,Handwritten,207546,fwdbtn,trackdone,True,False,user_02,1
+2017-08-15 05:59:00,Kryptonite,3 Doors Down,The Better Life,5154,fwdbtn,fwdbtn,True,False,user_02,1
+2017-08-16 19:51:00,Anna Sun,WALK THE MOON,Walk The Moon,127748,fwdbtn,fwdbtn,True,False,user_02,1
+2017-08-17 17:55:00,Peter Pan,Arcade Fire,Everything Now,72,fwdbtn,fwdbtn,True,False,user_02,1
+2017-08-20 00:06:00,Thunderstruck,AC/DC,The Razors Edge,3568,fwdbtn,fwdbtn,True,False,user_02,1
+2017-08-20 00:20:00,Let It Bleed,The Rolling Stones,Let It Bleed,3223,fwdbtn,fwdbtn,True,False,user_02,1
+2017-08-20 22:02:00,It Came Out Of The Sky,Creedence Clearwater Revival,Willy And The Poor Boys,63264,fwdbtn,fwdbtn,True,False,user_02,1
+2017-08-21 17:58:00,Ten Cent Pistol,The Black Keys,Brothers,121891,trackdone,fwdbtn,True,False,user_02,1
+2017-08-23 13:44:00,Hymn for the Weekend,Coldplay,A Head Full of Dreams,24558,fwdbtn,fwdbtn,True,False,user_02,1
+2017-08-25 23:37:00,The Long And Winding Road - Remastered 2009,The Beatles,Let It Be,2874,fwdbtn,fwdbtn,True,False,user_02,1
+2017-08-27 23:43:00,For No One - Remastered 2009,The Beatles,Revolver,2663,fwdbtn,fwdbtn,True,False,user_02,1
+2017-08-29 07:49:00,Color Esperanza,Diego Torres,Mis Favoritas,11100,fwdbtn,fwdbtn,True,False,user_02,1
+2017-08-29 18:54:00,Idiot Wind,Bob Dylan,Blood On The Tracks,13451,fwdbtn,fwdbtn,True,False,user_02,1
+2017-08-31 05:25:00,I Can't Make Your Way,The Yardbirds,Roger The Engineer / Over Under Sideways Down,145373,trackdone,trackdone,True,False,user_02,1
+2017-09-02 00:53:00,Don't Ask Me Why,Billy Joel,Glass Houses,177360,clickrow,trackdone,True,False,user_02,1
+2017-09-02 01:09:00,Whispers In The Dark,Mumford & Sons,Babel,860,fwdbtn,fwdbtn,True,False,user_02,1
+2017-09-02 01:30:00,Replaced,American Authors,What We Live For,0,fwdbtn,fwdbtn,True,False,user_02,1
+2017-09-02 08:46:00,Fuiste Tú (feat. Gaby Moreno),Ricardo Arjona,Independiente + Demos,2052,fwdbtn,fwdbtn,True,False,user_02,1
+2017-09-03 02:10:00,My Eyes,The Lumineers,Cleopatra,2073,fwdbtn,fwdbtn,True,False,user_02,1
+2017-09-03 23:50:00,Birds,Coldplay,A Head Full of Dreams,8618,fwdbtn,fwdbtn,True,False,user_02,0
+2017-09-04 16:58:00,While My Guitar Gently Weeps - Remastered 2009,The Beatles,The Beatles,1702,fwdbtn,fwdbtn,True,False,user_02,1
+2017-09-04 22:04:00,Bitch - 2009 Mix,The Rolling Stones,Sticky Fingers,22280,fwdbtn,fwdbtn,True,False,user_02,1
+2017-09-04 22:26:00,Hail Rain or Sunshine,The Script,No Sound Without Silence,3816,fwdbtn,fwdbtn,True,False,user_02,1
+2017-09-05 05:04:00,Foreigner's God,Hozier,Hozier,2369,fwdbtn,fwdbtn,True,False,user_02,1
+2017-09-05 05:17:00,"Cry, Cry, Cry",Johnny Cash,With His Hot and Blue Guitar,2244,fwdbtn,fwdbtn,True,False,user_02,1
+2017-09-05 05:17:00,Cascos Ligeros,Alejandro Fernández,Piel De Niña,2264,fwdbtn,fwdbtn,True,False,user_02,1
+2017-09-05 05:17:00,Something - Remastered 2009,The Beatles,Abbey Road,2043,fwdbtn,fwdbtn,True,False,user_02,1
+2017-09-05 05:19:00,It's Only Love - Remastered 2009,The Beatles,Help!,1868,fwdbtn,fwdbtn,True,False,user_02,1
+2017-09-05 23:44:00,Casino (Bad Things),Houndmouth,From the Hills Below the City,2347,fwdbtn,fwdbtn,False,False,user_02,0
+2017-09-06 06:18:00,Dead Leaves And The Dirty Ground,The White Stripes,White Blood Cells,2894,fwdbtn,fwdbtn,False,False,user_02,1
+2017-09-06 17:02:00,FourFiveSeconds,Rihanna,FourFiveSeconds,670,fwdbtn,fwdbtn,False,False,user_02,1
+2017-09-06 17:28:00,Gorgeous,X Ambassadors,VHS,1877,fwdbtn,fwdbtn,False,False,user_02,1
+2017-09-06 17:31:00,Hats off To (Roy) Harper - Remaster,Led Zeppelin,Led Zeppelin III,12050,fwdbtn,fwdbtn,False,False,user_02,0
+2017-09-06 17:38:00,Honey Don't - Remastered 2009,The Beatles,Beatles For Sale - Remastered,855,fwdbtn,fwdbtn,False,False,user_02,1
+2017-09-06 17:48:00,I Can't Stand It,Lou Reed,Lou Reed,24966,fwdbtn,fwdbtn,False,False,user_02,1
+2017-09-06 17:56:00,I'm A Loser - Remastered 2009,The Beatles,Beatles For Sale - Remastered,720,fwdbtn,fwdbtn,False,False,user_02,0
+2017-09-06 18:20:00,Jailhouse Rock,Elvis Presley,Elvis' Golden Records,0,fwdbtn,fwdbtn,False,False,user_02,1
+2017-09-06 22:06:00,Paper Doll,John Mayer,Paradise Valley,512,fwdbtn,fwdbtn,False,False,user_02,1
+2017-09-06 22:09:00,Perfect Day,Lou Reed,Transformer,2144,fwdbtn,fwdbtn,False,False,user_02,1
+2017-09-06 22:45:00,The Lazy Song,Bruno Mars,Doo-Wops & Hooligans,0,fwdbtn,fwdbtn,False,False,user_02,0
+2017-09-06 22:49:00,Things We Lost In The Fire,Bastille,Bad Blood,1424,fwdbtn,fwdbtn,False,False,user_02,0
+2017-09-06 22:51:00,Time to Pretend,MGMT,Oracular Spectacular,1507,fwdbtn,backbtn,False,False,user_02,1
+2017-09-06 22:54:00,Trouble,Imagine Dragons,Smoke + Mirrors,457,fwdbtn,fwdbtn,False,False,user_02,0
+2017-09-06 23:04:00,Where Do We Go from Here,The Temper Trap,The Temper Trap,0,fwdbtn,fwdbtn,False,False,user_02,1
+2017-09-06 23:06:00,You,Radiohead,Pablo Honey,0,fwdbtn,fwdbtn,False,False,user_02,0
+2017-09-07 03:05:00,I Will Remember,Train,Bulletproof Picasso,171501,fwdbtn,fwdbtn,True,False,user_02,0
+2017-09-07 04:53:00,Lovers in Japan,Coldplay,Viva La Vida or Death and All His Friends,4699,fwdbtn,fwdbtn,True,False,user_02,1
+2017-09-07 23:30:00,Lisa Says,Lou Reed,Lou Reed,2997,fwdbtn,fwdbtn,True,False,user_02,1
+2017-09-07 23:35:00,Nothing Better,American Authors,What We Live For,31567,fwdbtn,fwdbtn,True,False,user_02,1
+2017-09-08 10:04:00,Stop Stop,The Black Keys,El Camino,1784,fwdbtn,fwdbtn,True,False,user_02,1
+2017-09-08 20:49:00,House of the Rising Sun,The Animals,Most of the Animals,1711,fwdbtn,fwdbtn,True,False,user_02,0
+2017-09-08 20:59:00,Wonderwall - Remastered,Oasis,(What's The Story) Morning Glory?,2071,fwdbtn,fwdbtn,True,False,user_02,0
+2017-09-08 21:01:00,Moby Dick - Remaster,Led Zeppelin,Led Zeppelin II,1816,fwdbtn,fwdbtn,True,False,user_02,0
+2017-09-09 01:32:00,Baby Driver,Simon & Garfunkel,Bridge Over Troubled Water,195760,trackdone,trackdone,False,False,user_02,1
+2017-09-09 02:39:00,Shadowplay,The Killers,Sawdust,1322,fwdbtn,fwdbtn,True,False,user_02,0
+2017-09-09 03:01:00,Untitled (How Could This Happen to Me?),Simple Plan,Still Not Getting Any,1360,fwdbtn,fwdbtn,True,False,user_02,0
+2017-09-09 18:15:00,Bad Moon Rising,Creedence Clearwater Revival,Green River,141600,trackdone,trackdone,True,False,user_02,1
+2017-09-10 00:29:00,Spanish Bombs - Remastered,The Clash,London Calling (Remastered),29850,clickrow,fwdbtn,False,False,user_02,0
+2017-09-10 00:53:00,I Saw Her Standing There - Remastered 2009,The Beatles,Please Please Me,576,fwdbtn,fwdbtn,True,False,user_02,1
+2017-09-10 22:27:00,Why Try To Change Me Now? - Remastered,Frank Sinatra,No One Cares,0,clickrow,endplay,False,False,user_02,0
+2017-09-11 03:33:00,Who'll Stop The Rain,Creedence Clearwater Revival,Cosmo's Factory,1680,fwdbtn,fwdbtn,True,False,user_02,1
+2017-09-12 01:46:00,Slow Down - Remastered 2009,The Beatles,Past Masters,30685,trackdone,fwdbtn,True,False,user_02,0
+2017-09-12 23:18:00,"Never Seen Anything ""Quite Like You""",The Script,No Sound Without Silence,3828,fwdbtn,fwdbtn,True,False,user_02,0
+2017-09-13 06:42:00,Can't Stop,Red Hot Chili Peppers,By the Way,720,fwdbtn,fwdbtn,True,False,user_02,1
+2017-09-14 19:08:00,Fall for You (Acoustic),Secondhand Serenade,A Naked Twist in My Story,1742,fwdbtn,fwdbtn,True,False,user_02,0
+2017-09-14 19:22:00,"Folsom Prison Blues - Live at San Quentin State Prison, San Quentin, CA - February 1969",Johnny Cash,At San Quentin,2074,fwdbtn,fwdbtn,True,False,user_02,0
+2017-09-19 00:34:00,Shine A Light,The Rolling Stones,Exile On Main Street,256826,trackdone,trackdone,True,False,user_02,1
+2017-09-19 23:48:00,Mujeres,Ricardo Arjona,Animal Nocturno,3517,fwdbtn,fwdbtn,True,False,user_02,0
+2017-09-20 17:11:00,Ramblin' On My Mind - Stereo,John Mayall & The Bluesbreakers,Bluesbreakers,3566,fwdbtn,fwdbtn,True,False,user_02,0
+2017-09-25 05:18:00,Barely Legal,The Strokes,Is This It,91973,fwdbtn,endplay,True,False,user_02,1
+2017-09-25 05:21:00,Automatic Stop,The Strokes,Room On Fire,76375,fwdbtn,fwdbtn,False,False,user_02,0
+2017-09-26 00:35:00,Trying Your Luck,The Strokes,Is This It,95139,trackdone,unexpected-exit-while-paused,True,False,user_02,1
+2017-10-04 02:37:00,Skyway Avenue,We The Kings,We The Kings,3297,fwdbtn,fwdbtn,True,False,user_02,1
+2017-10-05 21:31:00,Have All The Songs Been Written?,The Killers,Wonderful Wonderful,249941,fwdbtn,trackdone,False,False,user_02,0
+2017-10-07 19:09:00,Stand By Me - Remastered 2010,John Lennon,Rock 'N' Roll,211666,trackdone,trackdone,True,False,user_02,1
+2017-10-07 23:34:00,Burning Love,Elvis Presley,Elvis (Fool),170293,trackdone,trackdone,True,False,user_02,0
+2017-10-08 23:38:00,Maracas,Joan Sebastian,Maracas Vol. 1,187367,fwdbtn,trackdone,True,False,user_02,0
+2017-10-09 01:57:00,Prize Fighter,The Killers,Battle Born,279560,trackdone,trackdone,True,False,user_02,0
+2017-10-09 02:45:00,Hannah Hunt,Vampire Weekend,Modern Vampires of the City,1932,fwdbtn,fwdbtn,True,False,user_02,0
+2017-10-12 04:03:00,While the Song Remains the Same,Noel Gallagher's High Flying Birds,Chasing Yesterday,0,clickrow,endplay,False,False,user_02,1
+2017-10-12 20:19:00,You Better Run,Liam Gallagher,As You Were,23858,clickrow,endplay,True,False,user_02,1
+2017-10-14 03:46:00,You Found Me,The Fray,The Fray,2013,fwdbtn,fwdbtn,True,False,user_02,0
+2017-10-20 04:56:00,Por Mujeres Como Tu,Pepe Aguilar,Mi Historia - Pepe Aguilar,2568,fwdbtn,fwdbtn,True,False,user_02,0
+2017-10-20 05:04:00,Hey Porter,Johnny Cash,All Aboard the Blue Train,2558,fwdbtn,fwdbtn,True,False,user_02,0
+2017-10-24 23:07:00,Dancing In The Dark,Cannonball Adderley,Somethin' Else,247200,trackdone,trackdone,False,False,user_02,1
+2017-10-25 03:48:00,Along Came Betty,Art Blakey & The Jazz Messengers,Moanin',368734,trackdone,trackdone,False,False,user_02,0
+2017-10-26 23:29:00,Honey Pie - Remastered 2009,The Beatles,The Beatles,1859,fwdbtn,fwdbtn,True,False,user_02,1
+2017-10-27 16:48:00,Happiness Is A Warm Gun - Remastered 2009,The Beatles,The Beatles,164546,trackdone,trackdone,True,False,user_02,1
+2017-10-27 20:51:00,I Should Have Known Better - Remastered 2009,The Beatles,A Hard Day's Night,163080,trackdone,trackdone,True,False,user_02,1
+2017-10-30 19:30:00,P.S. I Love You - Remastered 2009,The Beatles,Please Please Me,124360,trackdone,trackdone,True,False,user_02,0
+2017-10-31 02:09:00,"Ob-La-Di, Ob-La-Da - Remastered 2009",The Beatles,The Beatles,2412,trackdone,fwdbtn,True,False,user_02,0
+2017-10-31 20:05:00,Dear Doctor,Keith Richards,Beggars Banquet,201600,clickrow,trackdone,False,False,user_02,1
+2017-11-01 20:20:00,You Like Me Too Much - Remastered 2009,The Beatles,Help!,156866,trackdone,trackdone,False,False,user_02,0
+2017-11-03 02:58:00,Paloma Querida,José Alfredo Jimenez,Sus Grandes Corridos y Rancheras,2355,fwdbtn,fwdbtn,True,False,user_02,0
+2017-11-03 02:59:00,12 Fingers,Young the Giant,Young The Giant,1782,fwdbtn,fwdbtn,True,False,user_02,1
+2017-11-06 16:21:00,17,Kings of Leon,Only By The Night,185373,trackdone,trackdone,False,False,user_02,0
+2017-11-10 00:06:00,Bones,The Killers,Sam's Town,227000,fwdbtn,trackdone,False,False,user_02,1
+2017-11-18 18:56:00,Double Crossing Time - Stereo,John Mayall & The Bluesbreakers,Bluesbreakers,180666,trackdone,trackdone,False,False,user_02,1
+2017-11-19 00:15:00,First Time,Vance Joy,Dream Your Life Away,224626,trackdone,trackdone,False,False,user_02,0
+2017-11-20 21:00:00,Getting Better - Remastered 2009,The Beatles,Sgt. Pepper's Lonely Hearts Club Band,168120,trackdone,trackdone,False,False,user_02,1
+2017-11-20 22:45:00,Going Down,Lou Reed,Lou Reed,175400,trackdone,trackdone,False,False,user_02,0
+2017-11-21 02:21:00,Hannah Hunt,Vampire Weekend,Modern Vampires of the City,237973,trackdone,trackdone,False,False,user_02,0
+2017-12-08 02:57:00,Jump on My Shoulders,AWOLNATION,Megalithic Symphony Deluxe,9607,trackdone,logout,False,False,user_02,1
+2017-12-08 05:22:00,El Nicoya,Santana,Abraxas,89066,trackdone,trackdone,True,False,user_02,0
+2017-12-08 19:18:00,Can't Stop,Red Hot Chili Peppers,By the Way,269000,trackdone,trackdone,True,False,user_02,0
+2017-12-08 21:44:00,Alone Together,Fall Out Boy,Save Rock And Roll,3875,fwdbtn,fwdbtn,True,False,user_02,0
+2017-12-11 06:37:00,Cascos Ligeros,Alejandro Fernández,Piel De Niña,125200,trackdone,trackdone,True,False,user_02,1
+2017-12-15 03:35:00,Let It Snow! Let It Snow!,Dean Martin,Christmas Songs & Hits - The Greatest 50 Christmas Songs & Hits,117865,clickrow,trackdone,False,False,user_02,1
+2017-12-16 20:56:00,Don't Leave Me Now,Pink Floyd,The Wall,255934,trackdone,trackdone,False,False,user_02,0
+2017-12-17 20:00:00,Holly Jolly Christmas,Michael Bublé,Christmas,26074,clickrow,endplay,False,False,user_02,1
+2017-12-27 03:24:00,The Ballad Of Michael Valentine,The Killers,Sawdust,230346,trackdone,trackdone,True,False,user_02,1
+2018-01-01 22:15:00,Miss Atomic Bomb,The Killers,Direct Hits,294755,trackdone,trackdone,True,False,user_02,1
+2018-01-03 03:12:00,Be Still,The Killers,Battle Born,273240,trackdone,trackdone,True,False,user_02,1
+2018-01-04 05:29:00,Julia - Remastered 2009,The Beatles,The Beatles,176666,trackdone,trackdone,True,False,user_02,0
+2018-01-10 22:25:00,Little Room,The White Stripes,White Blood Cells,50373,trackdone,trackdone,True,False,user_02,1
+2018-01-10 23:31:00,Locked out of Heaven,Bruno Mars,Unorthodox Jukebox,2747,fwdbtn,fwdbtn,True,False,user_02,0
+2018-01-11 02:59:00,Highway to Hell,AC/DC,Highway to Hell,208400,trackdone,trackdone,True,False,user_02,0
+2018-01-11 14:21:00,Desert Island Disk,Radiohead,A Moon Shaped Pool,220689,trackdone,unexpected-exit-while-paused,False,False,user_02,0
+2018-01-12 05:55:00,We Used to Wait,Arcade Fire,The Suburbs,301400,trackdone,trackdone,False,False,user_02,1
+2018-01-17 02:50:00,"Ruby, Don't Take Your Love To Town",The Killers,Sawdust,40082,appload,trackdone,True,False,user_02,1
+2018-01-18 06:38:00,Getting Better - Remastered 2009,The Beatles,Sgt. Pepper's Lonely Hearts Club Band,4245,fwdbtn,fwdbtn,True,False,user_02,0
+2018-01-19 23:17:00,Nancy Mulligan,Ed Sheeran,÷,1935,fwdbtn,fwdbtn,True,False,user_02,0
+2018-01-21 02:23:00,I'm Gonna Be (500 Miles),The Proclaimers,Finest,2773,fwdbtn,fwdbtn,True,False,user_02,0
+2018-01-24 05:28:00,Blitzkrieg Bop - 2016 Remaster,Ramones,Ramones,1814,fwdbtn,fwdbtn,True,False,user_02,0
+2018-01-24 05:28:00,Angela,The Lumineers,Cleopatra,2185,fwdbtn,fwdbtn,True,False,user_02,0
+2018-01-25 01:23:00,I'm So Tired - Remastered 2009,The Beatles,The Beatles,2864,fwdbtn,fwdbtn,True,False,user_02,0
+2018-01-25 20:11:00,Stuck Inside of Mobile with the Memphis Blues Again,Bob Dylan,Blonde On Blonde,1965,fwdbtn,fwdbtn,True,False,user_02,1
+2018-01-26 16:39:00,Ballad of Hollis Brown,Bob Dylan,The Times They Are A-Changin',2232,fwdbtn,fwdbtn,False,False,user_02,1
+2018-01-26 16:39:00,Forever Young - Slow Version,Bob Dylan,Planet Waves,21371,fwdbtn,fwdbtn,False,False,user_02,1
+2018-01-28 06:00:00,Girl from the North Country,Bob Dylan,The Freewheelin' Bob Dylan,2502,fwdbtn,fwdbtn,True,False,user_02,1
+2018-01-29 05:20:00,Paperback Writer - Remastered 2009,The Beatles,Past Masters,1314,fwdbtn,fwdbtn,True,False,user_02,0
+2018-01-29 13:56:00,Tangerine - Remaster,Led Zeppelin,Led Zeppelin III,13889,fwdbtn,fwdbtn,True,False,user_02,0
+2018-02-10 23:55:00,Drive My Car - Remastered 2009,The Beatles,Rubber Soul,148893,trackdone,trackdone,True,False,user_03,0
+2018-02-12 01:25:00,Come Back to Me,Liam Gallagher,As You Were,38648,clickrow,fwdbtn,True,False,user_03,1
+2018-02-12 04:05:00,Angela,The Lumineers,Cleopatra,201785,trackdone,trackdone,True,False,user_03,0
+2018-02-16 14:03:00,Yesterday,Imagine Dragons,Evolve,47730,appload,unexpected-exit-while-paused,True,False,user_03,1
+2018-02-17 04:17:00,Every Night,Imagine Dragons,Night Visions,0,fwdbtn,fwdbtn,True,False,user_03,0
+2018-02-17 15:45:00,Run Run Run,The Velvet Underground,The Velvet Underground & Nico 45th Anniversary,262360,fwdbtn,trackdone,True,False,user_03,0
+2018-02-18 04:44:00,Afortunado,Lucah,Voy a Ti,3139,trackdone,fwdbtn,True,False,user_03,0
+2018-02-20 20:35:00,Greek Tragedy,The Wombats,Glitterbug,87103,fwdbtn,fwdbtn,True,False,user_03,0
+2018-02-20 20:36:00,Replaced,American Authors,What We Live For,2366,fwdbtn,fwdbtn,True,False,user_03,0
+2018-02-20 20:39:00,Yesterday - Remastered 2009,The Beatles,Help!,3319,fwdbtn,fwdbtn,True,False,user_03,0
+2018-02-27 20:04:00,Horchata,Vampire Weekend,Contra,5349,fwdbtn,fwdbtn,True,False,user_03,0
+2018-02-28 06:15:00,The Man,The Killers,Wonderful Wonderful,3783,fwdbtn,fwdbtn,True,False,user_03,0
+2018-03-06 02:13:00,Rip It Up,Elvis Presley,Elvis,112426,trackdone,trackdone,True,False,user_03,0
+2018-03-07 22:29:00,Kiss You Inside Out,Hedley,Storms,2395,fwdbtn,fwdbtn,True,False,user_03,0
+2018-03-16 22:44:00,Month of May,Arcade Fire,The Suburbs,1806,fwdbtn,fwdbtn,True,False,user_03,0
+2018-03-16 22:49:00,Secrets,OneRepublic,Waking Up,1810,fwdbtn,fwdbtn,True,False,user_03,1
+2018-04-01 21:25:00,Animal,Neon Trees,Habits,212293,fwdbtn,trackdone,True,False,user_03,0
+2018-04-01 21:35:00,Mariposa Traicionera,Maná,Revolución De Amor,264599,trackdone,trackdone,True,False,user_03,0
+2018-04-01 22:35:00,Drive By,Train,California 37,195973,trackdone,trackdone,True,False,user_03,0
+2018-04-06 00:38:00,Heebie-Jeebies,Louis Armstrong,Put ‘Em Down Blues,173906,trackdone,trackdone,False,False,user_03,0
+2018-04-20 03:21:00,Man on a Wire,The Script,No Sound Without Silence,4889,fwdbtn,fwdbtn,True,False,user_03,0
+2018-04-21 09:33:00,Lego House,Ed Sheeran,+,185093,trackdone,trackdone,True,False,user_03,0
+2018-04-26 05:48:00,September,Daughtry,Leave This Town,2205,fwdbtn,fwdbtn,True,False,user_03,0
+2018-04-26 13:57:00,Sparks,James Bay,Chaos And The Calm,2063,fwdbtn,fwdbtn,True,False,user_03,0
+2018-05-03 14:00:00,Roll Over Beethoven - Remastered 2009,The Beatles,With The Beatles,165466,trackdone,trackdone,True,False,user_03,0
+2018-05-04 02:37:00,The Fool On The Hill - Remastered 2009,The Beatles,Magical Mystery Tour,10060,fwdbtn,fwdbtn,True,False,user_03,0
+2018-05-08 20:36:00,FourFiveSeconds,Rihanna,FourFiveSeconds,188238,fwdbtn,trackdone,True,False,user_03,0
+2018-05-10 17:36:00,I'm So Free,Lou Reed,Transformer,94544,trackdone,fwdbtn,True,False,user_03,0
+2018-05-14 16:26:00,Vertigo,U2,How To Dismantle An Atomic Bomb,140115,trackdone,endplay,True,False,user_03,1
+2018-05-14 22:27:00,"(There'll Be) Peace in the Valley - Live at San Quentin State Prison, San Quentin, CA - February 1969",Johnny Cash,At San Quentin,153469,fwdbtn,fwdbtn,True,False,user_03,0
+2018-05-15 15:51:00,The Rising Tide,The Killers,Battle Born,257266,trackdone,trackdone,True,False,user_03,0
+2018-05-16 02:08:00,Rolling in the Deep,Adele,21,173960,trackdone,fwdbtn,True,False,user_03,1
+2018-05-22 07:07:00,Campus,Vampire Weekend,Vampire Weekend,1529,fwdbtn,fwdbtn,True,False,user_03,0
+2018-05-23 06:09:00,Flapper Girl,The Lumineers,The Lumineers,4914,fwdbtn,fwdbtn,True,False,user_03,0
+2018-05-23 20:12:00,Pecan Tree,The Mud Howlers,Timeliness,193853,trackdone,trackdone,True,False,user_03,1
+2018-05-25 02:26:00,Mi Primer Millon,Bacilos,Caraluna,237386,trackdone,trackdone,True,False,user_03,0
+2018-05-28 00:31:00,I Wanna Be Sedated - 1999 Remaster,Ramones,Road to Ruin - Expanded 2005 Remaster,149466,trackdone,trackdone,True,False,user_03,1
+2018-05-28 22:16:00,Love Lost,The Temper Trap,Conditions,1775,fwdbtn,fwdbtn,True,False,user_03,1
+2018-05-29 05:34:00,Your Body Is a Wonderland,John Mayer,Room For Squares,1820,fwdbtn,fwdbtn,True,False,user_03,1
+2018-05-29 05:39:00,Lost Stars,Adam Levine,V,1390,fwdbtn,fwdbtn,True,False,user_03,1
+2018-05-29 05:42:00,It's About Us - Interlude,Alex & Sierra,It's About Us,1132,fwdbtn,fwdbtn,True,False,user_03,0
+2018-06-08 00:46:00,"Pagliacci / Act 1: ""Recitar!...Vesti la giubba""",Ruggero Leoncavallo,Verismo Arias,221880,trackdone,trackdone,False,False,user_03,0
+2018-06-08 05:05:00,Black Magic Woman / Gypsy Queen,Santana,Abraxas,319773,trackdone,trackdone,True,False,user_03,0
+2018-06-08 06:20:00,Shot At The Night,The Killers,Direct Hits,242506,trackdone,trackdone,True,False,user_03,1
+2018-06-08 07:31:00,Sea Of Heartbreak,Johnny Cash,American II: Unchained,162560,trackdone,trackdone,True,False,user_03,0
+2018-06-10 10:44:00,Zu Zu Man,Dr. John,Swamp Blues,28469,clickrow,endplay,False,False,user_03,0
+2018-06-11 05:16:00,Dead Flowers - 2009 Mix,The Rolling Stones,Sticky Fingers,244533,trackdone,trackdone,True,False,user_03,0
+2018-06-11 18:03:00,Pride and Joy,Stevie Ray Vaughan,Texas Flood (Legacy Edition),219586,trackdone,trackdone,True,False,user_03,0
+2018-06-12 15:59:00,Mátalas,Alejandro Fernández,Lo Esencial De Alejandro Fernández,174000,trackdone,trackdone,True,False,user_03,0
+2018-06-13 04:04:00,Birds,Coldplay,A Head Full of Dreams,229093,trackdone,trackdone,True,False,user_03,0
+2018-06-15 22:29:00,Waiting for the Worms,Pink Floyd,The Wall,237097,trackdone,trackdone,False,False,user_03,0
+2018-06-16 00:21:00,Outlaw Blues,Bob Dylan,Bringing It All Back Home,43996,trackdone,fwdbtn,True,False,user_03,0
+2018-06-16 00:22:00,The Tourist,Radiohead,OK Computer,1531,fwdbtn,fwdbtn,True,False,user_03,0
+2018-06-16 04:03:00,Un Zombie A La Intemperie,Alejandro Sanz,Sirope,275352,trackdone,fwdbtn,True,False,user_03,0
+2018-06-21 06:54:00,Dangerous Animals,Arctic Monkeys,Humbug,5971,fwdbtn,fwdbtn,True,False,user_03,0
+2018-06-21 14:00:00,Brighton Rock,Queen,Sheer Heart Attack,271005,appload,trackdone,True,False,user_03,1
+2018-07-06 02:00:00,Knee Socks,Arctic Monkeys,AM,174357,appload,unexpected-exit-while-paused,True,False,user_03,1
+2018-07-07 17:37:00,Mama Kin,Aerosmith,Aerosmith,267226,fwdbtn,trackdone,True,False,user_03,1
+2018-07-08 02:10:00,Chains - Remastered 2009,The Beatles,Please Please Me,19859,fwdbtn,fwdbtn,True,False,user_03,0
+2018-07-13 06:22:00,Up Around The Bend,Creedence Clearwater Revival,Cosmo's Factory,7168,fwdbtn,fwdbtn,True,False,user_03,0
+2018-07-17 05:55:00,Are You Experienced?,Jimi Hendrix,Are You Experienced,3836,fwdbtn,fwdbtn,True,False,user_03,0
+2018-07-18 06:06:00,Craving,James Bay,Chaos And The Calm,2150,fwdbtn,fwdbtn,True,False,user_03,0
+2018-07-20 18:19:00,Hooked On A Feeling,Blue Swede,Hooked On A Feeling,172866,trackdone,trackdone,True,False,user_03,0
+2018-07-22 06:51:00,It's a Long Way to the Top (If You Wanna Rock 'N' Roll),AC/DC,High Voltage,28575,trackdone,endplay,True,False,user_03,0
+2018-07-22 21:56:00,All These Things That I've Done,The Killers,Hot Fuss,301573,trackdone,trackdone,True,False,user_03,1
+2018-07-23 00:40:00,In Repair,John Mayer,Continuum,367813,trackdone,trackdone,True,False,user_03,0
+2018-07-23 01:04:00,She Will Be Loved,Maroon 5,Songs About Jane,257133,trackdone,trackdone,True,False,user_03,0
+2018-07-29 01:48:00,Tranquilize,The Killers,Sawdust,225160,trackdone,trackdone,True,False,user_03,0
+2018-08-01 20:15:00,Runaways,The Killers,Battle Born,243786,trackdone,trackdone,True,False,user_03,1
+2018-08-05 21:18:00,Trampled Under Foot - 1990 Remaster,Led Zeppelin,Physical Graffiti,8184,fwdbtn,fwdbtn,True,False,user_03,0
+2018-08-08 05:13:00,Me Dediqué a Perderte,Alejandro Fernández,A Corazón Abierto,2718,fwdbtn,fwdbtn,True,False,user_03,0
+2018-08-09 22:29:00,The Gambler,Kenny Rogers,The Gambler,214880,fwdbtn,trackdone,True,False,user_03,1
+2018-08-10 03:45:00,Que Lloro,Sin Bandera,Hasta Ahora,242360,trackdone,trackdone,True,False,user_03,0
+2018-08-10 19:13:00,"Wreck of the Old 97 - Live at San Quentin State Prison, San Quentin, CA - February 1969",Johnny Cash,At San Quentin,123001,fwdbtn,fwdbtn,True,False,user_03,0
+2018-08-10 19:14:00,Everything_Now (continued),Arcade Fire,Everything Now,46226,fwdbtn,trackdone,True,False,user_03,0
+2018-08-10 19:18:00,All I Ever Wanted,Vance Joy,Dream Your Life Away,216880,trackdone,trackdone,True,False,user_03,0
+2018-08-11 01:47:00,Gravity,John Mayer,Continuum,245826,trackdone,trackdone,True,False,user_03,1
+2018-08-13 05:31:00,My Life,Billy Joel,52nd Street,241675,appload,trackdone,True,False,user_03,1
+2018-08-16 14:00:00,Rip This Joint,The Rolling Stones,Exile On Main Street,42296,appload,trackdone,True,False,user_03,1
+2018-08-25 21:05:00,Greek Tragedy,The Wombats,Glitterbug,143639,backbtn,fwdbtn,True,False,user_03,0
+2018-08-26 06:53:00,We're Going To Be Friends,The White Stripes,White Blood Cells,142226,fwdbtn,trackdone,True,False,user_03,0
+2018-08-28 01:58:00,Smile,Tony Bennett,60 Years: The Artistry of Tony Bennett,212106,trackdone,trackdone,True,False,user_03,0
+2018-08-30 04:44:00,"Here, There And Everywhere - Remastered 2009",The Beatles,Revolver,144880,trackdone,trackdone,False,False,user_03,1
+2018-08-31 05:54:00,She Loves You - Remastered 2009,The Beatles,Past Masters,2451,fwdbtn,fwdbtn,True,False,user_03,1
+2018-09-01 08:44:00,Wake the Fuck Up,Skegss,Everyone Is Good at Something,139725,trackdone,trackdone,True,False,user_03,1
+2018-09-06 14:00:00,Soul Love - 2012 Remaster,David Bowie,The Rise and Fall of Ziggy Stardust and the Spiders from Mars,110775,fwdbtn,logout,True,False,user_03,1
+2018-09-12 06:18:00,"Mahogany Hall Stomp - Live At Symphony Hall, Boston, MA/1947",Louis Armstrong,Satchmo At Symphony Hall,2581,fwdbtn,fwdbtn,True,False,user_03,0
+2018-09-14 14:25:00,I'm Happy Just To Dance With You - Remastered 2009,The Beatles,A Hard Day's Night,116373,trackdone,trackdone,True,False,user_03,1
+2018-09-14 16:43:00,What Goes On - Remastered 2009,The Beatles,Rubber Soul,19462,trackdone,logout,True,False,user_03,1
+2018-09-14 17:11:00,Two Of Us - Remastered 2009,The Beatles,Let It Be,216813,trackdone,trackdone,True,False,user_03,0
+2018-09-14 17:37:00,Lucy In The Sky With Diamonds - Remastered 2009,The Beatles,Sgt. Pepper's Lonely Hearts Club Band,208466,trackdone,trackdone,True,False,user_03,0
+2018-09-15 21:03:00,Consejo de Amor,TINI,Consejo de Amor,200436,trackdone,trackdone,True,False,user_03,0
+2018-09-18 13:59:00,"Hello, Goodbye - Remastered 2009",The Beatles,Magical Mystery Tour,196247,trackdone,unexpected-exit-while-paused,True,False,user_03,0
+2018-09-21 00:46:00,Teddy Boy - Remastered 2011,Paul McCartney,McCartney,757,backbtn,fwdbtn,True,False,user_03,1
+2018-09-24 04:54:00,Every Night - Remastered 2011,Paul McCartney,McCartney,123205,trackdone,fwdbtn,True,False,user_03,1
+2018-09-25 05:22:00,Mamunia - 2010 Remaster,Paul McCartney,Band On The Run,290893,trackdone,trackdone,True,False,user_03,1
+2018-09-30 21:43:00,Santeria,Sublime,Sublime,182746,trackdone,trackdone,True,False,user_03,0
+2018-10-01 03:27:00,Michelle - Remastered 2009,The Beatles,Rubber Soul,162373,trackdone,trackdone,True,False,user_03,0
+2018-10-02 14:22:00,Ram On (Reprise) - 1993 Digital Remaster,Paul McCartney,Ram,2317,fwdbtn,fwdbtn,True,False,user_03,0
+2018-10-05 17:59:00,Move Together - The Dark Of The Morning Version,James Bay,Chaos And The Calm,2239,fwdbtn,fwdbtn,True,False,user_03,0
+2018-10-12 03:17:00,Kashmir - 1990 Remaster,Led Zeppelin,Physical Graffiti,2098,fwdbtn,fwdbtn,True,False,user_03,0
+2018-10-13 20:29:00,I Am The Walrus - Remastered 2009,The Beatles,Magical Mystery Tour,223725,appload,trackdone,True,False,user_03,0
+2018-10-16 01:48:00,Snow (Hey Oh),Red Hot Chili Peppers,Stadium Arcadium,335066,trackdone,trackdone,True,False,user_03,0
+2018-10-17 05:56:00,Stars,Les Misérables - 10th Anniversary Concert Cast,Les Misérables (In Concert at the Royal Albert Hall),206466,trackdone,trackdone,True,False,user_03,0
+2018-10-26 22:03:00,Listen to Your Heart,The Maine,Black & White,1198,backbtn,fwdbtn,True,False,user_03,0
+2018-10-26 22:07:00,All Along the Watchtower,Jimi Hendrix,Electric Ladyland,240800,fwdbtn,trackdone,True,False,user_03,0
+2018-10-29 14:26:00,"She Said, She Said",The Black Keys,The Big Come Up,0,fwdbtn,fwdbtn,True,False,user_03,1
+2018-11-02 00:12:00,Uncle Albert/Admiral Halsey - 1993 Digital Remaster,Paul McCartney,Ram,199121,clickrow,unexpected-exit-while-paused,False,False,user_03,1
+2018-11-08 03:38:00,Misery,Maroon 5,Hands All Over - International Deluxe,47003,fwdbtn,fwdbtn,True,False,user_03,1
+2018-11-08 04:37:00,Con Todos Menos Conmigo,Timbiriche,Timbiriche 7,2038,fwdbtn,fwdbtn,True,False,user_03,0
+2018-11-09 00:25:00,No Surprises,Radiohead,OK Computer,229120,fwdbtn,trackdone,True,False,user_03,0
+2018-11-10 21:46:00,Waiting for the Worms,Pink Floyd,The Wall,0,fwdbtn,fwdbtn,True,False,user_03,0
+2018-11-10 21:58:00,Come with Me Now,KONGOS,Lunatic,1644,fwdbtn,fwdbtn,True,False,user_03,0
+2018-11-14 23:55:00,Real Life,Imagine Dragons,Origins,120195,trackdone,logout,False,False,user_03,1
+2018-11-16 17:43:00,Birds,Imagine Dragons,Origins,18975,trackdone,unexpected-exit-while-paused,True,False,user_03,1
+2018-11-16 18:27:00,Birds,Imagine Dragons,Origins,219440,trackdone,trackdone,False,False,user_03,1
+2018-11-21 00:24:00,I Will - 2018 Mix,The Beatles,The Beatles,105786,trackdone,trackdone,False,False,user_03,0
+2018-11-21 22:30:00,Mother Nature's Son - Take 15,The Beatles,The Beatles,191426,trackdone,trackdone,False,False,user_03,0
+2018-11-21 22:57:00,Helter Skelter - Second Version / Take 17,The Beatles,The Beatles,219197,trackdone,trackdone,False,False,user_03,0
+2018-11-22 01:27:00,Teachers,Young the Giant,Mind Over Matter,220786,trackdone,trackdone,True,False,user_03,0
+2018-11-22 02:34:00,Tell Me Why - Remastered 2009,The Beatles,A Hard Day's Night,128693,trackdone,trackdone,True,False,user_03,0
+2018-11-22 04:02:00,She's Got a Way,Billy Joel,Cold Spring Harbor,169226,fwdbtn,trackdone,True,False,user_03,1
+2018-11-24 08:43:00,Si Tú La Ves (feat. Wisin),Nicky Jam,Fénix,221008,trackdone,trackdone,True,False,user_03,0
+2018-11-27 05:26:00,Half Light II (No Celebration),Arcade Fire,The Suburbs,119918,fwdbtn,logout,True,False,user_03,1
+2018-11-27 19:33:00,Not Today,Imagine Dragons,Me Before You,261080,trackdone,trackdone,True,False,user_03,0
+2018-12-05 01:30:00,Maracas,Joan Sebastian,Maracas Vol. 1,1911,fwdbtn,fwdbtn,True,False,user_03,0
+2018-12-05 06:53:00,Ven a Mi,Andrea Bocelli,Sì - Edición Especial En Español,258811,trackdone,trackdone,True,False,user_03,0
+2018-12-06 01:03:00,Estar contigo,Alex Ubago,Mentiras sinceras,232280,trackdone,trackdone,True,False,user_03,0
+2018-12-07 18:27:00,Another One Bites The Dust,Queen,The Game,215533,trackdone,trackdone,False,False,user_03,0
+2018-12-09 02:09:00,Never Enough (Reprise),Loren Allred,The Greatest Showman (Original Motion Picture Soundtrack),80293,trackdone,trackdone,True,False,user_03,0
+2018-12-11 20:36:00,Skyway Avenue,We The Kings,We The Kings,205209,trackdone,trackdone,True,False,user_03,0
+2018-12-13 00:10:00,Tenerife Sea,Ed Sheeran,x,514,trackdone,logout,True,False,user_03,1
+2018-12-14 02:49:00,People Want Peace,Paul McCartney,Egypt Station,75733,appload,trackdone,True,False,user_03,1
+2018-12-19 19:34:00,It's Still Rock and Roll to Me,Billy Joel,Glass Houses,176440,trackdone,trackdone,True,False,user_03,0
+2018-12-24 15:55:00,Subterranean Homesick Alien,Radiohead,OK Computer,267693,trackdone,trackdone,False,False,user_03,0
+2018-12-26 06:32:00,Eraser,Ed Sheeran,÷,1956,fwdbtn,fwdbtn,True,False,user_03,0
+2018-12-26 19:17:00,Helter Skelter - Remastered 2009,The Beatles,The Beatles,4433,trackdone,fwdbtn,True,False,user_03,0
+2018-12-26 21:02:00,I Left My Heart in San Francisco,Tony Bennett,60 Years: The Artistry of Tony Bennett,855,fwdbtn,fwdbtn,True,False,user_03,0
+2019-01-12 02:19:00,Dani California,Red Hot Chili Peppers,Stadium Arcadium,283000,trackdone,trackdone,True,False,user_03,0
+2019-01-17 20:38:00,The Same Boy You've Always Known,The White Stripes,White Blood Cells,142171,trackdone,fwdbtn,True,False,user_03,0
+2019-01-23 03:50:00,Crippled Inside - Remastered 2010,John Lennon,Imagine,923,fwdbtn,backbtn,True,False,user_03,1
+2019-01-24 01:37:00,Oh Yoko! - Remastered 2010,John Lennon,Imagine,1952,fwdbtn,fwdbtn,True,False,user_03,0
+2019-01-24 04:02:00,The Trial,Pink Floyd,The Wall,13410,fwdbtn,fwdbtn,True,False,user_03,0
+2019-01-25 00:14:00,Samba Pa Ti,Santana,Abraxas,284800,fwdbtn,trackdone,True,False,user_03,0
+2019-02-01 18:24:00,Read My Mind,The Killers,Sam's Town,246840,fwdbtn,trackdone,True,False,user_03,0
+2019-02-02 19:36:00,Knee Socks,Arctic Monkeys,AM,161979,trackdone,logout,True,False,user_03,0
+2019-03-05 18:02:00,The Queen's Finest,Keuning,Prismism,209646,trackdone,trackdone,True,False,user_03,1
+2019-03-07 13:59:00,"My Love, My Life",ABBA,Arrival,7950,clickrow,endplay,True,False,user_03,0
+2019-03-27 02:47:00,Maxwell's Silver Hammer - Remastered 2009,The Beatles,Abbey Road,4907,fwdbtn,fwdbtn,True,False,user_03,0
+2019-03-28 18:57:00,Read My Mind,The Killers,Sam's Town,2020,fwdbtn,backbtn,True,False,user_03,1
+2019-03-29 21:22:00,Maggot Brain,Funkadelic,Maggot Brain,255312,fwdbtn,fwdbtn,True,False,user_03,0
+2019-04-04 06:08:00,For Reasons Unknown,The Killers,Sam's Town,212266,fwdbtn,trackdone,True,False,user_03,0
+2019-04-05 05:18:00,Goodbye in Her Eyes,Zac Brown Band,Uncaged,718,fwdbtn,fwdbtn,True,False,user_03,0
+2019-04-05 06:54:00,Read My Mind - Live From The Royal Albert Hall / 2009,The Killers,Live From The Royal Albert Hall,262226,trackdone,trackdone,True,False,user_03,0
+2019-04-05 07:15:00,"Long, Long, Long - Remastered 2009",The Beatles,The Beatles,1075,fwdbtn,fwdbtn,True,False,user_03,0
+2019-04-06 04:05:00,More Than a Feeling,Boston,Boston,690,fwdbtn,fwdbtn,True,False,user_03,0
+2019-04-06 18:07:00,12:51,The Strokes,Room On Fire,153133,trackdone,trackdone,True,False,user_03,1
+2019-04-07 06:36:00,The Super-Natural,John Mayall & The Bluesbreakers,A Hard Road,107021,trackdone,fwdbtn,True,False,user_03,0
+2019-04-07 07:28:00,One After 909 - Naked Version / Remastered 2013,The Beatles,Let It Be... Naked,2481,fwdbtn,fwdbtn,True,False,user_03,0
+2019-04-07 07:43:00,Trampled Under Foot - 1990 Remaster,Led Zeppelin,Physical Graffiti,1900,fwdbtn,fwdbtn,True,False,user_03,0
+2019-04-07 07:46:00,You're My Home,Billy Joel,Piano Man,193440,fwdbtn,trackdone,True,False,user_03,1
+2019-04-08 00:18:00,This Is Your Life,The Killers,Day & Age,218893,fwdbtn,trackdone,True,False,user_03,1
+2019-04-09 17:12:00,A Day In The Life - Remastered 2009,The Beatles,Sgt. Pepper's Lonely Hearts Club Band,267888,clickrow,unexpected-exit-while-paused,False,False,user_03,0
+2019-04-09 18:50:00,FourFiveSeconds,Rihanna,FourFiveSeconds,188238,fwdbtn,trackdone,True,False,user_03,0
+2019-04-10 02:24:00,Peace Of Mind,The Killers,Peace Of Mind,42765,trackdone,fwdbtn,True,False,user_03,0
+2019-04-10 02:30:00,Dead Leaves And The Dirty Ground,The White Stripes,White Blood Cells,2444,fwdbtn,fwdbtn,True,False,user_03,0
+2019-04-13 15:54:00,Just Like Tom Thumb's Blues,Bob Dylan,Highway 61 Revisited,883,fwdbtn,fwdbtn,False,False,user_03,0
+2019-04-16 14:17:00,The Times They Are A-Changin',Bob Dylan,The Times They Are A-Changin',192053,trackdone,trackdone,False,False,user_03,0
+2019-04-19 06:20:00,Too Many People - 1993 Digital Remaster,Paul McCartney,Ram,58746,trackdone,logout,True,False,user_03,0
+2019-04-25 21:43:00,Just Another Girl,The Killers,Direct Hits,1511,fwdbtn,fwdbtn,True,False,user_03,0
+2019-04-25 21:50:00,Who Loves the Sun - 2015 Remaster,The Velvet Underground,Loaded,987,fwdbtn,fwdbtn,True,False,user_03,0
+2019-04-26 04:12:00,Help! - Remastered 2009,The Beatles,Help!,1236,clickrow,endplay,True,False,user_03,0
+2019-06-06 02:17:00,It's a Long Way to the Top (If You Wanna Rock 'N' Roll),AC/DC,High Voltage,301226,trackdone,trackdone,True,False,user_03,0
+2019-06-06 03:02:00,Poison,Alice Cooper,The Best Of Alice Cooper,270786,trackdone,trackdone,True,False,user_03,0
+2019-06-11 21:39:00,Love Illumination,Franz Ferdinand,"Right Thoughts, Right Words, Right Action",222282,trackdone,trackdone,True,False,user_03,0
+2019-06-11 22:04:00,Soma,The Strokes,Is This It,153933,trackdone,trackdone,True,False,user_03,0
+2019-06-11 22:42:00,The Bucket,Kings of Leon,Aha Shake Heartbreak,175546,trackdone,trackdone,True,False,user_03,0
+2019-06-26 14:56:00,Yesterday - Remastered 2009,The Beatles,Help!,63400,clickrow,backbtn,False,False,user_03,1
+2019-06-26 20:52:00,Mamunia - 2010 Remaster,Paul McCartney,Band On The Run,290893,trackdone,trackdone,True,False,user_03,1
+2019-06-28 23:31:00,No Reply - Remastered 2009,The Beatles,Beatles For Sale - Remastered,236662,fwdbtn,trackdone,True,False,user_03,1
+2019-06-30 05:42:00,Nancy Mulligan,Ed Sheeran,÷,2487,fwdbtn,fwdbtn,True,False,user_03,0
+2019-06-30 05:49:00,Whispers In The Dark,Mumford & Sons,Babel,1932,fwdbtn,fwdbtn,True,False,user_03,1
+2019-07-01 20:18:00,Temporary Like Achilles,Bob Dylan,Blonde On Blonde,300306,trackdone,trackdone,True,False,user_03,1
+2019-07-02 20:52:00,The Cave,Mumford & Sons,Sigh No More,218000,trackdone,trackdone,True,False,user_03,0
+2019-07-03 14:33:00,Despite Repeated Warnings,Paul McCartney,Egypt Station,1175,fwdbtn,fwdbtn,True,False,user_03,0
+2019-07-08 18:50:00,We Used To Wait,Arcade Fire,The Suburbs,301400,trackdone,trackdone,True,False,user_03,1
+2019-07-12 20:58:00,Strawberry Fields Forever - Remastered 2009,The Beatles,Magical Mystery Tour,54253,trackdone,backbtn,True,False,user_03,1
+2019-07-12 21:44:00,Golden Slumbers - Remastered 2009,The Beatles,Abbey Road,8335,fwdbtn,fwdbtn,True,False,user_03,0
+2019-07-15 14:21:00,Maxwell's Silver Hammer - Remastered 2009,The Beatles,Abbey Road,137801,fwdbtn,fwdbtn,True,False,user_03,0
+2019-07-16 20:41:00,The Night,Keuning,Prismism,164030,playbtn,trackdone,True,False,user_03,0
+2019-07-17 15:49:00,Castaway,Zac Brown Band,JEKYLL + HYDE,1597,fwdbtn,backbtn,True,False,user_03,0
+2019-07-18 14:50:00,On An Evening In Roma (Sott'er Celo De Roma),Dean Martin,"Dean Martin: The Capitol Recordings, Vol. 9 (1958-1959)",1063,fwdbtn,fwdbtn,True,False,user_03,0
+2019-07-23 01:45:00,That Would Be Something - Remastered 2011,Paul McCartney,McCartney,158613,trackdone,trackdone,True,False,user_03,0
+2019-07-25 14:24:00,Man in Black,Johnny Cash,Man In Black,172986,clickrow,trackdone,True,False,user_03,1
+2019-07-25 21:28:00,Buckets of Rain,Bob Dylan,Blood On The Tracks,203506,trackdone,trackdone,True,False,user_03,1
+2019-07-25 22:03:00,Viva La Vida,Coldplay,Viva La Vida or Death and All His Friends,242373,trackdone,trackdone,False,False,user_03,0
+2019-07-31 16:19:00,You Shook Me All Night Long,AC/DC,Who Made Who,210880,trackdone,trackdone,True,False,user_04,0
+2019-08-02 21:19:00,Smile Like You Mean It - Live From The Royal Albert Hall / 2009,The Killers,Live From The Royal Albert Hall,4176,trackdone,fwdbtn,True,False,user_04,0
+2019-08-02 21:29:00,Three Little Birds,Bob Marley & The Wailers,Exodus,180266,trackdone,trackdone,True,False,user_04,1
+2019-08-06 22:39:00,The Man in Me,Bob Dylan,New Morning,186213,fwdbtn,trackdone,True,False,user_04,1
+2019-08-09 17:29:00,Campus,Vampire Weekend,Vampire Weekend,740,fwdbtn,fwdbtn,True,False,user_04,0
+2019-08-09 18:01:00,Beyond the Sea,Bobby Darin,That's All,172480,trackdone,trackdone,True,False,user_04,1
+2019-08-09 22:34:00,Don't Let Me Down - Remastered 2009,The Beatles,Past Masters,820,fwdbtn,fwdbtn,True,False,user_04,0
+2019-08-11 04:38:00,Callaita,Bad Bunny,Callaita,250533,trackdone,trackdone,False,False,user_04,0
+2019-08-12 18:29:00,Supersonic - 2014 Remaster,Oasis,Definitely Maybe,942,fwdbtn,fwdbtn,True,False,user_04,1
+2019-08-12 18:38:00,Ruptured,Keuning,Prismism,199718,trackdone,trackdone,True,False,user_04,1
+2019-08-13 15:17:00,For Reasons Unknown,The Killers,Sam's Town,212266,fwdbtn,trackdone,True,False,user_04,1
+2019-08-13 18:05:00,Every Night,Imagine Dragons,Night Visions,866,fwdbtn,fwdbtn,True,False,user_04,1
+2019-08-13 18:07:00,Marry Me,Train,"Save Me, San Francisco (Golden Gate Edition)",1150,fwdbtn,fwdbtn,True,False,user_04,0
+2019-08-13 20:24:00,12 Fingers,Young the Giant,Young The Giant,256933,trackdone,trackdone,True,False,user_04,0
+2019-08-14 15:16:00,Gold,Imagine Dragons,Smoke + Mirrors,1007,fwdbtn,fwdbtn,True,False,user_04,0
+2019-08-17 19:38:00,Sit Around And Miss You,The Black Keys,"""Let's Rock""",181285,clickrow,trackdone,True,False,user_04,1
+2019-08-20 21:51:00,Roy Rogers - Remastered 2014,Elton John,Goodbye Yellow Brick Road,5930,clickrow,endplay,False,False,user_04,1
+2019-08-20 22:27:00,Table for One,AWOLNATION,Here Come the Runts,10951,clickrow,backbtn,False,False,user_04,0
+2019-08-22 23:46:00,Everybody's Trying To Be My Baby - Remastered 2009,The Beatles,Beatles For Sale - Remastered,1474,fwdbtn,fwdbtn,True,False,user_04,1
+2019-08-25 16:58:00,She Takes Me High,We The Kings,Smile Kid,1528,fwdbtn,fwdbtn,True,False,user_04,1
+2019-08-26 18:09:00,Komm gib mir deine Hand - Remastered 2009,The Beatles,Past Masters,62200,trackdone,fwdbtn,True,False,user_04,0
+2019-08-26 18:10:00,Estar contigo,Alex Ubago,Mentiras sinceras,1394,fwdbtn,fwdbtn,True,False,user_04,0
+2019-08-26 21:27:00,Optimistic,Radiohead,Kid A,37313,trackdone,fwdbtn,True,False,user_04,1
+2019-08-28 23:59:00,What Do You Want,The Yardbirds,Roger The Engineer / Over Under Sideways Down,1130,fwdbtn,backbtn,True,False,user_04,1
+2019-08-29 00:03:00,Starman - 2012 Remaster,David Bowie,The Rise and Fall of Ziggy Stardust and the Spiders from Mars,2371,fwdbtn,fwdbtn,True,False,user_04,1
+2019-08-29 17:53:00,Spaceman,The Killers,Day & Age - Bonus Tracks,0,backbtn,backbtn,True,False,user_04,1
+2019-08-30 21:57:00,Sweet Black Angel,The Rolling Stones,Exile On Main Street,947,fwdbtn,fwdbtn,True,False,user_04,0
+2019-09-02 21:52:00,Tell Me What You See - Remastered 2009,The Beatles,Help!,157986,trackdone,trackdone,True,False,user_04,1
+2019-09-02 21:55:00,Glamorous Indie Rock And Roll - Sawdust Version,The Killers,Sawdust,848,fwdbtn,fwdbtn,True,False,user_04,0
+2019-09-05 00:23:00,We Don't Deserve Love,Arcade Fire,Everything Now,806,fwdbtn,fwdbtn,True,False,user_04,0
+2019-09-05 17:31:00,Read My Mind,The Killers,Sam's Town,225710,fwdbtn,endplay,True,False,user_04,1
+2019-09-05 18:08:00,The Music Of The Night,Andrew Lloyd Webber,The Phantom Of The Opera,601797,fwdbtn,trackdone,True,False,user_04,0
+2019-09-07 02:27:00,The Show Must Go On,Pink Floyd,The Wall,96560,trackdone,trackdone,False,False,user_04,1
+2019-09-10 21:43:00,I Want To Tell You - Remastered 2009,The Beatles,Revolver,147973,fwdbtn,trackdone,True,False,user_04,1
+2019-09-16 20:33:00,Your Time Is Gonna Come - Remaster,Led Zeppelin,Led Zeppelin,1017,fwdbtn,fwdbtn,True,False,user_04,1
+2019-09-18 23:09:00,Hey Jude - Remastered 2009,The Beatles,Past Masters,30097,clickrow,endplay,False,False,user_04,1
+2019-09-19 02:30:00,Yesterday - Remastered 2009,The Beatles,Help!,243124,clickrow,logout,False,False,user_04,1
+2019-09-19 12:35:00,Go Easy On Me,John Mayer,The Complete 2012 Performances Collection,32244,clickrow,logout,False,False,user_04,1
+2019-09-21 00:54:00,Tinker Tailor Soldier Sailor Rich Man Poor Man Beggar Man Thief,Radiohead,A Moon Shaped Pool,693,fwdbtn,fwdbtn,True,False,user_04,0
+2019-09-21 07:06:00,Mr. Brightside,The Killers,Hot Fuss,222586,trackdone,trackdone,True,False,user_04,1
+2019-09-23 23:07:00,Greedy Soul,Liam Gallagher,As You Were,214986,fwdbtn,trackdone,False,False,user_04,0
+2019-09-24 02:03:00,I Gave You All,Mumford & Sons,Sigh No More,260040,trackdone,trackdone,True,False,user_04,1
+2019-09-26 03:41:00,Roll it on Home,John Mayer,The Search for Everything,202813,trackdone,trackdone,True,False,user_04,0
+2019-09-28 21:51:00,Something - Studio Demo,The Beatles,Abbey Road,217226,trackdone,trackdone,False,False,user_04,0
+2019-10-01 02:15:00,Remedy,Zac Brown Band,JEKYLL + HYDE,1060,fwdbtn,fwdbtn,True,False,user_04,0
+2019-10-01 03:18:00,Beautiful Drug,Zac Brown Band,JEKYLL + HYDE,647,fwdbtn,fwdbtn,True,False,user_04,1
+2019-10-01 03:18:00,Army of Angels,The Script,No Sound Without Silence,0,fwdbtn,fwdbtn,True,False,user_04,0
+2019-10-01 03:27:00,Goodbye Yellow Brick Road - Remastered 2014,Elton John,Goodbye Yellow Brick Road,192826,trackdone,trackdone,True,False,user_04,0
+2019-10-02 17:08:00,Maybe It's Time,Bradley Cooper,A Star Is Born Soundtrack,159293,backbtn,trackdone,False,False,user_04,1
+2019-10-05 20:59:00,Let Down,Radiohead,OK Computer,299560,trackdone,trackdone,False,False,user_04,1
+2019-10-07 14:38:00,Send Me On My Way,Rusted Root,When I Woke,12325,trackdone,endplay,False,False,user_04,1
+2019-10-07 16:49:00,"La traviata, Act I: Libiamo ne' lieti calici ""Brindisi""",Giuseppe Verdi,Verdi: La Traviata,175506,trackdone,trackdone,False,False,user_04,1
+2019-10-08 15:18:00,One Day More!,Les Misérables - 10th Anniversary Concert Cast,Les Misérables (In Concert at the Royal Albert Hall),256800,trackdone,trackdone,False,False,user_04,0
+2019-10-11 22:57:00,Magic Place,The Mud Howlers,Timeliness,942,fwdbtn,fwdbtn,True,False,user_04,1
+2019-10-14 23:09:00,Stop And Stare,OneRepublic,Dreaming Out Loud,57603,fwdbtn,fwdbtn,True,False,user_04,0
+2019-10-14 23:19:00,Pyro,Kings of Leon,Come Around Sundown (Expanded Edition),1472,fwdbtn,fwdbtn,True,False,user_04,0
+2019-10-14 23:30:00,The Rubberband Man - Single Version,The Spinners,Smooth And Sweet,1025,fwdbtn,fwdbtn,True,False,user_04,0
+2019-10-15 13:42:00,I Don't Wanna Be In Love (Dance Floor Anthem),Good Charlotte,Good Morning Revival,1003,fwdbtn,fwdbtn,True,False,user_04,0
+2019-10-15 13:48:00,It's Only Rock'n'Roll (But I Like It) - Remastered 2009,The Rolling Stones,It's Only Rock 'N' Roll,1143,fwdbtn,fwdbtn,True,False,user_04,0
+2019-10-15 14:06:00,Cigarettes & Alcohol - 2014 Remaster,Oasis,Definitely Maybe,285986,trackdone,fwdbtn,True,False,user_04,0
+2019-10-15 14:28:00,Cherry Wine - Live,Hozier,Hozier,882,fwdbtn,fwdbtn,True,False,user_04,0
+2019-10-17 15:28:00,Up Around The Bend,Creedence Clearwater Revival,Cosmo's Factory,161466,trackdone,trackdone,True,False,user_04,1
+2019-10-17 17:40:00,Engagement Party,Justin Hurwitz,La La Land,87213,clickrow,trackdone,True,False,user_04,0
+2019-10-19 19:38:00,"I Don't Want to Miss a Thing - From the Touchstone film, ""Armageddon""",Aerosmith,I Don't Want To Miss A Thing,813,fwdbtn,fwdbtn,True,False,user_04,0
+2019-10-22 16:51:00,Lyla,Oasis,Don't Believe The Truth,351,fwdbtn,fwdbtn,True,False,user_04,1
+2019-10-22 22:29:00,Sweet Virginia,The Rolling Stones,Exile On Main Street,274384,appload,trackdone,True,False,user_04,1
+2019-10-28 21:48:00,Electric Love,BØRNS,Dopamine,0,fwdbtn,backbtn,True,False,user_04,1
+2019-10-29 21:05:00,Rip This Joint,The Rolling Stones,Exile On Main Street,667,fwdbtn,fwdbtn,True,False,user_04,1
+2019-10-31 20:52:00,Good Day Sunshine - Remastered 2009,The Beatles,Revolver,95280,fwdbtn,fwdbtn,True,False,user_04,0
+2019-10-31 21:24:00,Se a Cabo,Santana,Abraxas,0,fwdbtn,fwdbtn,True,False,user_04,0
+2019-11-01 05:24:00,Kansas City / Hey-Hey-Hey-Hey - Medley / Remastered 2009,The Beatles,Beatles For Sale - Remastered,585,fwdbtn,fwdbtn,True,False,user_04,1
+2019-11-01 17:39:00,Going Down,Lou Reed,Lou Reed,175400,playbtn,trackdone,True,False,user_04,0
+2019-11-02 23:10:00,THISKIDSNOTALRIGHT,AWOLNATION,Megalithic Symphony Deluxe,161200,fwdbtn,trackdone,True,False,user_04,0
+2019-11-02 23:14:00,The Continuing Story Of Bungalow Bill - Remastered 2009,The Beatles,The Beatles,194160,trackdone,trackdone,True,False,user_04,0
+2019-11-03 18:38:00,Bullet in the Brain,The Black Keys,Turn Blue,3315,clickrow,endplay,True,False,user_04,0
+2019-11-05 22:03:00,Some Kind Of Love,The Killers,Wonderful Wonderful,0,fwdbtn,fwdbtn,True,False,user_04,0
+2019-11-05 22:06:00,There's A Place - Remastered 2009,The Beatles,Please Please Me,606,fwdbtn,fwdbtn,True,False,user_04,0
+2019-11-05 22:55:00,Money (That's What I Want) - Remastered 2009,The Beatles,With The Beatles,0,fwdbtn,fwdbtn,True,False,user_04,0
+2019-11-06 20:30:00,"Honey, Just Allow Me One More Chance",Bob Dylan,The Freewheelin' Bob Dylan,0,fwdbtn,fwdbtn,True,False,user_04,1
+2019-11-08 20:41:00,Long As I Can See The Light,Creedence Clearwater Revival,Cosmo's Factory,574,fwdbtn,fwdbtn,True,False,user_04,1
+2019-11-08 20:41:00,Holy Roller Novocaine,Kings of Leon,Youth And Young Manhood,1037,fwdbtn,fwdbtn,True,False,user_04,0
+2019-11-11 16:48:00,Hello,Adele,25,975,fwdbtn,fwdbtn,True,False,user_04,0
+2019-11-14 07:35:00,Boys - Remastered 2009,The Beatles,Please Please Me,680,fwdbtn,fwdbtn,True,False,user_04,0
+2019-11-15 17:42:00,Long Tall Sally,Elvis Presley,Elvis,112733,trackdone,trackdone,True,False,user_04,0
+2019-11-23 01:49:00,Nobody Knows - Remastered 2011,Paul McCartney,McCartney II,763,fwdbtn,fwdbtn,True,False,user_04,0
+2019-11-24 08:18:00,Bad Moon Rising,Creedence Clearwater Revival,Green River,867,fwdbtn,fwdbtn,True,False,user_04,1
+2019-11-28 06:44:00,Move Away,The Killers,Sawdust,4418,fwdbtn,fwdbtn,True,False,user_04,0
+2019-11-28 06:53:00,Keep Your Hands off Her,The Black Keys,Chulahoma,1623,fwdbtn,fwdbtn,True,False,user_04,0
+2019-11-29 21:43:00,I'll Follow The Sun - Remastered 2009,The Beatles,Beatles For Sale - Remastered,108853,trackdone,trackdone,True,False,user_04,0
+2019-12-04 06:28:00,Ballad of a Thin Man,Bob Dylan,Highway 61 Revisited,33580,trackdone,logout,True,False,user_04,1
+2019-12-04 06:55:00,Run For Your Life - Remastered 2009,The Beatles,Rubber Soul,7115,fwdbtn,fwdbtn,True,False,user_04,0
+2019-12-10 03:49:00,Clavado en Un Bar,Maná,Sueños Líquidos,310813,trackdone,trackdone,True,False,user_04,0
+2019-12-13 02:56:00,The Man in Me,Bob Dylan,New Morning,186213,trackdone,trackdone,True,False,user_04,0
+2019-12-13 03:31:00,Hard To Explain,The Strokes,Is This It,223979,trackdone,trackdone,True,False,user_04,1
+2019-12-13 03:36:00,Hotel Yorba,The White Stripes,White Blood Cells,130333,trackdone,trackdone,True,False,user_04,0
+2019-12-13 04:14:00,We Used To Wait,Arcade Fire,The Suburbs,301400,trackdone,trackdone,True,False,user_04,0
+2019-12-20 02:20:00,Daddy's Eyes,The Killers,Sawdust,854,fwdbtn,backbtn,True,False,user_04,0
+2019-12-22 20:47:00,All the Debts I Owe,Caamp,Caamp,193048,trackdone,trackdone,False,False,user_04,0
+2019-12-27 07:11:00,Happy Alone,Kings of Leon,Youth And Young Manhood,25563,trackdone,endplay,True,False,user_04,0
+2019-12-27 09:08:00,Live With Me,The Rolling Stones,Let It Bleed,213133,trackdone,trackdone,True,False,user_04,0
+2019-12-31 20:47:00,Si Tu Me Quisieras - Remastered,Pedro Infante,Selección Especial,165234,fwdbtn,trackdone,True,False,user_04,1
+2019-12-31 21:58:00,Fallaste Corazon - Remastered,Pedro Infante,Selección Especial,14106,clickrow,endplay,True,False,user_04,1
+2019-12-31 22:35:00,Tu Enamorado - Remastered,Pedro Infante,Selección Especial,189280,trackdone,trackdone,True,False,user_04,0
+2020-01-01 11:44:00,Enamorada,Omar Chaparro,Como Caído del Cielo,60880,fwdbtn,fwdbtn,True,False,user_04,0
+2020-01-17 01:32:00,"Roméo et Juliette, CG 9, Act I: Ah, je veux vivre",Charles Gounod,The Art Of Renée Fleming,219800,trackdone,trackdone,False,False,user_04,0
+2020-01-17 02:39:00,"Don Pasquale / Act 3: ""Com'è gentil...tornami a dir""",Gaetano Donizetti,Ten Top Tenors,228640,trackdone,trackdone,False,False,user_04,0
+2020-01-22 02:35:00,Wait - Remastered 2009,The Beatles,Rubber Soul,6259,fwdbtn,fwdbtn,True,False,user_04,0
+2020-01-23 04:25:00,Mind Eraser,The Black Keys,El Camino,737,fwdbtn,fwdbtn,True,False,user_04,0
+2020-01-27 00:13:00,Si Nos Dejan,José Alfredo Jimenez,Las 100 Clasicas Vol. 2,144706,trackdone,trackdone,True,False,user_04,1
+2020-01-29 03:49:00,Life in Technicolor,Coldplay,Viva La Vida or Death and All His Friends,149133,fwdbtn,trackdone,True,False,user_04,0
+2020-01-29 04:34:00,Esclavo De Sus Besos,David Bisbal,Sin Mirar Atrás,59524,trackdone,fwdbtn,True,False,user_04,0
+2020-01-29 05:46:00,Long As I Can See The Light,Creedence Clearwater Revival,Cosmo's Factory,210866,playbtn,trackdone,True,False,user_04,0
+2020-01-31 19:00:00,Mansard Roof,Vampire Weekend,Vampire Weekend,730,fwdbtn,fwdbtn,True,False,user_04,0
+2020-02-01 19:28:00,Locked out of Heaven,Bruno Mars,Unorthodox Jukebox,1043,fwdbtn,fwdbtn,True,False,user_04,0
+2020-02-01 20:00:00,M79,Vampire Weekend,Vampire Weekend,1474,fwdbtn,fwdbtn,True,False,user_04,0
+2020-02-03 06:50:00,Si Nos Dejan,José Alfredo Jimenez,Las 100 Clasicas Vol. 2,144706,trackdone,trackdone,True,False,user_04,1
+2020-02-13 17:07:00,Come Fly With Me,Frank Sinatra,Ultimate Sinatra,95846,trackdone,endplay,True,False,user_04,0
+2020-02-21 17:35:00,Honey Pie - Remastered 2009,The Beatles,The Beatles,803,playbtn,fwdbtn,True,False,user_04,0
+2020-02-21 17:52:00,D'yer Mak'er - Remaster,Led Zeppelin,Houses of the Holy,71774,fwdbtn,fwdbtn,True,False,user_04,1
+2020-02-22 11:40:00,The Modern Age,The Strokes,Is This It,207679,fwdbtn,trackdone,False,False,user_04,1
+2020-02-27 03:15:00,We Can Work It Out - Remastered 2009,The Beatles,Past Masters,135440,appload,trackdone,True,False,user_04,0
+2020-02-28 23:18:00,That's Where You're Wrong,Arctic Monkeys,Suck It and See,256800,fwdbtn,trackdone,True,False,user_04,0
+2020-02-29 02:31:00,Paperback Writer - Remastered 2009,The Beatles,Past Masters,1128,fwdbtn,fwdbtn,True,False,user_04,0
+2020-02-29 02:35:00,Flowers In Your Hair,The Lumineers,The Lumineers,767,fwdbtn,fwdbtn,True,False,user_04,0
+2020-02-29 04:21:00,Oye Como Va,Santana,Abraxas,256933,fwdbtn,trackdone,True,False,user_04,1
+2020-02-29 19:01:00,Master of the House,Les Misérables - 10th Anniversary Concert Cast,Les Misérables (In Concert at the Royal Albert Hall),1263,fwdbtn,fwdbtn,True,False,user_04,0
+2020-02-29 22:14:00,In Our Prime,The Black Keys,Turn Blue,3577,fwdbtn,fwdbtn,True,False,user_04,0
+2020-02-29 22:20:00,"Another Brick in the Wall, Pt. 3",Pink Floyd,The Wall,732,fwdbtn,fwdbtn,True,False,user_04,0
+2020-03-01 01:21:00,Homegrown,Zac Brown Band,JEKYLL + HYDE,1344,fwdbtn,fwdbtn,True,False,user_04,0
+2020-03-05 16:24:00,No Reply - Remastered 2009,The Beatles,Beatles For Sale - Remastered,235532,fwdbtn,trackdone,True,False,user_04,0
+2020-03-06 17:16:00,All the Debts I Owe,Caamp,Caamp,193048,trackdone,trackdone,True,False,user_04,0
+2020-03-07 21:55:00,Esclavo De Sus Besos,David Bisbal,Sin Mirar Atrás,2133,fwdbtn,fwdbtn,True,False,user_04,0
+2020-03-13 00:58:00,Caution,The Killers,Caution,269534,backbtn,trackdone,False,False,user_04,1
+2020-03-14 03:02:00,Caution,The Killers,Caution,13200,clickrow,remote,False,False,user_04,1
+2020-03-19 18:34:00,Treat Her Right,Roy Head And The Traits,The Best Of Roy Head,125894,clickrow,trackdone,False,False,user_04,1
+2020-03-19 18:43:00,Hoy Ten Miedo De Mi,Fernando Delgadillo,Con Cierto Aire a Ti,178797,trackdone,trackdone,False,False,user_04,1
+2020-03-20 03:59:00,When You Were Young,The Killers,Sam's Town,219994,trackdone,trackdone,False,False,user_04,1
+2020-03-20 15:36:00,Leave The Bourbon On The Shelf,The Killers,Sawdust,218493,trackdone,trackdone,True,False,user_04,1
+2020-03-21 04:59:00,White Blank Page,Mumford & Sons,Sigh No More,254186,trackdone,trackdone,True,False,user_04,1
+2020-03-21 05:19:00,"Folsom Prison Blues - Live at Folsom State Prison, Folsom, CA - January 1968",Johnny Cash,At Folsom Prison,162653,trackdone,trackdone,True,False,user_04,1
+2020-03-26 21:26:00,Mr. Blue Sky,Electric Light Orchestra,Out of the Blue,303374,trackdone,trackdone,False,False,user_04,0
+2020-03-26 21:59:00,Rock 'n' Roll Suicide - 2012 Remaster,David Bowie,The Rise and Fall of Ziggy Stardust and the Spiders from Mars,178289,trackdone,trackdone,False,False,user_04,1
+2020-03-26 22:40:00,The Diamond Church Street Choir,The Gaslight Anthem,American Slang,175664,clickrow,trackdone,False,False,user_04,0
+2020-03-28 23:16:00,Run For Cover,The Killers,Wonderful Wonderful,222147,trackdone,trackdone,False,False,user_04,1
+2020-03-30 15:57:00,Cinema Paradiso,Ennio Morricone,Cinema Paradiso,178490,trackdone,trackdone,False,False,user_04,0
+2020-04-01 19:03:00,Half Light I,Arcade Fire,The Suburbs,253667,trackdone,trackdone,False,False,user_04,1
+2020-04-08 17:47:00,Stuck Inside of Mobile with the Memphis Blues Again,Bob Dylan,Blonde On Blonde,423091,trackdone,trackdone,False,False,user_04,1
+2020-04-08 18:27:00,Boots of Spanish Leather,Bob Dylan,The Times They Are A-Changin',277130,trackdone,trackdone,False,False,user_04,0
+2020-04-14 17:30:00,Rock 'n' Roll Suicide - 2012 Remaster,David Bowie,The Rise and Fall of Ziggy Stardust and the Spiders from Mars,178289,trackdone,trackdone,False,False,user_04,1
+2020-04-15 17:04:00,Honey Don't - Remastered 2009,The Beatles,Beatles For Sale - Remastered,6930,remote,fwdbtn,False,False,user_04,1
+2020-04-15 17:48:00,Dizzy Miss Lizzy - Remastered 2009,The Beatles,Help!,176495,trackdone,trackdone,False,False,user_04,0
+2020-04-15 18:24:00,Run For Your Life - Remastered 2009,The Beatles,Rubber Soul,141094,trackdone,trackdone,False,False,user_04,1
+2020-04-19 22:30:00,It's a Long Way to the Top (If You Wanna Rock 'N' Roll),AC/DC,High Voltage,301226,trackdone,trackdone,True,False,user_04,0
+2020-04-19 23:47:00,Lookin' Out My Back Door,Creedence Clearwater Revival,Cosmo's Factory,152453,trackdone,trackdone,True,False,user_04,0
+2020-04-20 16:31:00,Just Another Girl,The Killers,Direct Hits,262000,trackdone,trackdone,False,False,user_04,1
+2020-04-25 22:36:00,Oh! You Pretty Things - 2015 Remaster,David Bowie,Hunky Dory,193986,trackdone,trackdone,True,False,user_04,0
+2020-04-26 23:16:00,Tu y las Nubes - Remastered,Pedro Infante,Selección Especial,183866,trackdone,trackdone,True,False,user_04,1
+2020-04-27 16:39:00,"In Your Atmosphere - Live at the Nokia Theatre, Los Angeles, CA - December 2007",John Mayer,Where the Light Is: John Mayer Live In Los Angeles,345627,trackdone,trackdone,False,False,user_04,1
+2020-04-29 21:18:00,Everything Now,Arcade Fire,Everything Now,178349,fwdbtn,fwdbtn,False,False,user_04,1
+2020-04-29 23:06:00,Amnesia,5 Seconds of Summer,5 Seconds Of Summer,0,fwdbtn,fwdbtn,True,False,user_04,1
+2020-05-01 14:45:00,(I'm Gonna) Love Me Again,Elton John,Rocketman,250196,trackdone,trackdone,False,False,user_04,0
+2020-05-01 15:47:00,I Want To Tell You - Remastered 2009,The Beatles,Revolver,2281,fwdbtn,fwdbtn,False,False,user_04,1
+2020-05-01 16:29:00,I Love Penny Sue,Daniel May,Midnight in Paris (Music from the Motion Picture),193115,trackdone,endplay,False,False,user_04,1
+2020-05-01 16:54:00,Nuovo Cinema Paradiso,Ennio Morricone,Nuovo Cinema Paradiso (Original Motion Picture Soundtrack),178690,clickrow,trackdone,False,False,user_04,1
+2020-05-04 04:24:00,Run For Cover,The Killers,Wonderful Wonderful,222146,trackdone,trackdone,True,False,user_04,1
+2020-05-06 21:40:00,El Condor Pasa (If I Could),Simon & Garfunkel,Bridge Over Troubled Water,187064,trackdone,trackdone,False,False,user_04,1
+2020-05-15 06:15:00,Help! - Remastered 2009,The Beatles,Help!,4678,trackdone,fwdbtn,True,False,user_04,0
+2020-05-15 16:05:00,Break on Through (To the Other Side),The Doors,The Doors,145752,clickrow,trackdone,False,False,user_04,1
+2020-05-15 17:33:00,Little Lion Man,Mumford & Sons,Sigh No More,247000,playbtn,trackdone,False,False,user_04,0
+2020-05-18 16:56:00,Why Do I Keep Counting?,The Killers,Sam's Town,264454,trackdone,trackdone,False,False,user_04,0
+2020-05-19 20:07:00,All The Small Things,blink-182,Enema Of The State,167067,trackdone,trackdone,False,False,user_04,0
+2020-05-22 16:42:00,Any Colour You Like,Pink Floyd,The Dark Side of the Moon,41114,trackdone,fwdbtn,False,False,user_04,0
+2020-05-28 21:53:00,Voodoo Child (Slight Return),Stevie Ray Vaughan,Couldn't Stand The Weather,0,fwdbtn,fwdbtn,False,False,user_04,0
+2020-05-29 18:38:00,Communication Breakdown - Remaster,Led Zeppelin,Led Zeppelin,77806,trackdone,logout,False,False,user_04,0
+2020-05-31 17:00:00,Till There Was You - Remastered 2009,The Beatles,With The Beatles,550,fwdbtn,fwdbtn,True,False,user_04,0
+2020-05-31 23:05:00,Take It Away - Remixed 2015,Paul McCartney,Tug Of War,1290,fwdbtn,fwdbtn,True,False,user_04,0
+2020-06-03 18:17:00,All the Debts I Owe,Caamp,Caamp,193073,trackdone,trackdone,False,False,user_04,0
+2020-06-04 02:02:00,Sinister Kid,The Black Keys,Brothers,224533,trackdone,trackdone,True,False,user_04,0
+2020-06-07 20:18:00,Machu Picchu,The Strokes,Angles,209626,trackdone,trackdone,True,False,user_04,0
+2020-06-07 21:39:00,Runaways,The Killers,Battle Born,0,fwdbtn,fwdbtn,True,False,user_04,0
+2020-06-07 23:31:00,Lust For Life,Iggy Pop,Lust For Life,313925,trackdone,trackdone,True,False,user_04,0
+2020-06-08 00:14:00,She's Always a Woman,Billy Joel,The Stranger,0,fwdbtn,fwdbtn,True,False,user_04,0
+2020-06-13 04:49:00,Some Nights - Intro,fun.,Some Nights,137760,fwdbtn,trackdone,True,False,user_04,0
+2020-06-15 05:18:00,Cavalleria rusticana: Intermezzo,Pietro Mascagni,Mascagni: Cavalleria Rusticana/Leoncavallo: Pagliacci,190226,trackdone,trackdone,True,False,user_04,0
+2020-06-17 15:27:00,Apartment,Young the Giant,Young The Giant,235753,trackdone,trackdone,False,False,user_04,0
+2020-06-17 16:16:00,Here Comes The Night Time,Arcade Fire,Reflektor,389981,trackdone,trackdone,False,False,user_04,0
+2020-06-18 17:45:00,Dark Necessities,Red Hot Chili Peppers,The Getaway,302000,trackdone,trackdone,False,False,user_04,1
+2020-06-20 23:02:00,Reapers,Muse,Drones,359520,fwdbtn,trackdone,True,False,user_04,0
+2020-06-20 23:41:00,Too Many People - Remastered 2012,Paul McCartney,Ram,7168,trackdone,fwdbtn,True,False,user_04,0
+2020-06-25 03:38:00,Hanging By A Moment,Lifehouse,No Name Face,216066,fwdbtn,trackdone,True,False,user_04,0
+2020-06-26 04:55:00,Goodnight Ladies,Lou Reed,Transformer,1038,fwdbtn,fwdbtn,True,False,user_04,0
+2020-06-26 06:53:00,THISKIDSNOTALRIGHT,AWOLNATION,Megalithic Symphony Deluxe,161200,trackdone,trackdone,True,False,user_04,0
+2020-07-03 04:48:00,Killing Time,Triumph,Thunder Seven,8602,fwdbtn,endplay,True,False,user_04,0
+2020-07-10 19:44:00,Love on the Weekend,John Mayer,The Search for Everything,212320,trackdone,trackdone,True,False,user_05,0
+2020-07-23 04:00:00,II. No Exit,Childish Gambino,Because the Internet,171779,trackdone,trackdone,False,False,user_05,0
+2020-07-23 05:59:00,Back In Black,AC/DC,Back In Black,255493,trackdone,trackdone,True,False,user_05,0
+2020-07-28 18:56:00,Runaway,Kanye West,My Beautiful Dark Twisted Fantasy,953,fwdbtn,fwdbtn,True,False,user_05,1
+2020-07-29 19:40:00,Rock This Town,Stray Cats,Stray Cats,2874,playbtn,fwdbtn,True,False,user_05,0
+2020-08-10 02:15:00,In My Life - Remastered 2009,The Beatles,Rubber Soul,146333,playbtn,trackdone,True,False,user_05,1
+2020-08-10 04:03:00,"Give My Love to Rose - Live at Folsom State Prison, Folsom, CA - January 1968",Johnny Cash,At Folsom Prison,162173,trackdone,trackdone,True,False,user_05,0
+2020-08-11 15:53:00,Empty Room,Arcade Fire,The Suburbs,171533,trackdone,trackdone,True,False,user_05,1
+2020-08-11 17:21:00,Wasted Hours,Arcade Fire,The Suburbs,200720,trackdone,trackdone,True,False,user_05,0
+2020-08-12 22:37:00,I Need You - Remastered 2009,The Beatles,Help!,9376,fwdbtn,fwdbtn,True,False,user_05,1
+2020-08-12 22:37:00,Somedays - 2020 Remaster,Paul McCartney,Flaming Pie - Archive Collection,255106,trackdone,trackdone,False,False,user_05,0
+2020-08-12 23:38:00,Se Me Va La Voz,Alejandro Fernández,Dos Mundos - Evolución,794,fwdbtn,fwdbtn,True,False,user_05,0
+2020-08-13 00:16:00,Street Life,Purple Disco Machine,Move Or Not EP,403959,trackdone,trackdone,False,False,user_05,0
+2020-08-14 05:14:00,Panama City,Sech,1 of 1,166054,trackdone,trackdone,False,False,user_05,0
+2020-08-14 17:12:00,Beautiful Night - 2020 Remaster,Paul McCartney,Flaming Pie - Archive Collection,12376,trackdone,endplay,False,False,user_05,1
+2020-08-15 11:28:00,Horchata,Vampire Weekend,Contra,206733,trackdone,trackdone,True,False,user_05,0
+2020-08-15 12:10:00,Flares,The Script,No Sound Without Silence,229320,trackdone,trackdone,True,False,user_05,0
+2020-08-15 14:58:00,Love - Remastered 2010,John Lennon,Plastic Ono Band,40637,trackdone,fwdbtn,True,False,user_05,0
+2020-08-15 23:09:00,Four Winds,The Killers,Spaceman,1452,trackdone,fwdbtn,True,False,user_05,0
+2020-08-15 23:12:00,Across The Universe - Remastered 2009,The Beatles,Let It Be,1073,fwdbtn,fwdbtn,True,False,user_05,0
+2020-08-16 13:41:00,El Amor,Ricardo Arjona,Independiente,3141,trackdone,fwdbtn,True,False,user_05,0
+2020-08-16 13:43:00,Sister Morphine - 2009 Mix,The Rolling Stones,Sticky Fingers,124523,fwdbtn,fwdbtn,True,False,user_05,0
+2020-08-16 15:26:00,She's Always a Woman,Billy Joel,The Stranger,201373,trackdone,trackdone,True,False,user_05,0
+2020-08-16 18:01:00,Bailando (Reggae),Jimmy Bad Boy,Bailando,148474,trackdone,fwdbtn,True,False,user_05,0
+2020-08-17 03:28:00,Man We Was Lonely - Remastered 2011,Paul McCartney,McCartney,178160,trackdone,trackdone,True,False,user_05,1
+2020-08-18 02:21:00,Mr Moonlight - Remastered 2009,The Beatles,Beatles For Sale - Remastered,581,fwdbtn,fwdbtn,True,False,user_05,0
+2020-08-18 02:37:00,The Kids,Lou Reed,Berlin,64441,trackdone,fwdbtn,True,False,user_05,1
+2020-08-18 07:53:00,Uprising,Muse,The Resistance,1199,fwdbtn,fwdbtn,True,False,user_05,1
+2020-08-20 00:06:00,Beautiful Night - 2020 Remaster,Paul McCartney,Flaming Pie - Archive Collection,308920,trackdone,trackdone,False,False,user_05,1
+2020-08-20 04:31:00,It's Only Rock'n'Roll (But I Like It) - Remastered 2009,The Rolling Stones,It's Only Rock 'N' Roll,307440,trackdone,trackdone,True,False,user_05,1
+2020-08-27 20:10:00,Why Don't You Write Me,Simon & Garfunkel,Bridge Over Troubled Water,166173,trackdone,trackdone,True,False,user_05,0
+2020-08-31 19:28:00,Fire In Bone,The Killers,Imploding The Mirage,233373,trackdone,trackdone,False,False,user_05,1
+2020-09-01 00:08:00,Headlights,Eminem,The Marshall Mathers LP2,670,fwdbtn,fwdbtn,True,False,user_05,0
+2020-09-01 14:54:00,Mother's Daughter,Santana,Abraxas,265466,fwdbtn,trackdone,True,False,user_05,1
+2020-09-02 23:42:00,American Bohemian - Gatlinburg Demo,Houndmouth,California Voodoo,101635,clickrow,unexpected-exit-while-paused,True,False,user_05,1
+2020-09-04 18:35:00,Why Are Sundays So Depressing,The Strokes,The New Abnormal,275666,trackdone,trackdone,True,False,user_05,0
+2020-09-04 19:03:00,Is This It,The Strokes,Is This It,150651,clickrow,trackdone,False,False,user_05,0
+2020-09-06 07:44:00,Craving - Acoustic Version,James Bay,Craving,1376,fwdbtn,fwdbtn,True,False,user_05,0
+2020-09-06 08:03:00,I Don't Wanna Get Wise,The Who,WHO,2252,fwdbtn,fwdbtn,True,False,user_05,0
+2020-09-07 19:07:00,Hey Jude - Remastered 2009,The Beatles,Past Masters,340862,trackdone,fwdbtn,True,False,user_05,0
+2020-09-11 00:35:00,Getting In Tune,The Who,Who's Next - Deluxe Edition,675,fwdbtn,fwdbtn,True,False,user_05,1
+2020-09-13 01:34:00,Long Tall Sally,Elvis Presley,Elvis,1101,fwdbtn,fwdbtn,True,False,user_05,0
+2020-09-13 01:50:00,That Would Be Something - Remastered 2011,Paul McCartney,McCartney,2413,fwdbtn,fwdbtn,True,False,user_05,1
+2020-09-13 05:06:00,Who'll Stop The Rain,Creedence Clearwater Revival,Cosmo's Factory,147493,trackdone,trackdone,True,False,user_05,0
+2020-09-15 08:04:00,By The Time,MIKA,The Boy Who Knew Too Much,2896,fwdbtn,fwdbtn,False,False,user_05,0
+2020-09-15 18:05:00,Supersonic Rocket Ship,The Kinks,Everybody's in Show-Biz,210066,clickrow,trackdone,True,False,user_05,1
+2020-09-17 16:48:00,The Times They Are A-Changin',Bob Dylan,The Times They Are A-Changin',192053,trackdone,trackdone,True,False,user_05,1
+2020-09-21 19:03:00,All I Ever Wanted,Vance Joy,Dream Your Life Away,216880,trackdone,trackdone,True,False,user_05,0
+2020-09-23 23:01:00,Inolvidable,Reik,Un Dia Mas (Edicion Especial),6615,trackdone,fwdbtn,True,False,user_05,0
+2020-09-25 19:12:00,I Still Miss Someone,Johnny Cash,The Fabulous Johnny Cash,153520,trackdone,trackdone,True,False,user_05,0
+2020-09-28 15:53:00,Somebody To Love - Remastered 2011,Queen,A Day At The Races,296480,trackdone,trackdone,True,False,user_05,1
+2020-09-28 16:08:00,Yo Más Te Adoro,Morat,Sobre El Amor Y Sus Efectos Secundarios,202426,trackdone,trackdone,True,False,user_05,0
+2020-09-28 23:25:00,Happy,The Rolling Stones,Exile On Main Street,111579,trackdone,fwdbtn,True,False,user_05,0
+2020-10-01 18:16:00,Little Lion Man,Mumford & Sons,Sigh No More,247000,fwdbtn,trackdone,True,False,user_05,1
+2020-10-01 19:19:00,You Better Run,Liam Gallagher,As You Were,204184,trackdone,trackdone,True,False,user_05,1
+2020-10-01 21:03:00,Loving You Easy,Zac Brown Band,JEKYLL + HYDE,155653,trackdone,trackdone,True,False,user_05,1
+2020-10-01 21:06:00,Wouldn't It Be Nice - Mono,The Beach Boys,Pet Sounds,145800,trackdone,trackdone,True,False,user_05,0
+2020-10-04 00:59:00,I'm Sitting On Top Of The World,Bobby Darin,I Got Rhythm,596,playbtn,endplay,True,False,user_05,1
+2020-10-06 17:23:00,Totò e Alfredo - Version 2,Ennio Morricone,Nuovo Cinema Paradiso (Original Motion Picture Soundtrack),81026,trackdone,trackdone,False,False,user_05,1
+2020-10-08 00:11:00,Machine,Imagine Dragons,Origins,1084,fwdbtn,fwdbtn,True,False,user_05,0
+2020-10-08 16:52:00,Epilogue,Justin Hurwitz,La La Land,459466,trackdone,trackdone,True,False,user_05,1
+2020-10-09 16:29:00,All These Things That I've Done - Live From The Royal Albert Hall / 2009,The Killers,Live From The Royal Albert Hall,23,fwdbtn,fwdbtn,True,False,user_05,1
+2020-10-11 18:01:00,Happier,Ed Sheeran,÷,207520,trackdone,trackdone,True,False,user_05,0
+2020-10-11 19:53:00,Married with Children - 2014 Remaster,Oasis,Definitely Maybe,195000,trackdone,trackdone,True,False,user_05,0
+2020-10-11 21:42:00,Adam's Apple,Aerosmith,Toys In The Attic,944,fwdbtn,fwdbtn,True,False,user_05,0
+2020-10-11 21:57:00,Wasted Hours,Arcade Fire,The Suburbs,4472,fwdbtn,fwdbtn,True,False,user_05,0
+2020-10-13 18:40:00,Potter Waltz,Patrick Doyle,Harry Potter And The Goblet Of Fire (Original Motion Picture Soundtrack),138840,trackdone,trackdone,False,False,user_05,1
+2020-10-14 16:14:00,The Norwegian Ridgeback and a Change of Season,John Williams,Harry Potter and The Sorcerer's Stone Original Motion Picture Soundtrack,167400,trackdone,trackdone,True,False,user_05,1
+2020-10-15 00:40:00,Une Annee Sans Lumiere,Arcade Fire,Funeral,1277,fwdbtn,fwdbtn,True,False,user_05,0
+2020-10-15 17:50:00,Gold,Imagine Dragons,Smoke + Mirrors,1500,fwdbtn,fwdbtn,True,False,user_05,0
+2020-10-15 18:09:00,My Way,Frank Sinatra,Ultimate Sinatra,274933,fwdbtn,trackdone,True,False,user_05,1
+2020-10-15 18:49:00,Maggie Mae - Remastered 2009,The Beatles,Let It Be,40040,trackdone,trackdone,True,False,user_05,1
+2020-10-15 20:12:00,The Contenders - 2014 Remastered Version,The Kinks,"Lola vs. Powerman and the Moneygoround, Pt. One + Percy",163320,fwdbtn,trackdone,True,False,user_05,1
+2020-10-15 20:27:00,Run Like Hell,Pink Floyd,The Wall,568,fwdbtn,fwdbtn,True,False,user_05,1
+2020-10-15 20:32:00,Halfway to Hardinsburg,Houndmouth,From the Hills Below the City,23,fwdbtn,fwdbtn,True,False,user_05,1
+2020-10-16 21:14:00,Bullet Proof ... I Wish I Was,Radiohead,The Bends,208733,trackdone,trackdone,False,False,user_05,0
+2020-10-17 13:04:00,Band On The Run - 2010 Remaster,Paul McCartney,Band On The Run,313026,trackdone,trackdone,True,False,user_05,0
+2020-10-19 21:33:00,"Tosca, SC 69 / Act 3: ""E lucevan le stelle""",Giacomo Puccini,The Best Of Jonas Kaufmann,203360,trackdone,trackdone,True,False,user_05,1
+2020-10-19 23:03:00,Ramble On - Remaster,Led Zeppelin,Led Zeppelin II,274009,trackdone,trackdone,True,False,user_05,1
+2020-10-21 19:07:00,Acquiesce,Oasis,The Masterplan,104295,trackdone,fwdbtn,True,False,user_05,0
+2020-10-22 20:47:00,Esclavo De Sus Besos,David Bisbal,Sin Mirar Atrás,1770,fwdbtn,fwdbtn,True,False,user_05,1
+2020-10-22 21:06:00,"Give My Love to Rose - Live at Folsom State Prison, Folsom, CA - January 1968",Johnny Cash,At Folsom Prison,1325,fwdbtn,fwdbtn,True,False,user_05,0
+2020-10-23 20:05:00,"La traviata, Act I: Libiamo ne' lieti calici ""Brindisi""",Giuseppe Verdi,Verdi: La Traviata,175506,trackdone,trackdone,False,False,user_05,1
+2020-10-24 23:04:00,Icky Thump,The White Stripes,Icky Thump,254533,fwdbtn,trackdone,True,False,user_05,0
+2020-10-25 02:04:00,Delete and Fast Forward,Willie Nelson,God's Problem Child,203640,trackdone,trackdone,True,False,user_05,0
+2020-10-26 19:15:00,Time of the Preacher,Willie Nelson,Red Headed Stranger,145666,trackdone,trackdone,True,False,user_05,0
+2020-10-27 18:58:00,Love Theme,Ennio Morricone,Cinema Paradiso - Music By Ennio Morricone,166533,trackdone,trackdone,True,False,user_05,1
+2020-10-30 15:48:00,Ride Me Back Home,Willie Nelson,Ride Me Back Home,216226,trackdone,trackdone,False,False,user_05,1
+2020-11-01 23:09:00,The Palantír,Howard Shore,The Lord of the Rings - The Return of the King - The Complete Recordings,190120,trackdone,trackdone,True,False,user_05,0
+2020-11-02 16:10:00,Karma Police,Radiohead,OK Computer,1136,fwdbtn,fwdbtn,True,False,user_05,1
+2020-11-02 18:58:00,I've Got A Feeling - Remastered 2009,The Beatles,Let It Be,217560,trackdone,trackdone,True,False,user_05,1
+2020-11-02 19:02:00,Revolution - Remastered 2009,The Beatles,Past Masters,204560,trackdone,trackdone,True,False,user_05,1
+2020-11-03 15:59:00,Supersonic Rocket Ship,The Kinks,Everybody's in Show-Biz,211578,fwdbtn,trackdone,True,False,user_05,1
+2020-11-05 22:42:00,Getting Rid of Britta,Chevy Chase,Community (Music from the Original Television Series),135466,clickrow,trackdone,True,False,user_05,1
+2020-11-06 15:50:00,101 Rap,Donald Glover & Danny Pudi,Community (Music from the Original Television Series),34986,trackdone,trackdone,False,False,user_05,1
+2020-11-09 03:03:00,Six Degrees of Separation,The Script,#3 Deluxe Version,3252,fwdbtn,fwdbtn,True,False,user_05,0
+2020-11-09 03:09:00,Black Magic Woman / Gypsy Queen,Santana,Abraxas,319773,fwdbtn,trackdone,True,False,user_05,0
+2020-11-10 15:20:00,Misty,Miles Henley,You’ve Changed,268981,trackdone,trackdone,False,False,user_05,1
+2020-11-10 20:23:00,Have You Met Miss Jones?,Penford Giles,Have You Met Miss Jones?,205490,trackdone,trackdone,False,False,user_05,0
+2020-11-12 06:20:00,New York City Cops,The Strokes,Is This It,522,fwdbtn,fwdbtn,True,False,user_05,1
+2020-11-15 19:31:00,Mr Moonlight - Remastered 2009,The Beatles,Beatles For Sale - Remastered,158626,trackdone,trackdone,True,False,user_05,1
+2020-11-15 23:00:00,For No One - Remastered 2009,The Beatles,Revolver,119813,trackdone,trackdone,False,False,user_05,0
+2020-11-16 18:31:00,Charlie Boy,The Lumineers,The Lumineers,261426,trackdone,trackdone,True,False,user_05,1
+2020-11-16 22:43:00,Music To My Eyes,Lady Gaga,A Star Is Born Soundtrack,13170,fwdbtn,endplay,True,False,user_05,1
+2020-11-17 01:32:00,Martha My Dear - Remastered 2009,The Beatles,The Beatles,148573,trackdone,trackdone,True,False,user_05,0
+2020-11-17 03:39:00,Norwegian Wood (This Bird Has Flown) - Remastered 2009,The Beatles,Rubber Soul,124693,trackdone,trackdone,True,False,user_05,0
+2020-11-18 03:59:00,Helpless,John Mayer,The Search for Everything,1105,fwdbtn,fwdbtn,True,False,user_05,1
+2020-11-18 06:11:00,La Vie en Rose,Dean Martin,French Style,144373,trackdone,trackdone,True,False,user_05,0
+2020-11-18 17:48:00,War of My Life,John Mayer,Battle Studies,1015,fwdbtn,fwdbtn,True,False,user_05,0
+2020-11-20 16:51:00,Peace Of Mind,The Killers,Peace Of Mind,0,backbtn,fwdbtn,True,False,user_05,0
+2020-11-20 17:29:00,The Lemon Song - Remaster,Led Zeppelin,Led Zeppelin II,342433,trackdone,fwdbtn,True,False,user_05,1
+2020-11-21 02:42:00,Hold On,Lou Reed,New York,204893,trackdone,trackdone,True,False,user_05,1
+2020-11-25 21:59:00,Beth's Story,Carlos Rafael Rivera,The Queen's Gambit (Music from the Netflix Limited Series),127615,clickrow,trackdone,False,False,user_05,1
+2020-11-26 21:09:00,Blitzkrieg Bop - 2016 Remaster,Ramones,Ramones,0,fwdbtn,fwdbtn,True,False,user_05,0
+2020-11-26 21:31:00,Morning Has Broken,Yusuf / Cat Stevens,Teaser And The Firecat,200000,trackdone,trackdone,True,False,user_05,0
+2020-11-27 11:18:00,"Send a Picture of Mother - Live at Folsom State Prison, Folsom, CA - January 1968",Johnny Cash,At Folsom Prison,130720,trackdone,trackdone,True,False,user_05,0
+2020-12-03 00:39:00,Hard To Explain,The Strokes,Is This It,223979,fwdbtn,trackdone,True,False,user_05,1
+2020-12-03 03:04:00,Cavalleria rusticana: Intermezzo,Pietro Mascagni,Mascagni: Cavalleria Rusticana/Leoncavallo: Pagliacci,190226,playbtn,trackdone,True,False,user_05,1
+2020-12-04 01:20:00,Couldn't Stand the Weather,Stevie Ray Vaughan,Couldn't Stand The Weather,1246,fwdbtn,fwdbtn,True,False,user_05,0
+2020-12-04 01:20:00,Bob Dylan's Blues,Bob Dylan,The Freewheelin' Bob Dylan,573,fwdbtn,fwdbtn,True,False,user_05,0
+2020-12-04 22:07:00,Guilty Filthy Soul,AWOLNATION,Megalithic Symphony Deluxe,115407,fwdbtn,logout,True,False,user_05,1
+2020-12-08 00:27:00,Love Muscle,SEX-O-RAMA,SEX-O-RAMA II: Classic Adult Film Music,12933,clickrow,fwdbtn,False,False,user_05,0
+2020-12-11 18:16:00,Everglow,Coldplay,A Head Full of Dreams,282693,backbtn,trackdone,True,False,user_05,0
+2020-12-11 18:28:00,The Long Black Veil,Johnny Cash,Orange Blossom Special,10359,trackdone,fwdbtn,True,False,user_05,0
+2020-12-12 00:15:00,Denmark Street - 2014 Remaster,The Kinks,"Lola vs. Powerman and the Moneygoround, Pt. One + Percy",121520,trackdone,trackdone,True,False,user_05,0
+2020-12-13 01:37:00,My Wife,The Who,Who's Next - Deluxe Edition,392,fwdbtn,fwdbtn,True,False,user_05,0
+2020-12-14 23:39:00,Got 54,The Mud Howlers,R.R.R,0,fwdbtn,fwdbtn,True,False,user_05,0
+2020-12-15 05:11:00,Bennie And The Jets - Remastered 2014,Elton John,Goodbye Yellow Brick Road - Remastered,283190,trackerror,fwdbtn,True,False,user_05,1
+2020-12-19 01:51:00,Dare I Care,The Voidz,Tyranny,28262,trackdone,endplay,True,False,user_05,0
+2020-12-20 03:01:00,In the Night,Claptone,Fantast,0,playbtn,endplay,True,False,user_05,0
+2020-12-20 05:14:00,Ona Ona,Ehrling,Ona Ona,253518,trackdone,trackdone,True,False,user_05,0
+2020-12-20 06:05:00,Disco Yes,Tom Misch,Geography,280878,trackdone,trackdone,True,False,user_05,0
+2020-12-21 17:35:00,Did My Best,The Voidz,Did My Best,296938,trackdone,trackdone,False,False,user_05,1
+2020-12-23 00:56:00,War Pigs,Black Sabbath,Paranoid,1189,fwdbtn,fwdbtn,True,False,user_05,0
+2020-12-23 01:05:00,Smile Away - Remastered 2012,Paul McCartney,Ram,965,fwdbtn,fwdbtn,True,False,user_05,0
+2020-12-23 19:40:00,"Bizet: Carmen, WD 31, Act 1: Habanera. ""L'amour est un oiseau rebelle"" (Carmen, Chœur)",Georges Bizet,Pure - Maria Callas,269226,playbtn,trackdone,True,False,user_05,0
+2021-01-02 03:23:00,Cleopatra,The Lumineers,Cleopatra,201413,clickrow,trackdone,True,False,user_05,0
+2021-01-02 19:21:00,Brain Damage,Pink Floyd,The Dark Side of the Moon,15040,trackdone,endplay,False,False,user_05,1
+2021-01-02 19:21:00,Can't Help Falling in Love,Elvis Presley,Blue Hawaii,182360,trackdone,trackdone,True,False,user_05,0
+2021-01-04 19:42:00,Shots,Imagine Dragons,Smoke + Mirrors,232333,trackdone,trackdone,True,False,user_05,0
+2021-01-06 16:46:00,Bryn,Vampire Weekend,Vampire Weekend,133173,trackdone,trackdone,True,False,user_05,0
+2021-01-07 20:42:00,Mr. Make Believe,Gene Simmons,Gene Simmons,242226,trackdone,trackdone,False,False,user_05,1
+2021-01-09 18:27:00,Trying to Get to You,Elvis Presley,Elvis Presley,865,fwdbtn,fwdbtn,True,False,user_05,1
+2021-01-10 23:35:00,Strawberry Fields Forever - Remastered 2009,The Beatles,Magical Mystery Tour,23,fwdbtn,backbtn,True,False,user_05,1
+2021-01-11 00:04:00,All Along the Watchtower,Jimi Hendrix,Electric Ladyland,745,fwdbtn,fwdbtn,True,False,user_05,0
+2021-01-11 21:07:00,A Day In The Life - Live At The Royal Albert Hall/2016,Chris Cornell,Chris Cornell,149290,trackdone,fwdbtn,True,False,user_05,0
+2021-01-13 16:46:00,Trouble Weighs A Ton,Dan Auerbach,Keep It Hid,137360,clickrow,trackdone,False,False,user_05,1
+2021-01-14 02:31:00,Thank You - Remaster,Led Zeppelin,Led Zeppelin II,289485,trackdone,trackdone,True,False,user_05,1
+2021-01-15 20:26:00,"100,000 People",Kings of Leon,"The Bandit / 100,000 People",344021,trackdone,trackdone,False,False,user_05,1
+2021-01-16 22:44:00,Till There Was You - Remastered 2009,The Beatles,With The Beatles,133506,trackdone,trackdone,True,False,user_05,1
+2021-01-18 15:31:00,Hey Larocco,Rayland Baxter,Wide Awake,269613,trackdone,trackdone,False,False,user_05,1
+2021-01-18 16:40:00,Impressions of You,The Virgins,Strike Gently,238184,trackdone,trackdone,False,False,user_05,0
+2021-01-19 17:40:00,Let It Ride,Ryan Adams & The Cardinals,Cold Roses,20671,trackdone,unexpected-exit-while-paused,False,False,user_05,1
+2021-01-19 18:36:00,Crucify Your Mind,Rodríguez,Cold Fact,195544,clickrow,trackdone,True,False,user_05,1
+2021-01-21 00:44:00,Mae,Herb Alpert & The Tijuana Brass,!!Going Places!!,146613,trackdone,trackdone,False,False,user_05,1
+2021-01-21 03:47:00,Gone for Good,The Shins,Chutes Too Narrow,843,fwdbtn,fwdbtn,False,False,user_05,1
+2021-01-26 17:17:00,Cinnamon,The Long Winters,When I Pretend To Fall,252959,trackdone,trackdone,False,False,user_05,1
+2021-01-26 18:11:00,Chicken Fried,Zac Brown Band,The Foundation,238146,trackdone,trackdone,True,False,user_05,0
+2021-01-26 18:31:00,Femme Fatale,The Velvet Underground,The Velvet Underground & Nico 45th Anniversary,159000,trackdone,trackdone,True,False,user_05,0
+2021-01-26 23:02:00,Hang on to Yourself - 2012 Remaster,David Bowie,The Rise and Fall of Ziggy Stardust and the Spiders from Mars,159958,trackdone,trackdone,True,False,user_05,0
+2021-01-28 15:44:00,Lazy Boy,The Voidz,Virtue,211000,trackdone,trackdone,False,False,user_05,1
+2021-01-28 17:15:00,Ya Me Enteré,Reik,Des/Amor,11995,trackdone,fwdbtn,True,False,user_05,0
+2021-01-29 00:28:00,"Rigoletto / Act 1: ""Questa o quella""",Giuseppe Verdi,Luciano Pavarotti - The Best,119400,trackdone,trackdone,False,False,user_05,0
+2021-01-30 07:35:00,After Hours,The Velvet Underground,The Velvet Underground,940,fwdbtn,backbtn,True,False,user_05,1
+2021-01-31 00:54:00,Break My Fall,Doc Robinson,Deep End,288093,trackdone,trackdone,False,False,user_05,1
+2021-02-02 17:58:00,Cinnamon,The Long Winters,When I Pretend To Fall,252959,trackdone,trackdone,False,False,user_05,0
+2021-02-04 00:46:00,Money Maker,The Black Keys,El Camino,1703,fwdbtn,fwdbtn,True,False,user_05,0
+2021-02-04 00:58:00,I Wanna Be Your Man - Remastered 2009,The Beatles,With The Beatles,52490,trackdone,fwdbtn,True,False,user_05,1
+2021-02-06 20:43:00,Ticket To Ride - Remastered 2009,The Beatles,Help!,189680,trackdone,trackdone,False,False,user_05,1
+2021-02-10 14:53:00,Baby's In Black - Remastered 2009,The Beatles,Beatles For Sale - Remastered,124520,fwdbtn,trackdone,False,False,user_05,1
+2021-02-10 16:49:00,Sgt. Pepper's Lonely Hearts Club Band - Remastered 2009,The Beatles,Sgt. Pepper's Lonely Hearts Club Band,122893,trackdone,trackdone,False,False,user_05,0
+2021-02-10 18:38:00,Maybe I’m Amazed - Remastered 2011,Paul McCartney,McCartney,229826,trackdone,trackdone,True,False,user_05,0
+2021-02-14 18:45:00,Eleanor Put Your Boots On,Franz Ferdinand,You Could Have It So Much Better,169933,fwdbtn,trackdone,False,False,user_05,1
+2021-02-16 18:04:00,The Wanderer,U2,Zooropa,341840,trackdone,trackdone,False,False,user_05,0
+2021-02-16 18:50:00,Something - Remastered 2009,The Beatles,Abbey Road,182293,trackdone,trackdone,False,False,user_05,0
+2021-02-18 18:59:00,The Fool On The Hill - Remastered 2009,The Beatles,Magical Mystery Tour,179106,trackdone,trackdone,True,False,user_05,0
+2021-02-18 23:49:00,Smile Like You Mean It,The Killers,Hot Fuss,234106,trackdone,trackdone,True,False,user_05,0
+2021-02-21 19:45:00,Put the Kids to Bed,Ron Gallo,HEAVY META,1323,fwdbtn,fwdbtn,True,False,user_06,0
+2021-02-23 23:19:00,Trouble,Cage The Elephant,Tell Me I'm Pretty,225973,trackdone,trackdone,True,False,user_06,0
+2021-02-24 00:59:00,Fool For You,Phillip Phillips,Behind The Light,64403,trackdone,logout,True,False,user_06,0
+2021-02-24 06:07:00,Numb,Linkin Park,Meteora,23,fwdbtn,fwdbtn,True,False,user_06,0
+2021-03-01 07:22:00,All Those Years Ago - Remastered 2004,George Harrison,Somewhere In England,2449,appload,trackdone,True,False,user_06,1
+2021-03-02 01:18:00,Amnesia,5 Seconds of Summer,5 Seconds Of Summer,237247,trackdone,trackdone,True,False,user_06,0
+2021-03-03 16:39:00,Murder - 2006 Remaster,David Gilmour,About Face,299373,trackdone,trackdone,False,False,user_06,1
+2021-03-04 09:48:00,Neighborhood #3 (Power Out),Arcade Fire,Funeral,1936,fwdbtn,fwdbtn,True,False,user_06,0
+2021-03-10 06:06:00,Adam's Apple,Aerosmith,Toys In The Attic,23,fwdbtn,fwdbtn,True,False,user_06,1
+2021-03-10 06:06:00,If You Say So,Keuning,Prismism,572,fwdbtn,fwdbtn,True,False,user_06,0
+2021-03-10 06:06:00,Werewolves of London,Warren Zevon,Excitable Boy,23,fwdbtn,fwdbtn,True,False,user_06,0
+2021-03-11 04:55:00,Immigrant Song - Remaster,Led Zeppelin,Led Zeppelin III,57589,trackdone,endplay,True,False,user_06,0
+2021-03-13 16:01:00,Elenore,The Turtles,The Turtles Present The Battle of the Bands,151306,trackdone,trackdone,False,False,user_06,0
+2021-03-21 07:29:00,Band On The Run - 2010 Remaster,Paul McCartney,Band On The Run,23,fwdbtn,backbtn,True,False,user_06,1
+2021-03-22 16:00:00,Once Upon a Time in the West - Main Theme,Ennio Morricone,Once Upon a Time in the West (Original Motion Picture Soundtrack),223120,clickrow,trackdone,False,False,user_06,1
+2021-03-22 19:21:00,We're All Leaving,Arcade Fire,Her (Original Score),151349,trackdone,trackdone,False,False,user_06,0
+2021-03-22 19:47:00,Cry from the Street - 2006 Remaster,David Gilmour,David Gilmour,319461,trackdone,trackdone,False,False,user_06,1
+2021-03-22 20:31:00,There's No Way out of Here - 2006 Remaster,David Gilmour,David Gilmour,323594,trackdone,trackdone,False,False,user_06,0
+2021-03-24 01:43:00,Yesterday,Imagine Dragons,Evolve,647,fwdbtn,fwdbtn,True,False,user_06,1
+2021-03-24 01:43:00,Notion,Kings of Leon,Only By The Night,639,fwdbtn,fwdbtn,True,False,user_06,1
+2021-03-25 06:27:00,Mr. Blue Sky,Electric Light Orchestra,Out of the Blue,3751,fwdbtn,fwdbtn,True,False,user_06,1
+2021-04-05 02:56:00,I've Got A Feeling - Remastered 2009,The Beatles,Let It Be,627,fwdbtn,fwdbtn,True,False,user_06,1
+2021-04-05 19:16:00,Closer,The Chainsmokers,Closer,1143,fwdbtn,fwdbtn,True,False,user_06,0
+2021-04-07 02:12:00,I've Got You Under My Skin,Frank Sinatra,Ultimate Sinatra,1531,fwdbtn,fwdbtn,True,False,user_06,0
+2021-04-08 20:26:00,The Norwegian Ridgeback and a Change of Season,John Williams,Harry Potter and The Sorcerer's Stone Original Motion Picture Soundtrack,91239,fwdbtn,fwdbtn,False,False,user_06,1
+2021-04-09 01:35:00,Over the Hills and Far Away - Remaster,Led Zeppelin,Houses of the Holy,290933,trackdone,trackdone,True,False,user_06,1
+2021-04-09 02:54:00,To Love a Boy,Maya Hawke,To Love a Boy / Stay Open,106660,trackdone,fwdbtn,True,False,user_06,1
+2021-04-11 23:56:00,"Gravity - Live at the Nokia Theatre, Los Angeles, CA - December 2007",John Mayer,Where the Light Is: John Mayer Live In Los Angeles,23,fwdbtn,fwdbtn,True,False,user_06,1
+2021-04-13 00:44:00,Working Together,Born Ruffians,"Uncle, Duke & The Chief",1976,fwdbtn,fwdbtn,True,False,user_06,1
+2021-04-13 02:27:00,Ahmad's Waltz,Ahmad Jamal Quintet,Listen To The Ahmad Jamal Quintet,77873,fwdbtn,unexpected-exit-while-paused,True,False,user_06,1
+2021-04-14 06:01:00,Hold Back The River,James Bay,Chaos And The Calm,902,fwdbtn,fwdbtn,True,False,user_06,1
+2021-04-16 21:17:00,Up&Up,Coldplay,A Head Full of Dreams,376050,fwdbtn,fwdbtn,True,False,user_06,0
+2021-04-17 03:43:00,Lucky,Radiohead,OK Computer,802,fwdbtn,fwdbtn,True,False,user_06,1
+2021-04-20 02:27:00,Subterranean Homesick Blues,Bob Dylan,Bringing It All Back Home,0,fwdbtn,fwdbtn,True,False,user_06,0
+2021-04-20 09:15:00,Mia & Sebastian’s Theme,Justin Hurwitz,La La Land,98040,trackdone,trackdone,False,False,user_06,1
+2021-04-20 11:55:00,Tema D'Amore Per Nata,Ennio Morricone,Nuovo Cinema Paradiso (Original Motion Picture Soundtrack),249026,trackdone,trackdone,False,False,user_06,1
+2021-04-21 01:47:00,The Dream Synopsis,The Last Shadow Puppets,Everything You've Come To Expect,1605,fwdbtn,backbtn,True,False,user_06,1
+2021-04-21 01:50:00,Restless Legs,Keuning,Prismism,1022,fwdbtn,fwdbtn,True,False,user_06,1
+2021-04-21 01:50:00,Fuentes de Ortiz,Ed Maverick,mix pa llorar en tu cuarto,2088,fwdbtn,fwdbtn,True,False,user_06,1
+2021-04-21 02:01:00,"Don't Give up on ""Us""",The Maine,Pioneer,23,fwdbtn,fwdbtn,True,False,user_06,1
+2021-04-21 02:07:00,Babe I'm Gonna Leave You - Remaster,Led Zeppelin,Led Zeppelin,1066,fwdbtn,fwdbtn,True,False,user_06,1
+2021-04-21 02:27:00,Leaving Heartbreak Hotel,The Temper Trap,The Temper Trap,668,fwdbtn,fwdbtn,True,False,user_06,0
+2021-04-21 08:12:00,How to Save a Life,The Fray,How To Save A Life,570,fwdbtn,fwdbtn,True,False,user_06,0
+2021-04-23 15:55:00,Wait In Line,James Bay,Chaos And The Calm,1731,fwdbtn,fwdbtn,True,False,user_06,0
+2021-04-23 16:38:00,Sweet Virginia,The Rolling Stones,Exile On Main Street,63297,fwdbtn,logout,True,False,user_06,1
+2021-04-23 16:57:00,Soul Kitchen,The Doors,The Doors,646,fwdbtn,fwdbtn,True,False,user_06,1
+2021-04-23 18:10:00,Home,Daughtry,Daughtry,840,fwdbtn,fwdbtn,True,False,user_06,0
+2021-04-24 00:40:00,Tell Me What You See - Remastered 2009,The Beatles,Help!,0,fwdbtn,fwdbtn,True,False,user_06,1
+2021-04-24 19:31:00,Si Me Tenías,Mijares,Canto Por Ti,1744,fwdbtn,fwdbtn,True,False,user_06,1
+2021-04-25 00:09:00,Los días felices,Luis Miguel,¡MÉXICO Por Siempre!,921,fwdbtn,fwdbtn,True,False,user_06,0
+2021-04-26 16:37:00,El Problema,Ricardo Arjona,Santo Pecado,330373,trackdone,trackdone,True,False,user_06,0
+2021-04-26 21:13:00,Te Conozco,Ricardo Arjona,Personalidad,64659,trackdone,fwdbtn,True,False,user_06,0
+2021-04-27 07:03:00,Let Me Roll It - 2010 Remaster,Paul McCartney,Band On The Run,1760,fwdbtn,fwdbtn,False,False,user_06,1
+2021-04-28 17:26:00,Bad Instincts,Keuning,Bad Instincts,183840,playbtn,trackdone,False,False,user_06,1
+2021-05-01 20:49:00,Tush - 2006 Remaster,ZZ Top,Fandango!,4656,fwdbtn,fwdbtn,True,False,user_06,1
+2021-05-03 23:45:00,Echoing,Kings of Leon,Echoing,217346,trackdone,trackdone,True,False,user_06,0
+2021-05-08 00:14:00,Rock This Town,Stray Cats,Stray Cats,1590,fwdbtn,fwdbtn,True,False,user_06,1
+2021-05-08 02:21:00,12:51,The Strokes,Room On Fire,936,fwdbtn,fwdbtn,True,False,user_06,1
+2021-05-10 20:28:00,Quicksand,Seu Jorge,The Life Aquatic Exclusive Studio Sessions Featuring Seu Jorge,889,trackdone,fwdbtn,True,False,user_06,0
+2021-05-17 18:51:00,Cold Cold Cold,Cage The Elephant,Tell Me I'm Pretty,214386,playbtn,trackdone,False,False,user_06,1
+2021-05-18 00:25:00,Bad Decisions,The Strokes,The New Abnormal,293360,trackdone,trackdone,True,False,user_06,1
+2021-05-19 21:03:00,Viva La Vida,Coldplay,Viva La Vida or Death and All His Friends,242373,trackdone,trackdone,True,False,user_06,1
+2021-05-19 22:08:00,"Love Me Tender - From the 20th Century-Fox CinemaScope Production, ""Love Me Tender""",Elvis Presley,Elvis' Golden Records,975,fwdbtn,fwdbtn,True,False,user_06,0
+2021-05-21 00:19:00,Eternal Summer,The Strokes,The New Abnormal,375320,trackdone,trackdone,False,False,user_06,1
+2021-05-22 05:14:00,"Young Lady, You're Scaring Me",Ron Gallo,HEAVY META,220538,trackdone,trackdone,True,False,user_06,0
+2021-05-25 22:49:00,Under The Thunder,Skegss,Under The Thunder,30799,trackdone,logout,True,False,user_06,1
+2021-06-01 01:34:00,Caraluna,Bacilos,Caraluna,681,fwdbtn,fwdbtn,True,False,user_06,0
+2021-06-02 22:58:00,Riviera Paradise,Stevie Ray Vaughan,In Step,528600,trackdone,trackdone,True,False,user_06,0
+2021-06-09 18:18:00,Little Boxes,Pete Seeger,Headlines and Footnotes: A Collection of Topical Songs,25361,trackdone,fwdbtn,True,False,user_06,0
+2021-06-18 00:59:00,Goodnight Ladies,Lou Reed,Transformer,260506,trackdone,trackdone,True,False,user_06,0
+2021-06-18 18:58:00,Whispers In The Dark,Mumford & Sons,Babel,195693,fwdbtn,trackdone,True,False,user_06,1
+2021-06-22 23:49:00,Father Mountain,Calexico,Years to Burn,174048,trackdone,trackdone,False,False,user_06,1
+2021-07-01 19:54:00,Don't Stop Believin',Scott Bradlee's Postmodern Jukebox,Don't Stop Believin',0,fwdbtn,fwdbtn,False,False,user_06,0
+2021-07-02 20:46:00,Cry Baby Cry - Esher Demo,The Beatles,The Beatles,1142,fwdbtn,fwdbtn,True,False,user_06,0
+2021-07-02 22:57:00,Do the Rump,The Black Keys,The Big Come Up,991,fwdbtn,fwdbtn,True,False,user_06,0
+2021-07-03 06:27:00,Long Live Rock & Roll,Daughtry,Baptized (Deluxe Version),23,fwdbtn,fwdbtn,True,False,user_06,0
+2021-07-06 16:47:00,Age of Consent - 2015 Remaster,New Order,Power Corruption and Lies,300623,appload,trackdone,True,False,user_06,0
+2021-07-08 02:13:00,Wonderwall - Remastered,Oasis,(What's The Story) Morning Glory?,840,fwdbtn,backbtn,True,False,user_06,1
+2021-07-08 16:17:00,Seventeen Going Under,Sam Fender,Seventeen Going Under,263872,playbtn,logout,False,False,user_06,0
+2021-07-08 17:59:00,She Wandered Through the Garden Fence,Procol Harum,Procol Harum,206213,trackdone,trackdone,False,False,user_06,1
+2021-07-10 10:27:00,On My Way Back Home,Band of Horses,Infinite Arms,7835,clickrow,endplay,False,False,user_06,0
+2021-07-10 19:24:00,The Bandit,Kings of Leon,When You See Yourself,97140,trackdone,fwdbtn,False,False,user_06,1
+2021-07-10 20:50:00,Rise,Eddie Vedder,Into The Wild,23,fwdbtn,fwdbtn,False,False,user_06,0
+2021-07-11 05:44:00,Projection For Two,Ennio Morricone,Cinema Paradiso - Music By Ennio Morricone,101562,trackdone,endplay,True,False,user_06,0
+2021-07-12 01:07:00,Runaways,The Killers,Battle Born,23,fwdbtn,fwdbtn,True,False,user_06,0
+2021-08-04 19:22:00,Trying Your Luck,The Strokes,Is This It,202617,trackdone,trackdone,False,False,user_06,0
+2021-08-06 17:05:00,Concerning Hobbits,Howard Shore,The Lord of the Rings: The Fellowship of the Ring (Original Motion Picture Soundtrack),7802,playbtn,endplay,False,False,user_06,1
+2021-08-07 00:29:00,Las Vegas,Houndmouth,Las Vegas,222680,trackdone,trackdone,False,False,user_06,1
+2021-08-07 18:06:00,Jolene,Ray LaMontagne,Trouble,65972,trackdone,unexpected-exit-while-paused,True,False,user_06,1
+2021-08-07 18:17:00,One Dance,Drake,Views,173986,fwdbtn,trackdone,True,False,user_06,0
+2021-08-07 22:21:00,Deadlines And Commitments,The Killers,Battle Born,3631,fwdbtn,fwdbtn,True,False,user_06,0
+2021-08-10 08:11:00,All You Need Is Love - Remastered 2009,The Beatles,Magical Mystery Tour,230386,trackdone,trackdone,True,False,user_06,0
+2021-08-10 17:55:00,You Won't See Me - Remastered 2009,The Beatles,Rubber Soul,199960,trackdone,trackdone,True,False,user_06,0
+2021-08-11 04:00:00,Revolution 1 - Remastered 2009,The Beatles,The Beatles,255706,trackdone,trackdone,True,False,user_06,0
+2021-08-12 03:44:00,Jekyll,Hiatus Kaiyote,Choose Your Weapon,333207,fwdbtn,trackdone,False,False,user_06,0
+2021-08-19 16:41:00,The Getting By - Abridged,The Killers,Pressure Machine,228626,trackdone,trackdone,False,False,user_06,1
+2021-08-20 03:18:00,El Breve Espacio en Que No Estas,Silvio Rodríguez,Querido Pablo,242960,fwdbtn,trackdone,True,False,user_06,0
+2021-08-20 22:14:00,Sleepwalker - Abridged,The Killers,Pressure Machine,244946,trackdone,trackdone,False,False,user_06,1
+2021-08-21 02:37:00,La flaca,Jarabe De Palo,La Flaca,417367,trackdone,trackdone,True,False,user_06,1
+2021-08-21 02:37:00,Millionaires,The Script,#3 Deluxe Version,6435,trackdone,endplay,True,False,user_06,0
+2021-08-21 04:32:00,Reckoner,Radiohead,In Rainbows,2199,fwdbtn,fwdbtn,True,False,user_06,0
+2021-08-21 04:57:00,"Volver, Volver",Vicente Fernández,Arriba Huentitan,179397,fwdbtn,trackdone,True,False,user_06,1
+2021-08-31 00:11:00,Rigoletto - Bella Figlia Dell'Amore,Luciano Pavarotti,Rigoletto - Highlights,284200,trackdone,trackdone,False,False,user_06,1
+2021-08-31 19:38:00,Rippling Waters,Speedy West,Guitar Spectacular,166488,trackdone,trackdone,False,False,user_06,1
+2021-09-01 06:53:00,Some Kind of Nature (feat. Lou Reed),Gorillaz,Plastic Beach,179866,trackdone,trackdone,False,False,user_06,0
+2021-09-02 16:22:00,"Just Gettin' High, Just Gettin' By",MonoNeon,Supermane,136101,clickrow,trackdone,False,False,user_06,0
+2021-09-04 00:24:00,Cutthroat,Imagine Dragons,Mercury - Act 1,169741,trackdone,trackdone,False,False,user_06,1
+2021-09-07 05:42:00,We Somebody Y'all,MonoNeon,Supermane,60515,appload,trackdone,False,False,user_06,0
+2021-09-10 21:24:00,Peace Of Mind,The Killers,Peace Of Mind,283013,trackdone,trackdone,True,False,user_06,0
+2021-09-11 15:31:00,Fields Of Gold,Sting,Ten Summoner's Tales,3366,fwdbtn,logout,True,False,user_06,1
+2021-09-12 02:13:00,Thunder Road,Bruce Springsteen,Born To Run,227083,fwdbtn,unexpected-exit-while-paused,True,False,user_06,1
+2021-09-12 07:52:00,No. 1 Party Anthem,Arctic Monkeys,AM,1248,fwdbtn,fwdbtn,True,False,user_06,0
+2021-09-13 23:37:00,When You Were Young,The Killers,Sam's Town,220426,trackdone,trackdone,True,False,user_06,0
+2021-09-15 22:33:00,Dancing In the Dark,Bruce Springsteen,Born In The U.S.A.,23,fwdbtn,fwdbtn,True,False,user_06,0
+2021-09-16 02:24:00,El Hijo Desobediente,Antonio Aguilar,"Rancherísimo, Vol. 2",195117,trackdone,trackdone,True,False,user_06,0
+2021-09-17 00:14:00,Smile Like You Mean It,The Killers,Hot Fuss,23,fwdbtn,fwdbtn,True,False,user_06,0
+2021-09-17 00:18:00,In the Flesh,Pink Floyd,The Wall,255546,fwdbtn,trackdone,True,False,user_06,1
+2021-09-19 20:34:00,Just Breathe,Pearl Jam,Backspacer,215853,trackdone,trackdone,False,False,user_06,0
+2021-09-20 20:26:00,Mi Mayor Anhelo,Banda MS de Sergio Lizárraga,Mi Colección,421837,clickrow,trackdone,False,False,user_06,1
+2021-09-23 06:16:00,Vuelve,Reik,Reik,197276,trackdone,trackdone,True,False,user_06,0
+2021-09-25 03:29:00,Woman,Doja Cat,Planet Her,0,fwdbtn,fwdbtn,True,False,user_06,0
+2021-09-25 05:10:00,Bellake,Alex Gargolas,Gárgolas Forever,186688,trackdone,trackdone,True,False,user_06,0
+2021-09-28 00:13:00,Countdown,The Black Keys,The Big Come Up,158573,trackdone,trackdone,False,False,user_06,0
+2021-10-05 17:32:00,Ruby,The Apples In Stereo,Her Wallpaper Reverie,188906,trackdone,trackdone,True,False,user_06,0
+2021-10-09 04:45:00,Hell N Back,Bakar,Hell N Back,213573,trackdone,trackdone,False,False,user_06,1
+2021-10-09 07:37:00,Nos Queda Mucho Dolor Por Recorrer,Ed Maverick,Nos Queda Mucho Dolor Por Recorrer,314573,trackdone,trackdone,False,False,user_06,0
+2021-10-10 05:40:00,Dust,The Mud Howlers,Timeliness,2111,fwdbtn,fwdbtn,True,False,user_06,0
+2021-10-17 23:13:00,Only a Pawn in Their Game,Bob Dylan,The Times They Are A-Changin',209160,trackdone,trackdone,True,False,user_06,0
+2021-10-18 00:35:00,Just a Memory,Train,Bulletproof Picasso,228613,trackdone,trackdone,True,False,user_06,0
+2021-10-21 16:49:00,Breathe (In the Air),Pink Floyd,The Dark Side of the Moon,169534,trackdone,trackdone,False,False,user_06,0
+2021-10-22 02:06:00,No Surprise,Daughtry,Leave This Town,269693,trackdone,trackdone,True,False,user_06,0
+2021-10-22 02:44:00,Rainy Day Women #12 & 35,Bob Dylan,Blonde On Blonde,29247,trackdone,endplay,True,False,user_06,0
+2021-10-22 02:45:00,Yolanda,La Gusana Ciega,Jaibol,12044,fwdbtn,fwdbtn,True,False,user_06,1
+2021-10-22 18:44:00,"Andy, You're A Star",The Killers,Hot Fuss,194080,trackdone,trackdone,False,False,user_06,0
+2021-10-22 22:58:00,Two People,Sam Fender,Hypersonic Missiles,236653,fwdbtn,trackdone,True,False,user_06,1
+2021-10-23 23:59:00,I Want To Break Free - Remastered 2011,Queen,The Works,198773,trackdone,trackdone,True,False,user_06,1
+2021-10-24 23:21:00,"Theme from ""The Search for Everything""",John Mayer,The Search for Everything,839,fwdbtn,fwdbtn,True,False,user_06,1
+2021-10-24 23:21:00,Life in Technicolor ii,Coldplay,Life in Technicolor ii,247293,fwdbtn,trackdone,True,False,user_06,0
+2021-10-24 23:29:00,Fourth Time Around,Bob Dylan,Blonde On Blonde,1031,fwdbtn,fwdbtn,True,False,user_06,0
+2021-11-06 20:51:00,Love In Slow Motion,Ed Sheeran,=,190915,trackdone,trackdone,False,False,user_06,1
+2021-11-12 05:34:00,Bad Decisions,The Strokes,The New Abnormal,381,fwdbtn,fwdbtn,True,False,user_06,1
+2021-11-13 03:59:00,Rag and Bone,The White Stripes,Icky Thump,5260,trackdone,fwdbtn,True,False,user_06,0
+2021-11-13 03:59:00,I'm Outta Time,Oasis,Dig Out Your Soul,1020,fwdbtn,fwdbtn,True,False,user_06,0
+2021-11-16 18:54:00,Stop The Rain,Ed Sheeran,=,203493,trackdone,trackdone,False,False,user_06,1
+2021-11-19 05:41:00,"Cuddle Up, Cozy Down Christmas",Dolly Parton,A Holly Dolly Christmas,219151,fwdbtn,trackdone,False,False,user_06,0
+2021-11-26 15:37:00,Breathless,Nick Cave & The Bad Seeds,Abattoir Blues / The Lyre of Orpheus,193880,clickrow,trackdone,True,False,user_06,1
+2021-11-27 07:00:00,Aquellas Pequeñas Cosas,Joan Manuel Serrat,Mediterráneo,110266,trackdone,trackdone,False,False,user_06,1
+2021-11-27 20:50:00,You Know My Name (Look Up The Number) - Remastered 2009,The Beatles,Past Masters,4275,fwdbtn,fwdbtn,True,False,user_06,0
+2021-12-01 14:42:00,"The Breaking of the Fellowship (feat. ""In Dreams"")",Howard Shore,The Lord of the Rings: The Fellowship of the Ring (Original Motion Picture Soundtrack),440800,trackdone,trackdone,False,False,user_06,1
+2021-12-03 01:56:00,Concerning Hobbits,Howard Shore,The Lord of the Rings: The Fellowship of the Ring (Original Motion Picture Soundtrack),31319,fwdbtn,unexpected-exit-while-paused,True,False,user_06,1
+2021-12-05 20:39:00,Sgt. Pepper's Lonely Hearts Club Band - Remastered 2009,The Beatles,Sgt. Pepper's Lonely Hearts Club Band,122893,fwdbtn,trackdone,True,False,user_06,1
+2021-12-06 16:40:00,Good Day Sunshine - Remastered 2009,The Beatles,Revolver,129293,trackdone,trackdone,True,False,user_06,0
+2021-12-06 16:52:00,Being For The Benefit Of Mr. Kite! - Remastered 2009,The Beatles,Sgt. Pepper's Lonely Hearts Club Band,157533,trackdone,trackdone,True,False,user_06,0
+2021-12-06 20:48:00,Norwegian Wood (This Bird Has Flown) - Remastered 2009,The Beatles,Rubber Soul,124693,trackdone,trackdone,True,False,user_06,0
+2021-12-15 18:29:00,Tierra,Xoel López,Atlántico,238386,trackdone,trackdone,False,False,user_06,0
+2021-12-16 16:13:00,Liverpool 8,Ringo Starr,Liverpool 8,289666,trackdone,trackdone,False,False,user_06,1
+2021-12-17 03:15:00,Thistle & Weeds,Mumford & Sons,Sigh No More,289880,trackdone,trackdone,False,False,user_06,0
+2021-12-21 19:29:00,The Same Boy You've Always Known,The White Stripes,White Blood Cells,3937,playbtn,fwdbtn,True,False,user_06,0
+2021-12-21 20:11:00,Iron Man,Black Sabbath,Paranoid,354773,trackdone,trackdone,True,False,user_06,0
+2021-12-21 20:47:00,New York City Cops,The Strokes,Is This It,210746,trackdone,trackdone,True,False,user_06,0
+2021-12-21 23:20:00,How? - Remastered 2010,John Lennon,Imagine,1317,fwdbtn,fwdbtn,True,False,user_06,0
+2021-12-23 08:48:00,A Labio Dulce,Iskander,Fresas Con Vodka,230622,trackdone,trackdone,False,False,user_06,0
+2021-12-25 20:27:00,Sweet Virginia,The Rolling Stones,Exile On Main Street,242483,fwdbtn,unexpected-exit-while-paused,True,False,user_06,1
+2021-12-25 21:50:00,Que Te Vaya Bonito,José Alfredo Jimenez,Que Te Vaya Bonito,1135,fwdbtn,fwdbtn,True,False,user_06,0
+2021-12-27 19:15:00,Crawl,Kings of Leon,Only By The Night,246413,trackdone,trackdone,True,False,user_06,0
+2021-12-28 01:42:00,Scarecrow,Alex & Sierra,It's About Us,1025,fwdbtn,fwdbtn,True,False,user_07,1
+2021-12-28 23:26:00,Bennie And The Jets - Remastered 2014,Elton John,Goodbye Yellow Brick Road - Remastered,147956,playbtn,fwdbtn,True,False,user_07,1
+2021-12-29 00:00:00,Me and Paul,Willie Nelson,Yesterday's Wine,77314,appload,trackdone,True,False,user_07,0
+2021-12-31 15:40:00,The Thin Ice,Pink Floyd,The Wall,1846,fwdbtn,fwdbtn,True,False,user_07,0
+2022-01-02 22:35:00,Bonfire Heart,James Blunt,Moon Landing,765,fwdbtn,fwdbtn,True,False,user_07,0
+2022-01-02 22:42:00,Trying So Hard Not To Know,Nathaniel Rateliff & The Night Sweats,Nathaniel Rateliff & The Night Sweats,1318,fwdbtn,fwdbtn,True,False,user_07,0
+2022-01-02 23:14:00,Taxman - Remastered 2009,The Beatles,Revolver,807,fwdbtn,fwdbtn,True,False,user_07,0
+2022-01-03 17:46:00,I Hung My Head,Sting,Mercury Falling,281000,trackdone,trackdone,False,False,user_07,0
+2022-01-08 06:06:00,ILYSB - STRIPPED,LANY,Make Out,98976,trackdone,logout,True,False,user_07,0
+2022-01-11 17:06:00,"Rocky Prelude (From ""Rocky"") [Piano Solo]",Juggernoud1,"Rocky Prelude (From ""Rocky"") [Piano Solo]",31200,clickrow,unexpected-exit-while-paused,False,False,user_07,1
+2022-01-12 02:57:00,Clavado en Un Bar,Maná,Sueños Líquidos,104958,appload,fwdbtn,True,False,user_07,0
+2022-01-12 07:55:00,Reapers,Muse,Drones,1810,fwdbtn,fwdbtn,True,False,user_07,0
+2022-01-12 16:29:00,Love Theme,Ennio Morricone,Cinema Paradiso - Music By Ennio Morricone,166533,trackdone,trackdone,False,False,user_07,1
+2022-01-16 18:16:00,We're Going to Be Friends,The White Stripes,White Blood Cells,1124,fwdbtn,backbtn,True,False,user_07,1
+2022-01-18 01:11:00,BIG SHOT,The Lumineers,BRIGHTSIDE,181024,trackdone,trackdone,False,False,user_07,0
+2022-01-20 17:36:00,Out Of My Mind,The Killers,Wonderful Wonderful,223680,trackdone,trackdone,True,False,user_07,0
+2022-01-22 17:30:00,Arms Like Boulders,The War On Drugs,Wagonwheel Blues,8032,fwdbtn,fwdbtn,True,False,user_07,0
+2022-01-22 17:56:00,Pigs (Three Different Ones),Pink Floyd,Animals,1716,fwdbtn,fwdbtn,True,False,user_07,0
+2022-01-26 00:49:00,One Foot,fun.,Some Nights,211933,trackdone,trackdone,False,False,user_07,1
+2022-01-28 18:17:00,Rinaldo / Act 2: Lascia ch'io pianga,George Frideric Handel,Handel: Rinaldo (Original 1711 Version),285333,trackdone,trackdone,True,False,user_07,0
+2022-01-28 19:00:00,"Manon Lescaut / Act II: ""In quelle trine morbide""",Giacomo Puccini,Verismo,167786,trackdone,trackdone,True,False,user_07,0
+2022-02-02 17:10:00,Vedi Cara - Remaster 1996,Francesco Guccini,The Platinum Collection,290825,trackdone,trackdone,False,False,user_07,1
+2022-02-04 18:44:00,Juliane,Lionel Belasco & His Orchestra,Calypso Carnival (1935 - 1939),179546,trackdone,trackdone,False,False,user_07,0
+2022-02-07 03:02:00,9 to 5,Dolly Parton,9 To 5 And Odd Jobs,162466,fwdbtn,trackdone,False,False,user_07,1
+2022-02-09 23:14:00,Breathless,Nick Cave & The Bad Seeds,Abattoir Blues / The Lyre of Orpheus,4254,clickrow,endplay,False,False,user_07,1
+2022-02-10 17:44:00,When I Learned Your Name,Daniel Romano,Modern Pressure,143222,trackdone,trackdone,False,False,user_07,1
+2022-02-12 01:32:00,Blue Moon of Kentucky,Elvis Presley,A Boy From Tupelo: The Complete 1953-1955 Recordings,126986,trackdone,trackdone,True,False,user_07,0
+2022-02-12 09:06:00,Dig Down,Muse,Simulation Theory,228146,trackdone,trackdone,True,False,user_07,0
+2022-02-18 18:03:00,Not in Nottingham,Theo Lawrence and The Hearts,Homemade Lemonade,146133,trackdone,trackdone,False,False,user_07,1
+2022-02-18 19:02:00,Claudia's Theme - Version Eight,Lennie Niehaus,Unforgiven - Original Motion Picture Soundtrack,341866,trackdone,trackdone,False,False,user_07,1
+2022-02-23 19:44:00,Queenie Eye,Paul McCartney,NEW,228053,trackdone,trackdone,False,False,user_07,0
+2022-02-27 22:24:00,Claudia's Theme - Version Eight,Lennie Niehaus,Unforgiven - Original Motion Picture Soundtrack,23,fwdbtn,fwdbtn,False,False,user_07,1
+2022-02-28 05:57:00,Clint Eastwood,Gorillaz,Gorillaz,45324,trackdone,unexpected-exit-while-paused,False,False,user_07,1
+2022-03-02 17:14:00,After The Destruction,Ennio Morricone,Cinema Paradiso - Music By Ennio Morricone,121493,trackdone,trackdone,False,False,user_07,0
+2022-03-02 17:55:00,Dumbledore's Army,Nicholas Hooper,Harry Potter And The Order Of The Phoenix (Original Motion Picture Soundtrack),160253,trackdone,trackdone,False,False,user_07,0
+2022-03-11 00:22:00,Ventura,Santero y Los Muchachos,Ventura,117771,trackdone,logout,False,False,user_07,1
+2022-03-14 20:25:00,"Whiskey, Whiskey, Whiskey",John Mayer,Born and Raised,278666,fwdbtn,trackdone,True,False,user_07,0
+2022-03-14 22:06:00,Walk On the Wild Side,Lou Reed,Transformer,254173,fwdbtn,trackdone,True,False,user_07,0
+2022-03-15 01:02:00,Starman,Seu Jorge,The Life Aquatic Exclusive Studio Sessions Featuring Seu Jorge,23,fwdbtn,fwdbtn,True,False,user_07,0
+2022-03-15 02:34:00,Birds,Imagine Dragons,Origins,5066,trackdone,fwdbtn,True,False,user_07,0
+2022-03-17 00:24:00,Sea,Jorge Drexler,Sea,225188,trackdone,trackdone,False,False,user_07,0
+2022-03-17 20:23:00,The Tide Is High - Remastered 2001,Blondie,Autoamerican,280266,trackdone,trackdone,False,False,user_07,0
+2022-03-23 19:08:00,End Of My Rope,Pokey LaFarge,Rock Bottom Rhapsody,178139,trackdone,trackdone,False,False,user_07,0
+2022-03-25 18:45:00,Good For You,Houndmouth,Cool Jam/Good For You,220826,trackdone,trackdone,False,False,user_07,0
+2022-03-29 06:04:00,Coincidir,Mexicanto,Coincidir,163702,clickrow,trackdone,False,False,user_07,1
+2022-03-29 23:46:00,Lágrimas de Mármol,Joaquín Sabina,Lo Niego Todo,231760,trackdone,trackdone,False,False,user_07,1
+2022-04-02 22:07:00,What Do You Want,The Yardbirds,Roger the Engineer (Expanded Edition),1218,fwdbtn,fwdbtn,True,False,user_07,1
+2022-04-05 06:32:00,No Vaseline,Ice Cube,Death Certificate,68728,appload,trackdone,True,False,user_07,0
+2022-04-29 17:22:00,Change Your Mind,The Killers,Hot Fuss,192000,trackdone,trackdone,True,False,user_07,0
+2022-04-29 20:53:00,Jet Lag (feat. Natasha Bedingfield),Simple Plan,Get Your Heart On!,2900,trackdone,fwdbtn,True,False,user_07,0
+2022-04-29 21:21:00,I Don't Trust Myself (With Loving You),John Mayer,Continuum,12705,trackdone,fwdbtn,True,False,user_07,0
+2022-04-29 21:44:00,Arms Like Boulders,The War On Drugs,Wagonwheel Blues,1719,fwdbtn,fwdbtn,True,False,user_07,0
+2022-04-29 23:46:00,Postdata,Joaquín Sabina,Lo Niego Todo,1410,fwdbtn,fwdbtn,True,False,user_07,1
+2022-05-02 22:46:00,Me Gustas,Joan Sebastian,Secreto De Amor,207586,trackdone,trackdone,True,False,user_07,0
+2022-05-08 19:06:00,Meet Me in the Bathroom,The Strokes,Room On Fire,79435,trackdone,fwdbtn,True,False,user_07,0
+2022-05-13 01:40:00,I Don't Know What Love Is,Lady Gaga,A Star Is Born Soundtrack,4953,fwdbtn,endplay,True,False,user_07,0
+2022-05-13 04:24:00,Wait In Line,James Bay,Chaos And The Calm,591,fwdbtn,fwdbtn,True,False,user_07,0
+2022-05-13 06:57:00,Now That I've Found You,Liam Gallagher,Why Me? Why Not.,1130,fwdbtn,fwdbtn,True,False,user_07,0
+2022-06-05 20:01:00,Last Nite,The Strokes,Is This It,193506,trackdone,trackdone,True,False,user_07,0
+2022-06-06 16:32:00,Stand Up,Couch,COUCH,149002,trackdone,trackdone,False,False,user_07,0
+2022-06-07 00:33:00,Eh God (Barnabas),Kizz Daniel,Barnabas,184854,trackdone,trackdone,False,False,user_07,0
+2022-06-08 03:38:00,El 7 Mares,José Alfredo Jimenez,Si Nos Dejan,149733,trackdone,trackdone,True,False,user_07,0
+2022-06-12 18:16:00,Con Te Partirò,Andrea Bocelli,Bocelli,1129,fwdbtn,fwdbtn,True,False,user_07,0
+2022-06-12 18:16:00,Aquellas Pequeñas Cosas,Joan Manuel Serrat,Mediterráneo,110266,trackdone,trackdone,False,False,user_07,0
+2022-06-13 17:37:00,The Times They Are A-Changin',Bob Dylan,The Times They Are A-Changin',192053,trackdone,trackdone,True,False,user_07,0
+2022-06-13 23:48:00,Something - Remastered 2009,The Beatles,Abbey Road,182293,trackdone,trackdone,False,False,user_07,1
+2022-06-14 20:30:00,Magical Mystery Tour - Remastered 2009,The Beatles,Magical Mystery Tour,170106,trackdone,trackdone,False,False,user_07,1
+2022-06-16 01:34:00,"Il Trovatore / Act 3: ""Di quella pira""",Giuseppe Verdi,Joseph Calleja - Verdi,203613,trackdone,trackdone,True,False,user_07,1
+2022-06-17 18:45:00,All I Need,AWOLNATION,Megalithic Symphony,217693,trackdone,trackdone,True,False,user_07,0
+2022-06-17 23:49:00,Figure It Out,Royal Blood,Royal Blood,1177,fwdbtn,fwdbtn,True,False,user_07,0
+2022-06-20 16:23:00,Slowly - Tributo a Luis Eduardo Aute,Duncan Dhu,Coleccion,275053,trackdone,trackdone,False,False,user_07,0
+2022-06-20 17:07:00,Caminando por la Calle,Gipsy Kings,Mosaïque,257413,trackdone,trackdone,False,False,user_07,0
+2022-06-25 20:29:00,Oye Como Va,Santana,Abraxas,1380,fwdbtn,fwdbtn,True,False,user_07,0
+2022-06-26 05:55:00,Out on the Tiles - Remaster,Led Zeppelin,Led Zeppelin III,247344,trackdone,trackdone,True,False,user_07,0
+2022-06-29 20:14:00,Penny Lane - Remastered 2009,The Beatles,Magical Mystery Tour,180893,trackdone,trackdone,False,False,user_07,1
+2022-06-30 15:15:00,"Habsburg Hoch!, Op. 408: March","Polish State Philharmonic Orchestra, Katowice","J. Strauss, Jr.: Edition - Vol. 9",192000,trackdone,trackdone,False,False,user_07,1
+2022-07-01 03:00:00,I Need You - Remastered 2009,The Beatles,Help!,148786,trackdone,trackdone,True,False,user_07,1
+2022-07-02 06:10:00,South Bound Saurez - Remaster,Led Zeppelin,In Through the out Door,12151,fwdbtn,fwdbtn,True,False,user_07,0
+2022-07-02 06:18:00,Botella Tras Botella,Gera MX,Botella Tras Botella,197333,trackdone,trackdone,True,False,user_07,0
+2022-07-02 10:02:00,Molly's Chambers,Kings of Leon,Youth And Young Manhood,801,fwdbtn,fwdbtn,True,False,user_07,0
+2022-07-06 06:15:00,From Here On Out,The Killers,Battle Born,525,fwdbtn,fwdbtn,True,False,user_07,0
+2022-07-06 20:18:00,Awaiting On You All - Remastered 2014,George Harrison,All Things Must Pass,168053,fwdbtn,trackdone,False,False,user_07,0
+2022-07-07 01:15:00,Goodbye Blue Sky,Pink Floyd,The Wall,167239,trackdone,trackdone,False,False,user_07,1
+2022-07-07 18:06:00,Halloween Parade,Lou Reed,New York,213333,trackdone,trackdone,False,False,user_07,0
+2022-07-10 00:05:00,Shine A Light,The Rolling Stones,Exile On Main Street,256826,trackdone,trackdone,False,False,user_07,0
+2022-07-11 05:05:00,Just What I Needed,The Cars,The Cars,4312,fwdbtn,fwdbtn,True,False,user_07,0
+2022-07-15 00:26:00,It's Not Right for You,The Script,No Sound Without Silence,264733,trackdone,trackdone,True,False,user_07,0
+2022-07-15 18:58:00,Pressure Machine - Abridged,The Killers,Pressure Machine,284706,trackdone,trackdone,True,False,user_07,1
+2022-07-15 19:01:00,Hero / Heroine - Original Mix,BOYS LIKE GIRLS,Boys Like Girls,232240,trackdone,trackdone,True,False,user_07,0
+2022-07-15 20:44:00,All Things Must Pass - Remastered 2014,George Harrison,All Things Must Pass,226866,trackdone,trackdone,True,False,user_07,0
+2022-07-17 02:07:00,Love on the Weekend,John Mayer,The Search for Everything,934,fwdbtn,fwdbtn,True,False,user_07,0
+2022-07-17 02:13:00,Gates of Eden,Bob Dylan,Bringing It All Back Home,730,fwdbtn,fwdbtn,True,False,user_07,0
+2022-07-18 19:23:00,Do You Hear The People Sing? - Live,Michael Maguire,Les Misérables (10th Anniversary Concert Live at Royal Albert Hall),109733,trackdone,trackdone,False,False,user_07,0
+2022-07-22 01:04:00,The Staunton Lick,Lemon Jelly,LemonJelly.ky,322133,trackdone,trackdone,True,False,user_07,1
+2022-07-22 22:55:00,In the Blood,John Mayer,The Search for Everything,7662,trackdone,logout,True,False,user_07,1
+2022-07-24 01:35:00,Marinade,DOPE LEMON,Honey Bones,237961,fwdbtn,trackdone,True,False,user_07,0
+2022-08-01 18:07:00,Gran Vals,Francisco Tárrega,Francisco Tárrega: Homenaje a Francisco Tárrega,178426,trackdone,trackdone,False,False,user_07,0
+2022-08-08 17:55:00,"The Road Goes Ever On..., Pt. 2 / ""In Dreams"" (feat. Edward Ross)",Howard Shore,The Lord of the Rings: The Fellowship of the Ring - the Complete Recordings,221226,trackdone,trackdone,False,False,user_07,1
+2022-08-10 23:07:00,Society,Eddie Vedder,Into The Wild,236306,trackdone,trackdone,False,False,user_07,0
+2022-08-12 03:11:00,This Is Your Life - Live From The Royal Albert Hall / 2009,The Killers,Live From The Royal Albert Hall,2274,fwdbtn,fwdbtn,True,False,user_07,0
+2022-08-13 04:21:00,'O sole mio (Arr. Chiaramello),Eduardo di Capua,Luciano Pavarotti - O Sole Mio - Favourite Neapolitan Songs,14040,fwdbtn,fwdbtn,True,False,user_07,0
+2022-08-14 01:06:00,Kooks - 2015 Remaster,David Bowie,Hunky Dory,23,fwdbtn,fwdbtn,True,False,user_07,0
+2022-08-14 01:10:00,9 to 5,Dolly Parton,9 To 5 And Odd Jobs,38297,trackdone,endplay,True,False,user_07,1
+2022-08-21 16:31:00,All My Shades Of Blue,Ruen Brothers,All My Shades Of Blue,235280,trackdone,trackdone,True,False,user_07,1
+2022-08-31 04:23:00,Terrenal,Julión Álvarez y su Norteño Banda,Ni Lo Intentes,237640,trackdone,trackdone,False,False,user_07,0
+2022-09-10 07:40:00,In the Blood,John Mayer,The Search for Everything,243666,trackdone,trackdone,True,False,user_07,1
+2022-09-10 23:59:00,Between The Raindrops,Lifehouse,Almeria,34172,appload,trackdone,True,False,user_07,1
+2022-09-18 00:51:00,I Think Of You,Rodríguez,Coming From Reality,858,fwdbtn,fwdbtn,True,False,user_07,0
+2022-09-21 15:37:00,Chevrolet Van,The Nude Party,The Nude Party,258146,trackdone,trackdone,True,False,user_07,0
+2022-09-21 16:13:00,Hombre de ninguna parte,Xoel López,Atlántico,221693,trackdone,trackdone,True,False,user_07,1
+2022-09-25 18:45:00,Leaving Heartbreak Hotel,The Temper Trap,The Temper Trap,268600,trackdone,trackdone,True,False,user_07,1
+2022-09-26 23:35:00,He Andado Muchos Caminos,Joan Manuel Serrat,"Dedicado A Antonio Machado, Poeta",151960,trackdone,trackdone,True,False,user_07,0
+2022-09-27 00:25:00,Por el Bulevar de los Sueños Rotos,Joaquín Sabina,Esta Boca Es Mia,238573,trackdone,trackdone,False,False,user_07,1
+2022-09-27 00:45:00,Princesa,Joaquin Sabina y Viceversa,Esencial Joaquin Sabina,242880,trackdone,trackdone,False,False,user_07,1
+2022-09-29 22:59:00,Tell Me Why - Remastered 2009,The Beatles,A Hard Day's Night,4424,fwdbtn,fwdbtn,True,False,user_07,1
+2022-09-30 03:08:00,Mátalas,Alejandro Fernández,Lo Esencial De Alejandro Fernández,174000,fwdbtn,trackdone,True,False,user_07,0
+2022-09-30 03:17:00,Cool Out,Imagine Dragons,Origins,11740,fwdbtn,fwdbtn,True,False,user_07,0
+2022-09-30 03:45:00,Oh! You Pretty Things,Seu Jorge,The Life Aquatic Exclusive Studio Sessions Featuring Seu Jorge,1122,fwdbtn,fwdbtn,True,False,user_07,1
+2022-09-30 03:46:00,I Contain Multitudes,Bob Dylan,Rough and Rowdy Ways,1319,fwdbtn,fwdbtn,True,False,user_07,0
+2022-09-30 18:52:00,Fine By Me,Andy Grammer,Andy Grammer,643,fwdbtn,fwdbtn,True,False,user_07,0
+2022-09-30 18:54:00,To Love a Boy,Maya Hawke,To Love a Boy / Stay Open,1607,fwdbtn,fwdbtn,True,False,user_07,0
+2022-09-30 18:57:00,Angie - Remastered 2009,The Rolling Stones,Goats Head Soup - Remastered 2009,743,fwdbtn,fwdbtn,True,False,user_07,0
+2022-09-30 19:09:00,Eat At Home - Remastered 2012,Paul McCartney,Ram,933,fwdbtn,fwdbtn,True,False,user_07,0
+2022-09-30 19:09:00,Thunderstruck,AC/DC,The Razors Edge,1463,fwdbtn,fwdbtn,True,False,user_07,0
+2022-09-30 20:41:00,Dónde Estás Corazón?,Mocedades,Personalidad,1143,fwdbtn,fwdbtn,True,False,user_07,0
+2022-10-01 20:24:00,"Champaign, Illinois",Old 97's,"The Grand Theatre, Vol. 1",205386,trackdone,trackdone,True,False,user_07,0
+2022-10-03 21:36:00,What Do I Know?,Ed Sheeran,÷,1074,fwdbtn,fwdbtn,True,False,user_07,0
+2022-10-03 22:46:00,Meet Me in the Morning,Bob Dylan,Blood On The Tracks,258973,trackdone,trackdone,True,False,user_07,0
+2022-10-09 01:28:00,Bodysnatchers,Radiohead,In Rainbows,242293,trackdone,trackdone,True,False,user_07,0
+2022-10-10 07:02:00,Something - Remastered 2009,The Beatles,Abbey Road,182293,trackdone,trackdone,True,False,user_07,1
+2022-10-11 03:09:00,Toda una Vida,Pedro Guerra,Contigo En La Distancia,115200,trackdone,trackdone,True,False,user_07,1
+2022-10-11 04:37:00,19 Dias y 500 Noches,Joaquín Sabina,19 Dias Y 500 Noches,283866,trackdone,trackdone,True,False,user_07,1
+2022-10-17 18:08:00,"Bizet: Carmen, WD 31, Act 1: Habanera. ""L'amour est un oiseau rebelle"" (Carmen, Chœur)",Georges Bizet,Pure - Maria Callas,21690,trackdone,fwdbtn,True,True,user_07,0
+2022-10-17 18:21:00,Pierce You Are a B,Eric Olsen,Community (Music from the Original Television Series),981,fwdbtn,fwdbtn,True,True,user_07,0
+2022-10-21 18:41:00,Body Paint,Arctic Monkeys,The Car,290584,trackdone,trackdone,False,False,user_07,0
+2022-10-25 02:32:00,Merry Men,Marc Streitenfeld,Robin Hood (Original Motion Picture Soundtrack),108186,trackdone,trackdone,False,False,user_07,0
+2022-10-25 17:16:00,Don't Let Me Down - Remastered 2009,The Beatles,Past Masters,215613,trackdone,trackdone,True,False,user_07,0
+2022-10-25 18:37:00,We Can Work It Out - Remastered 2009,The Beatles,Past Masters,135440,trackdone,trackdone,True,False,user_07,0
+2022-10-25 18:43:00,Every Little Thing - Remastered 2009,The Beatles,Beatles For Sale - Remastered,123800,trackdone,trackdone,True,False,user_07,0
+2022-10-26 00:47:00,Last Train Home,John Mayer,Sob Rock,187306,trackdone,trackdone,False,False,user_07,0
+2022-10-26 01:05:00,"Young Lady, You're Scaring Me",Ron Gallo,HEAVY META,220538,trackdone,trackdone,False,False,user_07,0
+2022-11-01 03:08:00,Eso Que Tú Me Das,Jarabe De Palo,Tragas o Escupes,214553,trackdone,trackdone,True,False,user_07,1
+2022-11-25 01:21:00,Hold on Forever,Rob Thomas,The Great Unknown,3234,trackdone,fwdbtn,True,True,user_07,0
+2022-11-25 05:32:00,Cleopatra,The Lumineers,Cleopatra,561,fwdbtn,fwdbtn,True,True,user_07,0
+2022-11-27 23:13:00,Cumberland Gap,David Rawlings,Poor David's Almanack,175973,trackdone,trackdone,False,False,user_07,0
+2022-11-28 00:44:00,Highway to Hell,AC/DC,Highway to Hell,208400,fwdbtn,trackdone,True,False,user_07,0
+2022-11-28 01:10:00,All Down The Line,The Rolling Stones,Exile On Main Street,229493,trackdone,trackdone,True,False,user_07,0
+2022-12-08 04:09:00,Ballad of a Thin Man,Bob Dylan,Highway 61 Revisited,356706,trackdone,trackdone,True,False,user_07,0
+2022-12-10 04:37:00,"Qué bueno, qué bueno (feat. Jorge Drexler)",Jarabe De Palo,Un metro cuadrado,204014,appload,trackdone,False,False,user_07,0
+2022-12-10 04:39:00,La Magdalena,Pablo Milanés,Pablo Querido,1050,fwdbtn,fwdbtn,False,True,user_07,0
+2022-12-17 01:18:00,Sweet Child O' Mine,Guns N' Roses,Appetite For Destruction,354520,trackdone,trackdone,True,False,user_07,0
+2022-12-17 05:51:00,Do You Remember - Vintage Culture Remix,Vintage Culture,Hollywood,412000,trackdone,trackdone,True,False,user_07,0
+2022-12-22 20:29:00,Black Dog - Remaster,Led Zeppelin,Led Zeppelin IV,295386,trackdone,trackdone,True,False,user_07,0
+2022-12-24 16:03:00,19 Dias y 500 Noches,Joaquín Sabina,19 Dias Y 500 Noches,283866,trackdone,trackdone,True,False,user_07,0
+2023-01-01 02:53:00,Them Eyes,The Black Keys,The Big Come Up,87561,trackdone,fwdbtn,False,True,user_07,0
+2023-01-01 04:29:00,Sweet Virginia,The Rolling Stones,Exile On Main Street,1636,fwdbtn,fwdbtn,False,True,user_07,0
+2023-01-04 16:31:00,"wind whispers, Op. 85: II. floating leaf",Konstantia Gourzi,II. floating leaf,137520,trackdone,trackdone,True,False,user_07,0
+2023-01-09 00:07:00,Homegrown,Zac Brown Band,JEKYLL + HYDE,1809,fwdbtn,fwdbtn,True,True,user_07,0
+2023-01-15 09:01:00,Es Por Ti,Juanes,Un Día Normal,157381,trackdone,logout,False,False,user_07,1
+2023-01-20 23:02:00,"Der Zigeunerbaron, Act 3: Entr'acte",Johann Strauss II,Der Zigeunerbaron,89040,trackdone,trackdone,False,False,user_07,0
+2023-01-25 23:22:00,Fawkes the Phoenix,John Williams,Harry Potter and The Chamber of Secrets/ Original Motion Picture Soundtrack,225666,trackdone,trackdone,False,False,user_07,1
+2023-01-30 00:34:00,Voodoo Chile,Jimi Hendrix,Electric Ladyland,1750,fwdbtn,fwdbtn,True,True,user_07,0
+2023-02-01 00:28:00,Boots of Spanish Leather,Bob Dylan,The Times They Are A-Changin',277106,trackdone,trackdone,True,False,user_07,0
+2023-02-01 01:59:00,Afterglow,Leo Vara,Bordeaux,158628,trackdone,trackdone,True,False,user_07,0
+2023-02-01 02:59:00,Guitar Serenade,Samuel T. Wesley,Guitar Serenade,88008,trackdone,trackdone,True,False,user_07,0
+2023-02-02 05:04:00,Mila Song,Lacashora,Dow Cabin,350875,trackdone,trackdone,False,False,user_07,1
+2023-02-02 05:32:00,Tequila,Juanes,Más Futuro Que Pasado,159546,trackdone,trackdone,False,False,user_07,1
+2023-02-02 06:53:00,La Magdalena,Pablo Milanés,Pablo Querido,248893,trackdone,trackdone,False,False,user_07,1
+2023-02-02 21:28:00,Society,Eddie Vedder,Into The Wild,236306,fwdbtn,trackdone,False,False,user_07,1
+2023-02-02 23:27:00,Peces de Ciudad,Joaquín Sabina,Dímelo En La Calle,4431,trackdone,fwdbtn,False,True,user_07,0
+2023-02-03 01:26:00,Get It On,T. Rex,Get It On: The Collection,263840,trackdone,trackdone,False,False,user_07,0
+2023-02-03 02:05:00,End Of My Rope,Pokey LaFarge,Rock Bottom Rhapsody,178139,trackdone,trackdone,False,False,user_07,0
+2023-02-03 02:35:00,Sight of the Sun - Single Version,fun.,Sight of the Sun,210373,trackdone,trackdone,False,False,user_07,0
+2023-02-08 19:44:00,Michigan Cherry,River Whyless,Monoflora,223400,trackdone,trackdone,True,False,user_07,0
+2023-02-08 20:14:00,Redemption Song,Bob Marley & The Wailers,Uprising,233560,trackdone,trackdone,True,False,user_07,0
+2023-02-08 20:26:00,"Here, There And Everywhere - Remastered 2009",The Beatles,Revolver,13990,fwdbtn,endplay,True,True,user_07,0
+2023-02-09 17:11:00,Do,The White Stripes,The White Stripes,185000,trackdone,trackdone,True,False,user_07,0
+2023-02-09 21:26:00,Twist,Lorkin O'Reilly,Twist,186157,trackdone,trackdone,True,False,user_07,0
+2023-03-01 19:42:00,This Love (Taylor’s Version),Taylor Swift,This Love (Taylor’s Version),250100,trackdone,trackdone,False,False,user_07,0
+2023-03-06 19:05:00,For Reasons Unknown,The Killers,Sam's Town,212125,clickrow,trackdone,True,False,user_08,0
+2023-03-07 17:44:00,"100,000 People",Kings of Leon,When You See Yourself,343934,trackdone,trackdone,False,False,user_08,1
+2023-03-10 14:59:00,Volver,Juanes,Origen,167360,clickrow,trackdone,True,False,user_08,1
+2023-03-13 04:37:00,Dead Flowers - 2009 Mix,The Rolling Stones,Sticky Fingers,36154,trackdone,unexpected-exit-while-paused,True,False,user_08,1
+2023-03-13 06:41:00,Jail pt 2,Kanye West,Donda,297000,trackdone,trackdone,True,False,user_08,0
+2023-03-13 17:02:00,Sausalito,Lydia Luce,Sausalito,198893,trackdone,logout,True,False,user_08,1
+2023-03-14 17:29:00,Laramee,Richy Mitch & The Coal Miners,Laramee,241860,trackdone,trackdone,False,False,user_08,0
+2023-03-14 19:48:00,Fatal Line,1969 Collective,Fatal Line,181933,trackdone,trackdone,False,False,user_08,0
+2023-03-20 19:35:00,Living Loving Maid (She's Just a Woman) - Remaster,Led Zeppelin,Led Zeppelin II,159300,trackdone,trackdone,True,False,user_08,1
+2023-03-21 04:16:00,Tomorrow Never Knows - Remastered 2009,The Beatles,Revolver,5871,fwdbtn,fwdbtn,True,True,user_08,0
+2023-03-21 17:22:00,No Surprises,Radiohead,OK Computer,231643,remote,trackdone,True,False,user_08,0
+2023-03-22 02:49:00,California Sun - 2017 Remaster,Ramones,Leave Home,127746,trackdone,trackdone,True,False,user_08,0
+2023-03-24 01:09:00,Wild Heart,Daughtry,Baptized (Deluxe Version),230626,fwdbtn,trackdone,True,False,user_08,0
+2023-03-28 16:24:00,Endless Night - Urban Romance,Dominik Scherrer,Agatha Christie's Marple (Music from the Television Series),77320,trackdone,trackdone,False,False,user_08,0
+2023-04-07 01:09:00,Wasted Time,Vance Joy,Dream Your Life Away,1410,fwdbtn,fwdbtn,True,True,user_08,0
+2023-04-07 07:59:00,Dangerous Animals,Arctic Monkeys,Humbug,23,fwdbtn,fwdbtn,True,True,user_08,0
+2023-04-07 07:59:00,Light My Fire,The Doors,The Doors,23,fwdbtn,fwdbtn,True,True,user_08,0
+2023-04-07 09:15:00,Harvest Moon,Neil Young,"Eat, Pray, Love",299106,trackdone,trackdone,False,False,user_08,1
+2023-04-07 09:36:00,Eleanor Put Your Boots On,Franz Ferdinand,You Could Have It So Much Better,169933,trackdone,trackdone,False,False,user_08,0
+2023-04-10 05:04:00,Don't Look Back in Anger - Remastered,Oasis,(What's The Story) Morning Glory?,121319,trackdone,logout,True,False,user_08,1
+2023-04-17 17:27:00,Blowback,The Killers,Imploding The Mirage,239600,trackdone,trackdone,True,False,user_08,0
+2023-04-23 09:22:00,Telescope,Cage The Elephant,Melophobia,219698,appload,trackdone,True,False,user_08,1
+2023-04-25 19:39:00,The Cowboys' Christmas Ball,The Killers,Don't Waste Your Wishes,58520,trackdone,logout,True,False,user_08,0
+2023-04-30 22:44:00,Trouble,Cage The Elephant,Tell Me I'm Pretty,225973,trackdone,trackdone,True,False,user_08,1
+2023-05-02 04:56:00,Talkin' World War III Blues,Bob Dylan,The Freewheelin' Bob Dylan,243305,trackdone,endplay,True,True,user_08,0
+2023-05-05 17:37:00,Real Love Baby,Father John Misty,Real Love Baby,189293,trackdone,trackdone,False,False,user_08,0
+2023-05-05 18:39:00,Lost In The Light,Bahamas,Barchords,236720,trackdone,trackdone,False,False,user_08,0
+2023-05-05 19:19:00,Hockey Teeth,Bahamas,Pink Strat,154960,trackdone,trackdone,False,False,user_08,0
+2023-05-12 16:50:00,Shoegaze,Alabama Shakes,Sound & Color,179506,trackdone,trackdone,False,False,user_08,0
+2023-05-14 03:51:00,Primera Cita,Carin Leon,Primera Cita,186455,trackdone,trackdone,False,False,user_08,1
+2023-05-17 07:27:00,Always Alright,Alabama Shakes,Always Alright,249169,fwdbtn,trackdone,True,False,user_08,0
+2023-05-17 08:04:00,Quiet Town - Abridged,The Killers,Pressure Machine,1278,fwdbtn,fwdbtn,True,True,user_08,0
+2023-05-17 08:08:00,That's the Way - Remaster,Led Zeppelin,Led Zeppelin III,1758,fwdbtn,fwdbtn,True,True,user_08,0
+2023-05-17 08:15:00,Las transeúntes,Jorge Drexler,Amar la trama,1721,fwdbtn,fwdbtn,True,True,user_08,0
+2023-05-20 00:19:00,Sunday Morning,The Velvet Underground,The Velvet Underground & Nico 45th Anniversary,3251,fwdbtn,fwdbtn,True,True,user_08,0
+2023-05-20 02:23:00,Wild Horses - 2009 Mix,The Rolling Stones,Sticky Fingers,1502,fwdbtn,fwdbtn,True,True,user_08,1
+2023-06-04 18:40:00,Rompecabezas (feat. Emmanuel),Mijares,Rompecabezas,223184,trackdone,trackdone,True,False,user_08,0
+2023-06-04 19:34:00,Stay High,Childish Gambino,Stay High,218400,trackdone,trackdone,True,False,user_08,0
+2023-06-10 00:51:00,Kid A,Radiohead,Kid A,1786,fwdbtn,fwdbtn,True,True,user_08,0
+2023-06-10 00:56:00,Life's Been Good,Joe Walsh,"But Seriously, Folks...",1889,fwdbtn,fwdbtn,True,True,user_08,0
+2023-06-10 01:11:00,Blue Jay Way - Remastered 2009,The Beatles,Magical Mystery Tour,712,fwdbtn,fwdbtn,True,True,user_08,0
+2023-06-10 02:24:00,Shot At The Night,The Killers,Direct Hits,1238,fwdbtn,fwdbtn,True,True,user_08,1
+2023-06-12 00:58:00,Leave Your Life,Ed Sheeran,=,2923,fwdbtn,fwdbtn,True,True,user_08,0
+2023-06-21 03:47:00,Crying Shame,The Teskey Brothers,Half Mile Harvest,231886,remote,trackdone,False,False,user_08,1
+2023-06-21 04:05:00,Xmas in February,Lou Reed,New York,977,fwdbtn,fwdbtn,True,True,user_08,0
+2023-06-24 20:43:00,Jesus Was a Social Drinker,Chuck Prophet,Bobby Fuller Died for Your Sins,294266,fwdbtn,trackdone,True,False,user_08,0
+2023-06-24 21:02:00,Travelin' Band,Creedence Clearwater Revival,Cosmo's Factory,127493,trackdone,trackdone,True,False,user_08,0
+2023-06-26 15:28:00,I Want All My Money Back,Lonnie Brooks,The Alligator Records 20th Anniversary Tour,732430,trackdone,fwdbtn,True,True,user_08,0
+2023-06-28 16:26:00,You Don't Know My Name,The Kinks,Everybody's in Show-Biz,4185,trackdone,fwdbtn,True,True,user_08,1
+2023-07-02 02:35:00,Weekends,Midnight Generation,Weekends,251779,trackdone,trackdone,True,False,user_08,0
+2023-07-21 06:13:00,Optimista,Caloncho,Bálsamo,212226,trackdone,trackdone,False,False,user_08,1
+2023-07-21 06:43:00,Es Por Ti,Juanes,Un Día Normal,250693,trackdone,trackdone,False,False,user_08,1
+2023-07-23 02:56:00,Lentes Negros,Primavera Club,Dorama,290400,trackdone,trackdone,True,False,user_08,0
+2023-07-23 05:11:00,nuncatevayasnunca,Floridablanca,Hay frases que sólo escuchamos de noche,237909,trackdone,trackdone,True,False,user_08,0
+2023-07-23 18:40:00,Crooked Smile (feat. TLC),J. Cole,Born Sinner,58379,appload,trackdone,True,False,user_08,0
+2023-07-25 00:03:00,Until You,AHI,Until You,198608,trackdone,trackdone,False,False,user_08,1
+2023-07-30 22:42:00,Strawberry Fields Forever - Remastered 2009,The Beatles,Magical Mystery Tour,247320,trackdone,trackdone,False,False,user_08,0
+2023-08-04 03:22:00,No Reply - Remastered 2009,The Beatles,Beatles For Sale - Remastered,135912,trackdone,trackdone,True,False,user_08,0
+2023-08-10 15:20:00,Malibu,Miley Cyrus,Younger Now,231810,remote,trackdone,False,False,user_08,1
+2023-08-16 04:37:00,Pacific Coast Highway In The Movies (feat. Rivers Cuomo of Weezer),AWOLNATION,Angel Miners & The Lightning Riders,235538,trackdone,trackdone,True,False,user_08,0
+2023-08-23 06:10:00,Glamorous Indie Rock & Roll,The Killers,Hot Fuss,224219,fwdbtn,trackdone,True,False,user_08,0
+2023-08-23 06:25:00,Tidal Wave,The Killers,Spaceman,254235,trackdone,trackdone,True,False,user_08,0
+2023-09-17 00:46:00,Asturión,Cocofunka,CAMALOVE,254492,trackdone,trackdone,True,False,user_08,1
+2023-09-22 20:26:00,Tenth Avenue Freeze-Out,Bruce Springsteen,Born To Run,1316,fwdbtn,backbtn,True,True,user_08,1
+2023-09-23 22:01:00,Zoo Lion,Moncho Berry,Zoo Lion,266447,trackdone,trackdone,False,False,user_08,0
+2023-09-24 01:30:00,Regalo,Caloncho,Regalo,177640,trackdone,trackdone,False,False,user_08,0
+2023-09-24 01:38:00,Naranjita sí carnal,Caloncho,Buen Pez,194186,trackdone,trackdone,False,False,user_08,0
+2023-09-24 06:16:00,May and June,NVDES,"LA NVDITÉ, Vol. 1",188416,trackdone,trackdone,False,False,user_08,0
+2023-09-24 07:27:00,High (feat. Nicole Millar) - Lenno Remix,Peking Duk,Songs to Sweat to,246773,trackdone,trackdone,False,False,user_08,0
+2023-09-24 08:59:00,Cumbia Con La Luna,Control,Cumbias Sin Control,215066,trackdone,trackdone,True,False,user_08,0
+2023-09-24 23:29:00,Rock N' Roll Suicide,Seu Jorge,The Life Aquatic Exclusive Studio Sessions Featuring Seu Jorge,4606,fwdbtn,fwdbtn,True,True,user_08,0
+2023-09-28 22:20:00,"The Road Goes Ever On..., Pt. 2 / ""In Dreams"" (feat. Edward Ross)",Howard Shore,The Lord of the Rings: The Fellowship of the Ring - the Complete Recordings,221226,trackdone,trackdone,True,False,user_08,1
+2023-09-29 18:17:00,Proud Mary,Creedence Clearwater Revival,Chronicle: 20 Greatest Hits,188666,trackdone,trackdone,False,False,user_08,0
+2023-09-29 19:39:00,No Reply - Remastered 2009,The Beatles,Beatles For Sale - Remastered,136066,trackdone,trackdone,False,False,user_08,1
+2023-10-04 22:29:00,I Don't Want To Spoil The Party - Remastered 2009,The Beatles,Beatles For Sale - Remastered,154466,trackdone,trackdone,False,False,user_08,0
+2023-10-06 19:48:00,Yesterday - Remastered 2009,The Beatles,Help!,125666,trackdone,trackdone,True,False,user_08,0
+2023-10-06 20:39:00,Golden Slumbers - Remastered 2009,The Beatles,Abbey Road,91760,trackdone,trackdone,True,False,user_08,0
+2023-10-06 20:41:00,Why Don't We Do It In The Road? - Remastered 2009,The Beatles,The Beatles,101160,trackdone,trackdone,True,False,user_08,0
+2023-10-11 19:59:00,Contigo,Joaquín Sabina,"Yo, Mi, Me, Contigo",2111,trackdone,fwdbtn,True,True,user_08,1
+2023-10-11 20:30:00,Papá Cuéntame Otra Vez,Ismael Serrano,20 Años de la Sala Galileo Galilei,177960,trackdone,trackdone,True,False,user_08,1
+2023-10-12 14:09:00,"The Return of the King (feat. Sir James Galway, Viggo Mortensen and Renee Fleming)",Howard Shore,The Lord of the Rings: The Return of the King,614266,trackdone,trackdone,False,False,user_08,1
+2023-10-12 18:12:00,"Rocky Prelude (From ""Rocky"") [Piano Solo]",Juggernoud1,"Rocky Prelude (From ""Rocky"") [Piano Solo]",210295,trackdone,trackdone,False,False,user_08,1
+2023-10-17 06:58:00,Lodo,Xoel López,Sueños y Pan,193344,trackdone,trackdone,True,False,user_08,1
+2023-10-24 07:22:00,Dumbledore's Army,Nicholas Hooper,Harry Potter And The Order Of The Phoenix (Original Motion Picture Soundtrack),160253,trackdone,trackdone,False,False,user_08,0
+2023-10-27 04:15:00,Cough Syrup,Young the Giant,Young The Giant,249520,fwdbtn,trackdone,True,False,user_08,0
+2023-11-05 05:16:00,Sognare,División Minúscula,Defecto Perfecto,313933,fwdbtn,trackdone,True,False,user_08,0
+2023-11-09 03:32:00,Beast Of Burden - Remastered 1994,The Rolling Stones,Some Girls,265173,fwdbtn,trackdone,True,False,user_08,1
+2023-11-09 19:34:00,Young Volcanoes,Fall Out Boy,Save Rock And Roll,204506,trackdone,trackdone,True,False,user_08,0
+2023-11-10 20:00:00,Spaceman,The Killers,Day & Age - Bonus Tracks,284546,trackdone,trackdone,True,False,user_08,0
+2023-11-21 05:33:00,Feel It Still,Portugal. The Man,Woodstock,163253,trackdone,trackdone,True,False,user_08,0
+2023-11-23 21:52:00,Pecan Tree,The Mud Howlers,Timeliness,193853,trackdone,trackdone,True,False,user_08,0
+2023-11-24 03:55:00,What You Don't Want Me to Be,Lee Moses,Time and Place (Digitally Remastered),171706,trackdone,trackdone,True,False,user_08,0
+2023-11-24 04:17:00,It Rains Love,Lee Fields & The Expressions,It Rains Love,235213,trackdone,trackdone,True,False,user_08,0
+2023-11-26 01:14:00,In the Flesh?,Pink Floyd,The Wall,198221,clickrow,trackdone,True,False,user_08,1
+2023-11-26 01:25:00,"Another Brick in the Wall, Pt. 2",Pink Floyd,The Wall,238746,trackdone,trackdone,False,False,user_08,0
+2023-12-13 23:53:00,Vienna,Billy Joel,The Stranger,214240,trackdone,trackdone,True,False,user_08,0
+2023-12-17 22:56:00,Little Lion Man,Mumford & Sons,Sigh No More,247000,fwdbtn,trackdone,True,False,user_08,0
+2023-12-20 20:36:00,Statues,Alexandre Desplat,"Harry Potter and the Deathly Hallows, Pt. 2 (Original Motion Picture Soundtrack)",2764,fwdbtn,logout,False,False,user_08,0
+2023-12-29 14:23:00,My Kind of Man,Vance Joy,Dream Your Life Away,229840,trackdone,trackdone,True,False,user_08,0
+2023-12-29 17:51:00,Don't Let Me Down - Remastered 2009,The Beatles,Past Masters,215613,fwdbtn,trackdone,True,False,user_08,0
+2024-01-01 21:52:00,"Greystone Chapel - Live at Folsom State Prison, Folsom, CA - January 1968",Johnny Cash,At Folsom Prison,2137,fwdbtn,fwdbtn,True,True,user_08,0
+2024-01-01 22:05:00,You Never Can Tell,Chuck Berry,St. Louis To Liverpool,4957,fwdbtn,fwdbtn,True,True,user_08,1
+2024-01-01 23:09:00,"Stop This Train - Live at the Nokia Theatre, Los Angeles, CA - December 2007",John Mayer,Where the Light Is: John Mayer Live In Los Angeles,8347,trackdone,fwdbtn,True,True,user_08,0
+2024-01-02 01:16:00,De Nada Sirve,No Te Va Gustar,Otras Canciones,7661,fwdbtn,fwdbtn,True,True,user_08,0
+2024-01-12 21:49:00,Wait For Me,Roger Damawuzan,Wanted Afrobeat: From Diggers to Music Lovers,197622,trackdone,trackdone,True,False,user_08,0
+2024-01-14 02:03:00,Close Your Eyes,Sadistics,スーパー・セレクション,299000,trackdone,trackdone,True,False,user_08,0
+2024-01-21 07:28:00,No Nos Pararan,Charanga 76,No Nos Pararan,574505,trackdone,trackdone,True,False,user_08,1
+2024-01-23 18:55:00,Entr'Acte,Andrew Lloyd Webber,The Phantom Of The Opera,181693,trackdone,trackdone,False,False,user_08,0
+2024-01-24 22:01:00,Love is a Laserquest,Arctic Monkeys,Suck It and See,191426,trackdone,trackdone,True,False,user_08,1
+2024-01-26 00:10:00,Sex on Fire,Kings of Leon,Only By The Night,203346,trackdone,trackdone,True,False,user_08,0
+2024-01-26 00:20:00,Many Meetings,Howard Shore,The Lord of the Rings: The Fellowship of the Ring (Original Motion Picture Soundtrack),880,fwdbtn,fwdbtn,True,True,user_08,0
+2024-01-26 18:48:00,I Found a Reason - 2015 Remaster,The Velvet Underground,Loaded,15117,trackdone,fwdbtn,True,True,user_08,0
+2024-01-27 05:30:00,Lentes Negros,Primavera Club,Dorama,290400,trackdone,trackdone,True,False,user_08,0
+2024-01-27 23:20:00,Fernando,ABBA,Arrival,252960,trackdone,trackdone,True,False,user_08,1
+2024-02-01 17:45:00,Dig A Pony - Naked Version / Remastered 2013,The Beatles,Let It Be... Naked,218128,trackdone,trackdone,True,False,user_08,0
+2024-02-01 23:21:00,The Adults Are Talking,The Strokes,The New Abnormal,309053,clickrow,trackdone,True,False,user_08,0
+2024-02-01 23:56:00,Threat of Joy,The Strokes,Future Present Past,264724,trackdone,trackdone,True,False,user_08,0
+2024-02-02 19:41:00,Super Trouper,ABBA,Super Trouper,252853,trackdone,trackdone,False,False,user_08,1
+2024-02-02 20:11:00,Reelin' In The Years,Steely Dan,Can't Buy A Thrill,277467,clickrow,trackdone,False,False,user_08,1
+2024-02-11 02:40:00,Summer Wind,Frank Sinatra,Ultimate Sinatra,1960,fwdbtn,fwdbtn,True,True,user_08,0
+2024-02-21 19:21:00,Roll it on Home,John Mayer,The Search for Everything,202813,trackdone,trackdone,True,False,user_08,1
+2024-02-23 21:00:00,I Will Be Found (Lost At Sea),John Mayer,Paradise Valley,241346,trackdone,trackdone,True,False,user_08,1
+2024-02-28 00:39:00,All I Need,AWOLNATION,Megalithic Symphony,217693,trackdone,trackdone,True,False,user_08,0
+2024-02-29 21:27:00,Fernando,ABBA,Arrival,252960,trackdone,trackdone,False,False,user_08,0
+2024-03-01 04:07:00,La Flor de la Canela (with Joaquín Sabina),Maria Dolores Pradera,Gracias A Vosotros,193000,trackdone,trackdone,False,False,user_08,1
+2024-03-01 21:48:00,Con te partirò - 2016 Version,Andrea Bocelli,My Love Songs (Expanded Edition),254631,trackdone,trackdone,False,False,user_08,0
+2024-03-02 19:30:00,Slow Dancing in a Burning Room,John Mayer,Continuum,222613,trackdone,logout,True,False,user_08,1
+2024-03-13 05:22:00,The Entertainer,Billy Joel,Streetlife Serenade,221040,trackdone,trackdone,True,False,user_08,1
+2024-04-01 00:34:00,Selfless,The Strokes,The New Abnormal,222093,trackdone,trackdone,False,False,user_08,0
+2024-04-02 03:24:00,Let Down,Radiohead,OK Computer,299560,trackdone,trackdone,False,False,user_08,0
+2024-04-02 03:29:00,My Life,Billy Joel,52nd Street,284000,trackdone,trackdone,False,False,user_08,0
+2024-04-04 18:56:00,I’ll Be Your Man (Song For A Daughter),Zac Brown Band,JEKYLL + HYDE,272061,trackdone,fwdbtn,False,True,user_08,0
+2024-04-13 02:23:00,De Verdad,Alex Ferreira,De Verdad,206440,trackdone,trackdone,True,False,user_08,0
+2024-04-14 19:34:00,Fiebre Atemporal,Silvestre y La Naranja,Sueño Cítrico,164292,trackdone,trackdone,True,False,user_08,0
+2024-05-10 21:13:00,Roy Rogers - Remastered 2014,Elton John,Goodbye Yellow Brick Road - Remastered,247413,trackdone,trackdone,True,False,user_08,0
+2024-05-12 02:53:00,Hoy Ten Miedo De Mi,Fernando Delgadillo,Con Cierto Aire a Ti,18450,trackdone,fwdbtn,True,True,user_08,0
+2024-05-12 06:48:00,Waiting On the World to Change,John Mayer,Continuum,147526,trackdone,logout,True,False,user_08,1
+2024-05-13 18:09:00,L'oeuf,Trent Reznor and Atticus Ross,Challengers (Original Score),239941,trackdone,trackdone,False,False,user_08,0
+2024-05-31 19:09:00,Life In Color,OneRepublic,Native,113463,appload,trackdone,True,False,user_08,0
+2024-06-09 17:46:00,A Certain Romance,Arctic Monkeys,"Whatever People Say I Am, That's What I'm Not",331200,trackdone,trackdone,True,False,user_08,0
+2024-06-12 21:44:00,Corona,Minutemen,Double Nickels on the Dime,145533,trackdone,trackdone,True,False,user_08,0
+2024-07-03 16:13:00,Speak For Me,John Mayer,Born and Raised,224680,trackdone,trackdone,True,False,user_08,0
+2024-07-03 18:06:00,Born and Raised,John Mayer,Born and Raised,287640,trackdone,trackdone,True,False,user_08,0
+2024-07-14 01:00:00,99 Problems,Hugo,Old Tyme Religion,137426,trackdone,trackdone,True,False,user_08,0
+2024-07-14 01:07:00,For Reasons Unknown,The Killers,Sam's Town,212266,trackdone,trackdone,True,False,user_08,1
+2024-07-20 21:05:00,Get Back - Remastered 2009,The Beatles,Past Masters,191093,trackdone,trackdone,True,False,user_08,0
+2024-07-21 08:06:00,I'm Waiting For The Man - Album Version (Stereo),The Velvet Underground,The Velvet Underground & Nico 45th Anniversary,231420,trackdone,fwdbtn,True,True,user_08,0
+2024-08-01 19:55:00,American Idiot,Green Day,American Idiot,176346,trackdone,trackdone,True,False,user_08,0
+2024-08-03 23:56:00,Mi Mayor Anhelo,Banda MS de Sergio Lizárraga,Mi Mayor Anhelo,209786,playbtn,trackdone,True,False,user_08,0
+2024-08-04 07:44:00,Why Did It Have To Be Me?,ABBA,Arrival,200746,trackdone,trackdone,True,False,user_08,1
+2024-08-06 02:05:00,Who'll Stop The Rain,Creedence Clearwater Revival,Cosmo's Factory,147279,trackdone,trackdone,False,False,user_08,0
+2024-08-06 17:35:00,And Your Bird Can Sing - Remastered 2009,The Beatles,Revolver,120493,trackdone,trackdone,True,False,user_08,0
+2024-08-07 07:18:00,Forêt de Hêtres,Marc & Friends,Forêt de Hêtres,21324,fwdbtn,fwdbtn,False,True,user_08,0
+2024-08-12 01:55:00,boy,The Killers,boy,198480,clickrow,trackdone,False,False,user_08,1
+2024-08-16 04:49:00,Óleo de Mujer Con Sombrero,Silvio Rodríguez,Al Final de Este Viaje...,1956,fwdbtn,fwdbtn,True,True,user_08,1
+2024-09-08 20:05:00,Sweet Black Angel,The Rolling Stones,Exile On Main Street,1885,fwdbtn,fwdbtn,True,True,user_08,1
+2024-09-12 06:37:00,Collide,James Bay,Chaos And The Calm,203906,trackdone,trackdone,True,False,user_08,0
+2024-09-12 23:34:00,From Yesterday,Thirty Seconds To Mars,A Beautiful Lie,2850,fwdbtn,fwdbtn,True,True,user_08,0
+2024-09-15 23:05:00,Obviously Five Believers,Bob Dylan,Blonde On Blonde,213026,trackdone,trackdone,True,False,user_08,0
+2024-09-16 01:09:00,Being For The Benefit Of Mr. Kite! - Remastered 2009,The Beatles,Sgt. Pepper's Lonely Hearts Club Band,2350,fwdbtn,fwdbtn,True,True,user_08,0
+2024-09-18 00:14:00,Smile Away - Remastered 2012,Paul McCartney,Ram,232666,trackdone,trackdone,True,False,user_08,0
+2024-09-26 05:24:00,Photograph,Nickelback,All the Right Reasons,258920,fwdbtn,trackdone,True,False,user_08,0
+2024-09-26 19:29:00,Isolation - Remastered 2010,John Lennon,Plastic Ono Band,172253,trackdone,trackdone,True,False,user_08,0
+2024-09-28 02:11:00,Chicken Fried,Zac Brown Band,The Foundation,238146,trackdone,trackdone,False,False,user_08,0
+2024-10-02 01:23:00,Airbag,Radiohead,OK Computer,287880,trackdone,trackdone,True,False,user_08,1
+2024-10-03 02:59:00,Everything Will Be Alright,The Killers,Hot Fuss,344906,trackdone,trackdone,True,False,user_08,1
+2024-10-07 23:35:00,"The Fellowship Reunited (feat. Sir James Galway, Viggo Mortensen and Renée Fleming)",Howard Shore,The Lord of the Rings - The Return of the King - The Complete Recordings,738080,trackdone,trackdone,False,False,user_08,1
+2024-10-12 05:39:00,Airbag,Radiohead,OK Computer,287880,trackdone,trackdone,True,False,user_08,1
+2024-10-12 06:37:00,Horchata,Vampire Weekend,Contra,206733,trackdone,trackdone,True,False,user_08,0
+2024-10-13 00:41:00,Don't Stop Me Now,Queen,Jazz,209160,trackdone,trackdone,True,False,user_08,1
+2024-10-14 07:00:00,"Puccini: La bohème, Act I: Che gelida manina",Giacomo Puccini,Pavarotti Forever,278826,trackdone,trackdone,True,False,user_08,0
+2024-10-15 00:59:00,Chinatown (feat. Bruce Springsteen),Bleachers,Take the Sadness Out of Saturday Night,244186,trackdone,trackdone,True,False,user_08,0
+2024-10-15 01:38:00,Numb,Linkin Park,Meteora,1237,fwdbtn,fwdbtn,True,True,user_08,1
+2024-10-16 03:49:00,Holy Roller Novocaine,Kings of Leon,Youth And Young Manhood,197655,appload,trackdone,True,False,user_08,0
+2024-10-18 13:33:00,99 Problems,Hugo,Old Tyme Religion,137426,trackdone,trackdone,True,False,user_08,0
+2024-10-20 22:44:00,Paperback Writer - Remastered 2009,The Beatles,Past Masters,138560,fwdbtn,trackdone,True,False,user_08,0
+2024-10-23 23:27:00,Godzilla (feat. Juice WRLD),Eminem,Music To Be Murdered By,210800,trackdone,trackdone,False,False,user_08,1
+2024-10-24 17:31:00,Glass Onion - Remastered 2009,The Beatles,The Beatles,137840,trackdone,trackdone,False,False,user_08,0
+2024-10-24 22:26:00,Patiently Waiting,50 Cent,Get Rich Or Die Tryin',76198,fwdbtn,fwdbtn,False,True,user_08,0
+2024-10-25 00:01:00,Song Cry,JAY-Z,The Blueprint,302360,trackdone,trackdone,False,False,user_08,0
+2024-11-03 01:40:00,All the Above (feat. T-Pain),Maino,If Tomorrow Comes...,304626,trackdone,fwdbtn,False,True,user_08,0
+2024-11-07 06:48:00,Give Me Love,Ed Sheeran,+,260038,trackdone,endplay,True,True,user_08,0
+2024-11-08 03:01:00,Adam's Apple,Aerosmith,Toys In The Attic,226827,trackdone,logout,True,False,user_08,1
+2024-11-08 20:22:00,Five Years,Seu Jorge,The Life Aquatic Exclusive Studio Sessions Featuring Seu Jorge,135463,trackdone,fwdbtn,True,True,user_08,1
+2024-11-08 20:30:00,Little Black Submarines,The Black Keys,El Camino,251266,trackerror,trackdone,True,False,user_08,0
+2024-11-08 22:14:00,Stop Making This Hurt,Bleachers,Take the Sadness Out of Saturday Night,199626,fwdbtn,trackdone,True,False,user_08,0
+2024-11-08 23:45:00,Bellbottoms,The Jon Spencer Blues Explosion,Orange,31877,trackdone,fwdbtn,True,True,user_08,0
+2024-11-09 22:04:00,Bright Lights,The Killers,Bright Lights,250973,clickrow,trackdone,True,False,user_08,0
+2024-11-10 19:11:00,Hawaiian Roller Coaster Ride,Mark Keali'i Ho'omalu,Lilo & Stitch,48108,appload,trackdone,True,False,user_08,1
+2024-11-10 20:40:00,No Tengo Dinero,Juanes,Origen,211493,fwdbtn,trackdone,True,False,user_08,0
+2024-11-10 20:57:00,I Don't Care (with Justin Bieber),Ed Sheeran,No.6 Collaborations Project,2260,fwdbtn,fwdbtn,True,True,user_08,0
+2024-11-10 21:26:00,Outro,Diles que no me maten,La Vida De Alguien Más,188307,trackdone,trackdone,True,False,user_08,0
+2024-11-11 20:43:00,I Walk The Line - Single Version,Johnny Cash,With His Hot and Blue Guitar,2148,fwdbtn,fwdbtn,True,True,user_08,0
+2024-11-14 23:10:00,Highlife Time,George Darko,Rhythm On The Radio - Oval Records Singles 1974-1987,375266,trackdone,trackdone,True,False,user_08,0
+2024-11-26 20:37:00,Livin' in Sin,Dan Auerbach,Waiting on a Song,144586,trackdone,trackdone,True,False,user_08,0
+2024-11-28 19:28:00,Cold Desert,Kings of Leon,Only By The Night,334706,trackdone,trackdone,True,False,user_08,0
+2024-11-29 00:50:00,How Many More Times - Remaster,Led Zeppelin,Led Zeppelin,1233,fwdbtn,fwdbtn,True,True,user_08,1
+2024-12-08 18:48:00,Tenerife Sea,Ed Sheeran,x,1505,fwdbtn,fwdbtn,True,True,user_08,0
+2024-12-10 02:03:00,By the Way,Red Hot Chili Peppers,By the Way,163530,fwdbtn,fwdbtn,True,True,user_08,0
+2024-12-10 02:09:00,Why Don't You Get A Job,The Offspring,Americana,2764,fwdbtn,fwdbtn,True,True,user_08,0
